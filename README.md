@@ -1,10 +1,10 @@
 # :film_projector:	Data Analysis of Movies! :movie_camera:	
 
 <h2><strong>Overview:</strong></h2>
-1. Introduction and Purpose<br>
-2. Tech Stack<br>
-3. Future Considerations<br>
-4. Dataset Source
+1. Introduction and Purpose :performing_arts:	<br>
+2. Tech Stack :film_strip:	<br>
+3. Future Considerations :clapper:	<br>
+4. Dataset Source :vhs:	
 <br><hr><br>
 <h2><strong>Introduction:</strong></h2>
 <h3><br></h3>

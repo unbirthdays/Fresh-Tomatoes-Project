@@ -1,5 +1,5 @@
 # IMDb Scraper
-This Python application uses scrapy to scrape the IMDb feature films list. It scraps the top 1,000 films by user rating and pulls data from each movie into a JSON object and outputs everything to a JSON file. https://www.imdb.com/search/title/?title_type=feature&num_votes=25000,&sort=user_rating,desc&view=advanced
+This Python application uses scrapy to scrape the IMDb feature films list. It scrapes the top 1,000 films by user rating and pulls data from each movie into a JSON object and outputs everything to a JSON file. https://www.imdb.com/search/title/?title_type=feature&num_votes=25000,&sort=user_rating,desc&view=advanced
 
 
 ## Prerequisites
