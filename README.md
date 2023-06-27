@@ -11,7 +11,8 @@
 This project is a presentation of insights regarding the top 1,000 movies on iMDB according to rating and ranking.
 Some questions I answer are:<br>
 - What genres contain the best movies by rating?<br>
-- tbd
+- What movies have the highest difference in rating between iMDB vs Metacritic?<br>
+-  
 <br><br><br>
 The dataset description can be found in the txt file. Watch this demo video <s>here</s> to listen to me explain my findings.
 <br><hr><br>
@@ -23,7 +24,7 @@ Database Source: iMDB site scraped by ScraPy</br>
 <br><hr><br>
 <h2><strong>Future Considerations:</strong></h2>
 <ul>
-<li>tbd</li>
+<li>Retrieving the directors, stars, and gross revenue was skipped. This was because of the way the css wrappers were established in the css file. In the future, I would attempt to edit the ScraPy spider to fetch directors, main actors, and gross reveune.</li>
 </ul>
 <br><hr><br>
 <h2><strong>Dataset Source:</strong></h2><br>

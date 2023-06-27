@@ -25,7 +25,8 @@ class IMDBSpider(scrapy.Spider):
                 "rating": float(movie.css("div.ratings-imdb-rating strong::text").get()),
                 "genres": [x.strip() for x in movie.css("div.lister-item-content p.text-muted span.genre::text").get().split(",")], # Split the genres into a list
                 "runtime": int(movie.css("span.runtime::text").get().split(" ")[0]),
-                "votes": int(movie.css("div.lister-item-content p.sort-num_votes-visible span[name='nv']::text").get().replace(",", ""))
+                "votes": int(movie.css("div.lister-item-content p.sort-num_votes-visible span[name='nv']::text").get().replace(",", "")),
+                "metascore": movie.css("div.ratings-metascore span.metascore::text").get()
             }
 
             yield data
