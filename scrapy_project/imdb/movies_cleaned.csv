@@ -1,1001 +1,1001 @@
-title,year,rating,genres,runtime,votes,metascore,decade
-The Shawshank Redemption,1994,9.3,Drama,142,2757059,82.0,1990s
-The Godfather,1972,9.2,"Crime, Drama",175,1918435,100.0,1970s
-The Chaos Class,1975,9.2,"Comedy, Drama",87,41819,,1970s
-The Dark Knight,2008,9.0,"Action, Crime, Drama",152,2730041,84.0,2000s
-Schindler's List,1993,9.0,"Biography, Drama, History",195,1389557,95.0,1990s
-12 Angry Men,1957,9.0,"Crime, Drama",96,816794,97.0,1950s
-The Godfather Part II,1974,9.0,"Crime, Drama",202,1305818,90.0,1970s
-The Lord of the Rings: The Return of the King,2003,9.0,"Action, Adventure, Drama",201,1893300,94.0,2000s
-Mirror Game,2016,9.0,"Crime, Mystery, Thriller",147,27659,,2010s
-Spider-Man: Across the Spider-Verse,2023,8.9,"Animation, Action, Adventure",140,153840,86.0,2020s
-Pulp Fiction,1994,8.9,"Crime, Drama",154,2117056,95.0,1990s
-Inception,2010,8.8,"Action, Adventure, Sci-Fi",148,2422729,74.0,2010s
-The Lord of the Rings: The Fellowship of the Ring,2001,8.8,"Action, Adventure, Drama",178,1921780,92.0,2000s
-Fight Club,1999,8.8,Drama,139,2195220,66.0,1990s
-Forrest Gump,1994,8.8,"Drama, Romance",142,2144505,82.0,1990s
-"The Good, the Bad and the Ugly",1966,8.8,"Adventure, Western",178,779742,90.0,1960s
-The Lord of the Rings: The Two Towers,2002,8.8,"Action, Adventure, Drama",179,1708670,87.0,2000s
-Jai Bhim,2021,8.8,"Crime, Drama, Mystery",164,207501,,2020s
-777 Charlie,2022,8.8,"Adventure, Comedy, Drama",164,35235,,2020s
-Rocketry: The Nambi Effect,2022,8.8,"Biography, Drama",157,53904,,2020s
-Interstellar,2014,8.7,"Adventure, Drama, Sci-Fi",169,1924053,74.0,2010s
-Goodfellas,1990,8.7,"Biography, Crime, Drama",145,1196548,92.0,1990s
-The Matrix,1999,8.7,"Action, Sci-Fi",136,1964827,73.0,1990s
-One Flew Over the Cuckoo's Nest,1975,8.7,Drama,133,1031651,84.0,1970s
-Star Wars: Episode V - The Empire Strikes Back,1980,8.7,"Action, Adventure, Fantasy",124,1325689,82.0,1980s
-The Kashmir Files,2022,8.7,Drama,170,569712,,2020s
-Soorarai Pottru,2020,8.7,"Action, Drama",153,119786,,2020s
-The Green Mile,1999,8.6,"Crime, Drama, Fantasy",189,1340521,61.0,1990s
-Terminator 2: Judgment Day,1991,8.6,"Action, Sci-Fi",137,1127211,75.0,1990s
-Se7en,1995,8.6,"Crime, Drama, Mystery",127,1704588,65.0,1990s
-The Silence of the Lambs,1991,8.6,"Crime, Drama, Thriller",118,1472719,86.0,1990s
-Saving Private Ryan,1998,8.6,"Drama, War",169,1428317,91.0,1990s
-Star Wars: Episode IV - A New Hope,1977,8.6,"Action, Adventure, Fantasy",121,1397930,90.0,1970s
-Spirited Away,2001,8.6,"Animation, Adventure, Family",125,794145,96.0,2000s
-City of God,2002,8.6,"Crime, Drama",130,773064,79.0,2000s
-Life Is Beautiful,1997,8.6,"Comedy, Drama, Romance",116,713308,59.0,1990s
-Seven Samurai,1954,8.6,"Action, Drama",207,353854,98.0,1950s
-It's a Wonderful Life,1946,8.6,"Drama, Family, Fantasy",130,473527,89.0,1940s
-Harakiri,1962,8.6,"Action, Drama, Mystery",133,61503,85.0,1960s
-Sita Ramam,2022,8.6,"Action, Drama, Mystery",163,60798,,2020s
-Back to the Future,1985,8.5,"Adventure, Comedy, Sci-Fi",116,1244182,87.0,1980s
-The Departed,2006,8.5,"Crime, Drama, Thriller",151,1361074,85.0,2000s
-Alien,1979,8.5,"Horror, Sci-Fi",117,906446,89.0,1970s
-Gladiator,2000,8.5,"Action, Adventure, Drama",155,1541196,67.0,2000s
-Parasite,2019,8.5,"Drama, Thriller",132,861485,96.0,2010s
-Whiplash,2014,8.5,"Drama, Music",106,910358,89.0,2010s
-The Prestige,2006,8.5,"Drama, Mystery, Sci-Fi",130,1369244,66.0,2000s
-Léon: The Professional,1994,8.5,"Action, Crime, Drama",110,1193455,64.0,1990s
-Casablanca,1942,8.5,"Drama, Romance, War",102,585294,100.0,1940s
-American History X,1998,8.5,"Crime, Drama",119,1146249,62.0,1990s
-The Lion King,1994,8.5,"Animation, Adventure, Drama",88,1089781,88.0,1990s
-The Usual Suspects,1995,8.5,"Crime, Drama, Mystery",106,1107239,77.0,1990s
-The Pianist,2002,8.5,"Biography, Drama, Music",150,859681,85.0,2000s
-Psycho,1960,8.5,"Horror, Mystery, Thriller",109,689936,97.0,1960s
-The Intouchables,2011,8.5,"Biography, Comedy, Drama",112,884637,57.0,2010s
-Once Upon a Time in the West,1968,8.5,Western,165,338035,82.0,1960s
-Grave of the Fireflies,1988,8.5,"Animation, Drama, War",89,288880,94.0,1980s
-Rear Window,1954,8.5,"Mystery, Thriller",112,503289,100.0,1950s
-Cinema Paradiso,1988,8.5,"Drama, Romance",155,269400,80.0,1980s
-Modern Times,1936,8.5,"Comedy, Drama, Romance",87,249113,96.0,1930s
-City Lights,1931,8.5,"Comedy, Drama, Romance",87,189059,99.0,1930s
-96,2018,8.5,"Drama, Romance",158,33328,,2010s
-Spider-Man: Into the Spider-Verse,2018,8.4,"Animation, Action, Adventure",117,597185,87.0,2010s
-Indiana Jones and the Raiders of the Lost Ark,1981,8.4,"Action, Adventure",115,993225,85.0,1980s
-Avengers: Endgame,2019,8.4,"Action, Adventure, Drama",181,1187959,78.0,2010s
-Django Unchained,2012,8.4,"Drama, Western",165,1606249,81.0,2010s
-Joker,2019,8.4,"Crime, Drama, Thriller",122,1363522,59.0,2010s
-Aliens,1986,8.4,"Action, Adventure, Sci-Fi",137,734632,84.0,1980s
-The Shining,1980,8.4,"Drama, Horror",146,1053145,66.0,1980s
-Apocalypse Now,1979,8.4,"Drama, Mystery, War",147,684122,94.0,1970s
-Oldboy,2003,8.4,"Action, Drama, Mystery",120,598761,77.0,2000s
-The Dark Knight Rises,2012,8.4,"Action, Drama, Thriller",164,1747777,78.0,2010s
-Avengers: Infinity War,2018,8.4,"Action, Adventure, Sci-Fi",149,1130752,68.0,2010s
-Memento,2000,8.4,"Mystery, Thriller",113,1267400,81.0,2000s
-Amadeus,1984,8.4,"Biography, Drama, Music",160,410903,88.0,1980s
-Coco,2017,8.4,"Animation, Adventure, Drama",105,538844,81.0,2010s
-Come and See,1985,8.4,"Drama, Thriller, War",142,86738,,1980s
-WALL·E,2008,8.4,"Animation, Adventure, Family",98,1147676,95.0,2000s
-Your Name.,2016,8.4,"Animation, Drama, Fantasy",106,289378,81.0,2010s
-Das Boot,1981,8.4,"Drama, War",149,256268,86.0,1980s
-The Lives of Others,2006,8.4,"Drama, Mystery, Thriller",137,397531,89.0,2000s
-Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,8.4,"Comedy, War",95,501584,97.0,1960s
-Capernaum,2018,8.4,Drama,126,95923,75.0,2010s
-Sunset Blvd.,1950,8.4,"Drama, Film-Noir",110,227649,94.0,1950s
-3 Idiots,2009,8.4,"Comedy, Drama",170,412247,67.0,2000s
-Paths of Glory,1957,8.4,"Drama, War",88,202842,90.0,1950s
-Witness for the Prosecution,1957,8.4,"Crime, Drama, Mystery",116,130041,76.0,1950s
-The Great Dictator,1940,8.4,"Comedy, Drama, War",125,229347,,1940s
-High and Low,1963,8.4,"Crime, Drama, Mystery",143,48131,90.0,1960s
-Kaithi,2019,8.4,"Action, Adventure, Crime",145,36479,,2010s
-Sardar Udham,2021,8.4,"Biography, Crime, Drama",164,44336,,2020s
-Dil Bechara,2020,8.4,"Comedy, Drama, Romance",101,132835,,2020s
-Asuran,2019,8.4,"Action, Drama",141,31366,,2010s
-Drishyam 2,2021,8.4,"Crime, Drama, Thriller",152,39156,,2020s
-Top Gun: Maverick,2022,8.3,"Action, Drama",130,600339,78.0,2020s
-Heat,1995,8.3,"Action, Crime, Drama",170,679981,76.0,1990s
-Inglourious Basterds,2009,8.3,"Adventure, Drama, War",153,1497946,69.0,2000s
-To Kill a Mockingbird,1962,8.3,"Crime, Drama",129,323023,88.0,1960s
-Requiem for a Dream,2000,8.3,Drama,102,864101,71.0,2000s
-Scarface,1983,8.3,"Crime, Drama",170,869618,65.0,1980s
-American Beauty,1999,8.3,Drama,122,1175957,84.0,1990s
-Good Will Hunting,1997,8.3,"Drama, Romance",126,1007635,70.0,1990s
-Up,2009,8.3,"Animation, Adventure, Comedy",96,1074001,88.0,2000s
-A Clockwork Orange,1971,8.3,"Crime, Sci-Fi",136,850245,77.0,1970s
-2001: A Space Odyssey,1968,8.3,"Adventure, Sci-Fi",149,687850,84.0,1960s
-Braveheart,1995,8.3,"Biography, Drama, History",178,1058150,68.0,1990s
-Full Metal Jacket,1987,8.3,"Drama, War",116,761086,78.0,1980s
-Eternal Sunshine of the Spotless Mind,2004,8.3,"Drama, Romance, Sci-Fi",108,1034291,89.0,2000s
-Once Upon a Time in America,1984,8.3,"Crime, Drama",229,361537,75.0,1980s
-Toy Story,1995,8.3,"Animation, Adventure, Comedy",81,1022378,96.0,1990s
-Reservoir Dogs,1992,8.3,"Crime, Thriller",99,1046136,81.0,1990s
-Hamilton,2020,8.3,"Biography, Drama, History",160,102453,89.0,2020s
-The Hunt,2012,8.3,Drama,115,342926,77.0,2010s
-Star Wars: Episode VI - Return of the Jedi,1983,8.3,"Action, Adventure, Fantasy",131,1080956,58.0,1980s
-Amélie,2001,8.3,"Comedy, Romance",122,771269,69.0,2000s
-Toy Story 3,2010,8.3,"Animation, Adventure, Comedy",103,858217,92.0,2010s
-Incendies,2010,8.3,"Drama, Mystery",131,185059,80.0,2010s
-Lawrence of Arabia,1962,8.3,"Adventure, Biography, Drama",218,302085,100.0,1960s
-Princess Mononoke,1997,8.3,"Animation, Action, Adventure",134,408501,76.0,1990s
-North by Northwest,1959,8.3,"Action, Adventure, Mystery",136,335473,98.0,1950s
-Metropolis,1927,8.3,"Drama, Sci-Fi",153,178715,98.0,1920s
-The Sting,1973,8.3,"Comedy, Crime, Drama",129,270209,83.0,1970s
-Citizen Kane,1941,8.3,"Drama, Mystery",119,451754,100.0,1940s
-Vertigo,1958,8.3,"Mystery, Romance, Thriller",128,411961,100.0,1950s
-Singin' in the Rain,1952,8.3,"Comedy, Musical, Romance",103,249735,99.0,1950s
-Ikiru,1952,8.3,Drama,143,82241,92.0,1950s
-A Separation,2011,8.3,Drama,123,250059,95.0,2010s
-The Apartment,1960,8.3,"Comedy, Drama, Romance",125,187213,94.0,1960s
-Dangal,2016,8.3,"Action, Biography, Drama",161,198150,,2010s
-M,1931,8.3,"Crime, Mystery, Thriller",99,162135,,1930s
-Kantara,2022,8.3,"Action, Adventure, Drama",148,96202,,2020s
-Judgment at Nuremberg,1961,8.3,"Drama, War",179,80279,60.0,1960s
-Double Indemnity,1944,8.3,"Crime, Drama, Film-Noir",107,161235,95.0,1940s
-Like Stars on Earth,2007,8.3,"Drama, Family",165,198633,,2000s
-Bicycle Thieves,1948,8.3,Drama,89,168104,,1940s
-K.G.F: Chapter 2,2022,8.3,"Action, Crime, Drama",168,140270,,2020s
-Ayla: The Daughter of War,2017,8.3,"Biography, Drama, History",125,41772,,2010s
-Vikram,2022,8.3,"Action, Crime, Thriller",175,64325,,2020s
-The Kid,1921,8.3,"Comedy, Drama, Family",68,129702,,1920s
-Shershaah,2021,8.3,"Action, Biography, Drama",135,125129,,2020s
-Chhichhore,2019,8.3,"Comedy, Drama, Romance",143,58200,,2010s
-Raatchasan,2018,8.3,"Action, Crime, Drama",170,47221,,2010s
-Drishyam,2013,8.3,"Crime, Drama, Thriller",160,42717,,2010s
-Guardians of the Galaxy Vol. 3,2023,8.2,"Action, Adventure, Comedy",150,178099,64.0,2020s
-Indiana Jones and the Last Crusade,1989,8.2,"Action, Adventure",127,775203,65.0,1980s
-Spider-Man: No Way Home,2021,8.2,"Action, Adventure, Fantasy",148,806468,71.0,2020s
-There Will Be Blood,2007,8.2,Drama,158,605440,93.0,2000s
-The Wolf of Wall Street,2013,8.2,"Biography, Comedy, Crime",180,1470690,75.0,2010s
-Jurassic Park,1993,8.2,"Action, Adventure, Sci-Fi",127,1018527,68.0,1990s
-No Country for Old Men,2007,8.2,"Crime, Drama, Thriller",122,1005315,92.0,2000s
-Shutter Island,2010,8.2,"Mystery, Thriller",138,1367348,63.0,2010s
-Taxi Driver,1976,8.2,"Crime, Drama",114,868098,94.0,1970s
-Batman Begins,2005,8.2,"Action, Crime, Drama",140,1508613,70.0,2000s
-The Truman Show,1998,8.2,"Comedy, Drama",103,1122005,90.0,1990s
-1917,2019,8.2,"Action, Drama, War",119,624979,78.0,2010s
-Green Book,2018,8.2,"Biography, Comedy, Drama",130,522391,69.0,2010s
-The Thing,1982,8.2,"Horror, Mystery, Sci-Fi",109,440490,57.0,1980s
-Snatch,2000,8.2,"Comedy, Crime",102,876461,55.0,2000s
-Howl's Moving Castle,2004,8.2,"Animation, Adventure, Family",119,414483,82.0,2000s
-Casino,1995,8.2,"Crime, Drama",178,536808,73.0,1990s
-Finding Nemo,2003,8.2,"Animation, Adventure, Comedy",100,1070157,90.0,2000s
-Kill Bill: Vol. 1,2003,8.2,"Action, Crime, Thriller",111,1144209,69.0,2000s
-L.A. Confidential,1997,8.2,"Crime, Drama, Mystery",138,594658,91.0,1990s
-A Beautiful Mind,2001,8.2,"Biography, Drama",135,952769,72.0,2000s
-The Sixth Sense,1999,8.2,"Drama, Mystery, Thriller",107,1013607,64.0,1990s
-The Father,2020,8.2,"Drama, Mystery",97,170547,88.0,2020s
-Die Hard,1988,8.2,"Action, Thriller",132,903636,72.0,1980s
-The Great Escape,1963,8.2,"Adventure, Drama, History",172,250146,86.0,1960s
-Unforgiven,1992,8.2,"Drama, Western",130,422048,85.0,1990s
-Downfall,2004,8.2,"Biography, Drama, History",156,363254,82.0,2000s
-Monty Python and the Holy Grail,1975,8.2,"Adventure, Comedy, Fantasy",91,553207,91.0,1970s
-Chinatown,1974,8.2,"Drama, Mystery, Thriller",130,335694,92.0,1970s
-V for Vendetta,2005,8.2,"Action, Drama, Sci-Fi",132,1143386,62.0,2000s
-Pan's Labyrinth,2006,8.2,"Drama, Fantasy, War",118,682447,98.0,2000s
-Gone with the Wind,1939,8.2,"Drama, Romance, War",238,323241,97.0,1930s
-Demon Slayer the Movie: Mugen Train,2020,8.2,"Animation, Action, Adventure",117,65319,72.0,2020s
-The Elephant Man,1980,8.2,"Biography, Drama",124,248698,78.0,1980s
-Some Like It Hot,1959,8.2,"Comedy, Music, Romance",121,273900,98.0,1950s
-The Secret in Their Eyes,2009,8.2,"Drama, Mystery, Romance",129,214702,80.0,2000s
-Ran,1985,8.2,"Action, Drama, War",162,129715,97.0,1980s
-For a Few Dollars More,1965,8.2,"Drama, Western",132,263562,74.0,1960s
-Tumbbad,2018,8.2,"Drama, Fantasy, Horror",104,53465,,2010s
-Drishyam 2,2022,8.2,"Crime, Drama, Mystery",140,37840,,2020s
-Klaus,2019,8.2,"Animation, Adventure, Comedy",96,167262,65.0,2010s
-All About Eve,1950,8.2,Drama,138,134411,98.0,1950s
-Dial M for Murder,1954,8.2,"Crime, Thriller",105,181196,75.0,1950s
-Gangs of Wasseypur,2012,8.2,"Action, Comedy, Crime",321,99599,89.0,2010s
-Miracle in Cell No. 7,2019,8.2,Drama,132,51956,,2010s
-Rashomon,1950,8.2,"Crime, Drama, Mystery",88,173250,98.0,1950s
-The Treasure of the Sierra Madre,1948,8.2,"Adventure, Drama, Western",126,128295,98.0,1940s
-Yojimbo,1961,8.2,"Action, Drama, Thriller",110,126244,93.0,1960s
-Baahubali 2: The Conclusion,2017,8.2,"Action, Drama",167,107536,,2010s
-Drishyam,2015,8.2,"Crime, Drama, Mystery",163,89051,,2010s
-Z,1969,8.2,"Crime, Drama, Thriller",127,30087,86.0,1960s
-Tokyo Story,1953,8.2,Drama,136,64390,100.0,1950s
-Zindagi Na Milegi Dobara,2011,8.2,"Comedy, Drama, Musical",155,81733,,2010s
-Uri: The Surgical Strike,2019,8.2,"Action, Drama, History",138,67851,,2010s
-Andhadhun,2018,8.2,"Crime, Mystery, Thriller",139,97545,,2010s
-Children of Heaven,1997,8.2,"Drama, Family, Sport",89,77014,77.0,1990s
-To Be or Not to Be,1942,8.2,"Comedy, Romance, War",99,39854,86.0,1940s
-The Wages of Fear,1953,8.2,"Adventure, Drama, Thriller",131,63382,85.0,1950s
-The Passion of Joan of Arc,1928,8.2,"Biography, Drama, History",114,57510,98.0,1920s
-Pather Panchali,1955,8.2,Drama,125,35239,,1950s
-K.G.F: Chapter 1,2018,8.2,"Action, Crime, Drama",156,92044,,2010s
-Dersu Uzala,1975,8.2,"Adventure, Biography, Drama",142,32012,,1970s
-The Mountain II,2016,8.2,"Action, Drama, War",135,109260,,2010s
-My Father and My Son,2005,8.2,"Drama, Family",112,88610,,2000s
-Vikram Vedha,2017,8.2,"Action, Crime, Drama",147,47960,,2010s
-Sherlock Jr.,1924,8.2,"Action, Comedy, Romance",45,52748,,1920s
-Swades,2004,8.2,"Drama, Musical",189,93825,,2000s
-Umberto D.,1952,8.2,Drama,89,26894,92.0,1950s
-Farha,2021,8.2,Drama,92,79645,,2020s
-Paan Singh Tomar,2012,8.2,"Action, Biography, Crime",135,37108,,2010s
-Rangasthalam 1985,2018,8.2,"Action, Drama",170,26251,,2010s
-Bhaag Milkha Bhaag,2013,8.2,"Biography, Drama, Sport",186,69957,,2010s
-Jaws,1975,8.1,"Adventure, Mystery, Thriller",124,626967,87.0,1970s
-The Grand Budapest Hotel,2014,8.1,"Adventure, Comedy, Crime",99,842555,88.0,2010s
-The Terminator,1984,8.1,"Action, Sci-Fi",107,888789,84.0,1980s
-Prisoners,2013,8.1,"Crime, Drama, Mystery",153,750857,70.0,2010s
-Mad Max: Fury Road,2015,8.1,"Action, Adventure, Sci-Fi",120,1033785,90.0,2010s
-Pirates of the Caribbean: The Curse of the Black Pearl,2003,8.1,"Action, Adventure, Fantasy",143,1157694,63.0,2000s
-Hacksaw Ridge,2016,8.1,"Biography, Drama, History",139,552973,71.0,2010s
-Gone Girl,2014,8.1,"Drama, Mystery, Thriller",149,1012065,79.0,2010s
-Blade Runner,1982,8.1,"Action, Drama, Sci-Fi",117,790593,84.0,1980s
-The Deer Hunter,1978,8.1,"Drama, War",183,347622,86.0,1970s
-The Big Lebowski,1998,8.1,"Comedy, Crime",117,829442,71.0,1990s
-Catch Me If You Can,2002,8.1,"Biography, Crime, Drama",141,1026453,75.0,2000s
-The Help,2011,8.1,Drama,146,473947,62.0,2010s
-The Exorcist,1973,8.1,Horror,122,423015,81.0,1970s
-Inside Out,2015,8.1,"Animation, Adventure, Comedy",95,740217,94.0,2010s
-Stand by Me,1986,8.1,"Adventure, Drama",89,419072,75.0,1980s
-Ratatouille,2007,8.1,"Animation, Adventure, Comedy",111,771059,96.0,2000s
-Ford v Ferrari,2019,8.1,"Action, Biography, Drama",152,422587,81.0,2010s
-Rocky,1976,8.1,"Drama, Sport",120,600826,70.0,1970s
-Harry Potter and the Deathly Hallows: Part 2,2011,8.1,"Adventure, Family, Fantasy",130,903950,85.0,2010s
-"Three Billboards Outside Ebbing, Missouri",2017,8.1,"Comedy, Crime, Drama",115,528001,88.0,2010s
-The Handmaiden,2016,8.1,"Drama, Romance, Thriller",145,158093,85.0,2010s
-Logan,2017,8.1,"Action, Drama, Sci-Fi",137,791150,77.0,2010s
-Before Sunrise,1995,8.1,"Drama, Romance",101,321797,77.0,1990s
-Trainspotting,1996,8.1,Drama,93,702721,83.0,1990s
-"Monsters, Inc.",2001,8.1,"Animation, Adventure, Comedy",92,935722,79.0,2000s
-Dead Poets Society,1989,8.1,"Comedy, Drama",128,512327,79.0,1980s
-The Wizard of Oz,1939,8.1,"Adventure, Family, Fantasy",102,411699,92.0,1930s
-Fargo,1996,8.1,"Crime, Thriller",98,694610,86.0,1990s
-Into the Wild,2007,8.1,"Adventure, Biography, Drama",148,636655,73.0,2000s
-Memories of Murder,2003,8.1,"Crime, Drama, Mystery",132,197162,82.0,2000s
-12 Years a Slave,2013,8.1,"Biography, Drama, History",134,717596,96.0,2010s
-Rush,2013,8.1,"Action, Biography, Drama",123,492625,74.0,2010s
-The Sound of Music,1965,8.1,"Biography, Drama, Family",172,245589,63.0,1960s
-Spotlight,2015,8.1,"Biography, Crime, Drama",129,483688,93.0,2010s
-Room,2015,8.1,"Drama, Thriller",118,433072,86.0,2010s
-Platoon,1986,8.1,"Drama, War",120,424341,92.0,1980s
-How to Train Your Dragon,2010,8.1,"Animation, Action, Adventure",98,764406,75.0,2010s
-"Lock, Stock and Two Smoking Barrels",1998,8.1,"Action, Comedy, Crime",107,596651,66.0,1990s
-Gran Torino,2008,8.1,Drama,116,791392,72.0,2000s
-Warrior,2011,8.1,"Action, Drama, Sport",140,482900,71.0,2010s
-Portrait of a Lady on Fire,2019,8.1,Drama,122,99559,95.0,2010s
-Million Dollar Baby,2004,8.1,"Drama, Sport",132,701407,86.0,2000s
-Raging Bull,1980,8.1,"Biography, Drama, Sport",129,364248,90.0,1980s
-My Neighbor Totoro,1988,8.1,"Animation, Comedy, Family",86,354537,86.0,1980s
-In the Mood for Love,2000,8.1,"Drama, Romance",98,157473,87.0,2000s
-Cool Hand Luke,1967,8.1,"Crime, Drama",127,182303,92.0,1960s
-Before Sunset,2004,8.1,"Drama, Romance",80,274948,91.0,2000s
-Hachi: A Dog's Tale,2009,8.1,"Biography, Drama, Family",93,296080,,2000s
-Barry Lyndon,1975,8.1,"Adventure, Drama, War",185,174383,89.0,1970s
-Wild Tales,2014,8.1,"Comedy, Drama, Thriller",122,206104,77.0,2010s
-The Iron Giant,1999,8.1,"Animation, Action, Adventure",86,210705,85.0,1990s
-Inherit the Wind,1960,8.1,"Biography, Drama, History",128,31560,75.0,1960s
-Stalker,1979,8.1,"Drama, Sci-Fi",162,138856,85.0,1970s
-Network,1976,8.1,Drama,121,163978,83.0,1970s
-La haine,1995,8.1,"Crime, Drama",98,182292,,1990s
-A Silent Voice: The Movie,2016,8.1,"Animation, Drama",130,90631,78.0,2010s
-"Paris, Texas",1984,8.1,Drama,145,111065,81.0,1980s
-The Seventh Seal,1957,8.1,"Drama, Fantasy",96,190460,88.0,1950s
-Hotel Rwanda,2004,8.1,"Biography, Drama, History",121,362600,79.0,2000s
-Ben-Hur,1959,8.1,"Adventure, Drama",212,245725,90.0,1950s
-On the Waterfront,1954,8.1,"Crime, Drama, Thriller",108,158955,91.0,1950s
-In the Name of the Father,1993,8.1,"Biography, Crime, Drama",133,180332,84.0,1990s
-The Bridge on the River Kwai,1957,8.1,"Adventure, Drama, War",161,226207,87.0,1950s
-Persona,1966,8.1,"Drama, Thriller",83,124155,86.0,1960s
-Amores Perros,2000,8.1,"Drama, Thriller",154,245910,83.0,2000s
-The Third Man,1949,8.1,"Film-Noir, Mystery, Thriller",93,175763,97.0,1940s
-A Woman Under the Influence,1974,8.1,"Drama, Romance",155,26915,88.0,1970s
-The Man Who Shot Liberty Valance,1962,8.1,"Drama, Western",123,79211,94.0,1960s
-Neon Genesis Evangelion: The End of Evangelion,1997,8.1,"Animation, Action, Drama",87,58978,,1990s
-Rebecca,1940,8.1,"Drama, Film-Noir, Mystery",130,141181,86.0,1940s
-The Best Years of Our Lives,1946,8.1,"Drama, Romance, War",170,67314,93.0,1940s
-Paper Moon,1973,8.1,"Comedy, Crime, Drama",102,49975,77.0,1970s
-Mary and Max,2009,8.1,"Animation, Comedy, Drama",92,181238,,2000s
-It Happened One Night,1934,8.1,"Comedy, Romance",105,107661,87.0,1930s
-All Quiet on the Western Front,1930,8.1,"Drama, War",152,65611,91.0,1930s
-Three Colors: Red,1994,8.1,"Drama, Mystery, Romance",99,106580,100.0,1990s
-The Celebration,1998,8.1,Drama,105,90315,82.0,1990s
-PK,2014,8.1,"Comedy, Drama, Sci-Fi",153,193648,,2010s
-The Grapes of Wrath,1940,8.1,Drama,129,96417,96.0,1940s
-Fanny and Alexander,1982,8.1,Drama,188,65541,100.0,1980s
-The 400 Blows,1959,8.1,"Crime, Drama",99,122568,,1950s
-Wild Strawberries,1957,8.1,"Drama, Romance",91,110316,88.0,1950s
-Ace in the Hole,1951,8.1,"Drama, Film-Noir",111,37572,72.0,1950s
-Andrei Rublev,1966,8.1,"Biography, Drama, History",205,55332,,1960s
-Underground,1995,8.1,"Comedy, Drama, Fantasy",167,59723,79.0,1990s
-Farewell My Concubine,1993,8.1,"Drama, Music, Romance",171,30996,83.0,1990s
-Yi Yi: A One and a Two...,2000,8.1,"Drama, Romance",173,26385,94.0,2000s
-Lagaan: Once Upon a Time in India,2001,8.1,"Drama, Musical, Sport",224,117189,84.0,2000s
-The Message,1976,8.1,"Biography, Drama, History",177,49149,,1970s
-The Red Shoes,1948,8.1,"Drama, Music, Romance",135,36977,,1940s
-Winter Sleep,2014,8.1,Drama,196,53354,88.0,2010s
-Mr. Smith Goes to Washington,1939,8.1,"Comedy, Drama",129,117877,73.0,1930s
-Throne of Blood,1957,8.1,Drama,110,53950,,1950s
-The Battle of Algiers,1966,8.1,"Drama, War",121,62629,96.0,1960s
-The Hidden Fortress,1958,8.1,"Action, Adventure, Drama",126,40567,89.0,1950s
-Wolf Children,2012,8.1,"Animation, Drama, Family",117,47093,71.0,2010s
-Sunrise,1927,8.1,"Drama, Romance",94,52441,95.0,1920s
-Dil Chahta Hai,2001,8.1,"Comedy, Drama, Romance",183,73937,,2000s
-Barfi!,2012,8.1,"Comedy, Drama, Romance",151,84224,,2010s
-Masaan,2015,8.1,Drama,109,29417,,2010s
-Kahaani,2012,8.1,"Mystery, Thriller",122,64138,,2010s
-White Heat,1949,8.1,"Action, Crime, Drama",114,34362,,1940s
-The General,1926,8.1,"Action, Adventure, Comedy",67,94155,,1920s
-Diabolique,1955,8.1,"Crime, Drama, Horror",117,67508,,1950s
-The Gold Rush,1925,8.1,"Adventure, Comedy, Drama",95,114209,,1920s
-Autumn Sonata,1978,8.1,"Drama, Music",99,35980,,1970s
-Talvar,2015,8.1,"Crime, Drama, Mystery",132,36610,,2010s
-Let's Go! India,2007,8.1,"Drama, Family, Sport",153,82388,68.0,2000s
-Nights of Cabiria,1957,8.1,Drama,110,50488,,1950s
-Rang De Basanti,2006,8.1,"Comedy, Crime, Drama",167,120606,,2000s
-Raise the Red Lantern,1991,8.1,"Drama, Romance",125,34033,,1990s
-Bajrangi Bhaijaan,2015,8.1,"Action, Adventure, Comedy",163,92292,,2010s
-Sholay,1975,8.1,"Action, Adventure, Comedy",162,57210,,1970s
-Jean de Florette,1986,8.1,"Comedy, Drama",120,26724,,1980s
-A Wednesday,2008,8.1,"Action, Crime, Drama",104,80342,,2000s
-Rififi,1955,8.1,"Crime, Drama, Thriller",118,35680,97.0,1950s
-The Virgin Spring,1960,8.1,Drama,89,30465,,1960s
-The Grand Illusion,1937,8.1,"Drama, War",113,37745,,1930s
-Major,2022,8.1,"Action, Biography, Drama",150,30642,,2020s
-Time of the Gypsies,1988,8.1,"Comedy, Crime, Drama",142,31757,,1980s
-Article 15,2019,8.1,"Crime, Drama, Mystery",130,35273,,2010s
-Queen,2013,8.1,"Adventure, Comedy, Drama",146,67142,,2010s
-Sarfarosh,1999,8.1,"Action, Drama, Thriller",174,26275,,1990s
-Munna Bhai M.B.B.S.,2003,8.1,"Comedy, Drama",156,84757,,2000s
-Tangerines,2013,8.1,"Drama, War",87,47609,73.0,2010s
-Viridiana,1961,8.1,Drama,91,25261,,1960s
-Pink,2016,8.1,"Crime, Drama, Thriller",136,46561,,2010s
-The Tashkent Files,2019,8.1,"Drama, Mystery, Thriller",134,35218,,2010s
-Hera Pheri,2000,8.1,"Action, Comedy, Crime",156,69611,,2000s
-The Bandit,1996,8.1,"Crime, Drama, Thriller",128,70949,,1990s
-The Circus,1928,8.1,"Comedy, Family, Romance",72,34943,90.0,1920s
-OMG: Oh My God!,2012,8.1,"Comedy, Drama, Fantasy",125,60871,,2010s
-Udaan,2010,8.1,Drama,134,45959,,2010s
-Black,2005,8.1,Drama,122,35514,,2000s
-Dara of Jasenovac,2020,8.1,"Drama, War",130,81439,,2020s
-Everything's Gonna Be Great,1998,8.1,"Comedy, Drama, Thriller",107,26364,,1990s
-Thuppakki,2012,8.1,"Action, Thriller",165,35985,,2010s
-Kaththi,2014,8.1,"Action, Drama",166,28389,,2010s
-Anand,1971,8.1,"Drama, Musical",122,34484,,1970s
-Dune: Part One,2021,8.0,"Action, Adventure, Drama",155,685932,74.0,2020s
-Zack Snyder's Justice League,2021,8.0,"Action, Adventure, Fantasy",242,415674,54.0,2020s
-Guardians of the Galaxy,2014,8.0,"Action, Adventure, Comedy",121,1225272,76.0,2010s
-Blade Runner 2049,2017,8.0,"Action, Drama, Mystery",164,607810,81.0,2010s
-Black Swan,2010,8.0,"Drama, Thriller",108,791108,79.0,2010s
-The Princess Bride,1987,8.0,"Adventure, Comedy, Family",98,437090,77.0,1980s
-The Incredibles,2004,8.0,"Animation, Action, Adventure",115,765428,90.0,2000s
-The Avengers,2012,8.0,"Action, Sci-Fi",143,1419719,69.0,2010s
-Deadpool,2016,8.0,"Action, Comedy",108,1072268,65.0,2010s
-La La Land,2016,8.0,"Comedy, Drama, Music",128,618481,94.0,2010s
-Do the Right Thing,1989,8.0,"Comedy, Drama",120,106958,93.0,1980s
-Her,2013,8.0,"Drama, Romance, Sci-Fi",126,638521,91.0,2010s
-Zootopia,2016,8.0,"Animation, Adventure, Comedy",108,518785,78.0,2010s
-Donnie Darko,2001,8.0,"Drama, Mystery, Sci-Fi",113,821591,88.0,2000s
-The Martian,2015,8.0,"Adventure, Drama, Sci-Fi",144,882126,80.0,2010s
-Casino Royale,2006,8.0,"Action, Adventure, Thriller",144,672575,80.0,2000s
-CODA,2021,8.0,"Comedy, Drama, Music",111,147466,72.0,2020s
-Sin City,2005,8.0,"Crime, Thriller",124,780266,74.0,2000s
-The Imitation Game,2014,8.0,"Biography, Drama, Thriller",114,791289,71.0,2010s
-The Revenant,2015,8.0,"Action, Adventure, Drama",156,830464,76.0,2010s
-Dances with Wolves,1990,8.0,"Adventure, Drama, Western",181,277605,72.0,1990s
-Fiddler on the Roof,1971,8.0,"Drama, Family, Musical",181,45649,67.0,1970s
-Soul,2020,8.0,"Animation, Adventure, Comedy",100,348040,83.0,2020s
-Blood Diamond,2006,8.0,"Adventure, Drama, Thriller",143,565523,64.0,2000s
-Aladdin,1992,8.0,"Animation, Adventure, Comedy",90,439550,86.0,1990s
-Groundhog Day,1993,8.0,"Comedy, Drama, Fantasy",101,653135,72.0,1990s
-Rain Man,1988,8.0,Drama,133,527986,65.0,1980s
-Dog Day Afternoon,1975,8.0,"Biography, Crime, Drama",125,264733,86.0,1970s
-Scent of a Woman,1992,8.0,Drama,156,311436,59.0,1990s
-Big Fish,2003,8.0,"Adventure, Drama, Fantasy",125,448989,58.0,2000s
-Young Frankenstein,1974,8.0,Comedy,106,163276,83.0,1970s
-The Graduate,1967,8.0,"Comedy, Drama, Romance",106,280726,83.0,1960s
-Beauty and the Beast,1991,8.0,"Animation, Family, Fantasy",84,465943,95.0,1990s
-What Ever Happened to Baby Jane?,1962,8.0,"Drama, Horror, Thriller",134,59013,75.0,1960s
-Magnolia,1999,8.0,Drama,188,320086,78.0,1990s
-12 Monkeys,1995,8.0,"Mystery, Sci-Fi, Thriller",129,630668,74.0,1990s
-The Pursuit of Happyness,2006,8.0,"Biography, Drama",117,532900,64.0,2000s
-JFK,1991,8.0,"Drama, History, Thriller",189,162462,72.0,1990s
-Kill Bill: Vol. 2,2004,8.0,"Action, Crime, Thriller",137,776031,83.0,2000s
-Akira,1988,8.0,"Animation, Action, Drama",124,194518,67.0,1980s
-Rosemary's Baby,1968,8.0,"Drama, Horror",137,224249,96.0,1960s
-Planet of the Apes,1968,8.0,"Adventure, Sci-Fi",112,185861,79.0,1960s
-Slumdog Millionaire,2008,8.0,"Crime, Drama, Romance",120,859926,84.0,2000s
-Perfect Blue,1997,8.0,"Animation, Crime, Drama",81,84599,67.0,1990s
-Dogville,2003,8.0,"Crime, Drama",178,153494,59.0,2000s
-Life of Brian,1979,8.0,Comedy,94,409977,77.0,1970s
-The Invisible Guest,2016,8.0,"Crime, Drama, Mystery",106,183573,,2010s
-Butch Cassidy and the Sundance Kid,1969,8.0,"Biography, Crime, Drama",110,221212,66.0,1960s
-Baahubali: The Beginning,2015,8.0,"Action, Drama",159,130598,,2010s
-Lion,2016,8.0,"Biography, Drama",118,243118,69.0,2010s
-High Noon,1952,8.0,"Drama, Thriller, Western",85,107227,89.0,1950s
-The King's Speech,2010,8.0,"Biography, Drama, History",118,692883,88.0,2010s
-Being There,1979,8.0,"Comedy, Drama",130,75027,83.0,1970s
-Ip Man,2008,8.0,"Action, Biography, Drama",106,228867,59.0,2000s
-The Bourne Ultimatum,2007,8.0,"Action, Mystery, Thriller",115,645201,85.0,2000s
-Sling Blade,1996,8.0,Drama,135,96297,84.0,1990s
-Chungking Express,1994,8.0,"Comedy, Crime, Drama",102,88491,78.0,1990s
-Mommy,2014,8.0,Drama,139,59309,74.0,2010s
-Roman Holiday,1953,8.0,"Comedy, Romance",118,142789,78.0,1950s
-Annie Hall,1977,8.0,"Comedy, Romance",93,270794,92.0,1970s
-The Maltese Falcon,1941,8.0,"Crime, Film-Noir, Mystery",100,162664,97.0,1940s
-Rio Bravo,1959,8.0,"Drama, Western",141,65431,93.0,1950s
-Nausicaä of the Valley of the Wind,1984,8.0,"Animation, Adventure, Sci-Fi",117,174533,86.0,1980s
-8½,1963,8.0,"Biography, Drama",138,121425,93.0,1960s
-The Last Picture Show,1971,8.0,"Drama, Romance",118,50170,93.0,1970s
-Castle in the Sky,1986,8.0,"Animation, Adventure, Family",125,172642,78.0,1980s
-Pink Floyd: The Wall,1982,8.0,"Drama, Fantasy, Music",95,83213,47.0,1980s
-Gandhi,1982,8.0,"Biography, Drama, History",191,236463,79.0,1980s
-Papillon,1973,8.0,"Biography, Crime, Drama",151,134450,58.0,1970s
-Solaris,1972,8.0,"Drama, Mystery, Sci-Fi",167,94737,93.0,1970s
-Cinderella Man,2005,8.0,"Biography, Drama, Romance",144,192743,69.0,2000s
-The Legend of 1900,1998,8.0,"Drama, Music, Romance",169,66839,58.0,1990s
-Fitzcarraldo,1982,8.0,"Adventure, Drama",158,36629,,1980s
-La Dolce Vita,1960,8.0,"Comedy, Drama",174,75715,95.0,1960s
-The Night of the Hunter,1955,8.0,"Crime, Drama, Film-Noir",92,92676,97.0,1950s
-The Straight Story,1999,8.0,"Biography, Drama",112,93406,86.0,1990s
-Who's Afraid of Virginia Woolf?,1966,8.0,Drama,131,77666,75.0,1960s
-Anatomy of a Murder,1959,8.0,"Drama, Mystery",161,68591,95.0,1950s
-Infernal Affairs,2002,8.0,"Action, Crime, Drama",101,127906,75.0,2000s
-Wolfwalkers,2020,8.0,"Animation, Action, Adventure",103,35448,87.0,2020s
-Touch of Evil,1958,8.0,"Crime, Drama, Film-Noir",95,107130,99.0,1950s
-Wings of Desire,1987,8.0,"Drama, Fantasy, Romance",128,73612,79.0,1980s
-The Leopard,1963,8.0,"Drama, History",186,27442,100.0,1960s
-Out of the Past,1947,8.0,"Crime, Drama, Film-Noir",97,39134,85.0,1940s
-Mirror,1975,8.0,"Biography, Drama",107,49402,82.0,1970s
-The Cabinet of Dr. Caligari,1920,8.0,"Horror, Mystery, Thriller",67,66821,,1920s
-The Hustler,1961,8.0,"Drama, Sport",134,84352,90.0,1960s
-Sweet Smell of Success,1957,8.0,"Drama, Film-Noir",96,33991,100.0,1950s
-Le Samouraï,1967,8.0,"Crime, Drama, Thriller",101,53816,,1960s
-Elite Squad,2007,8.0,"Action, Crime, Drama",115,106968,33.0,2000s
-Secrets & Lies,1996,8.0,"Comedy, Drama",136,45233,91.0,1990s
-The Tale of The Princess Kaguya,2013,8.0,"Animation, Drama, Family",137,49965,89.0,2010s
-Nobody Knows,2004,8.0,Drama,141,29543,88.0,2000s
-Song of the Sea,2014,8.0,"Animation, Adventure, Drama",93,60807,85.0,2010s
-Stalag 17,1953,8.0,"Comedy, Drama, War",120,57207,84.0,1950s
-The Diving Bell and the Butterfly,2007,8.0,"Biography, Drama",112,108984,92.0,2000s
-My Man Godfrey,1936,8.0,"Comedy, Drama, Romance",94,25258,82.0,1930s
-My Sassy Girl,2001,8.0,"Comedy, Drama, Romance",137,49383,,2000s
-Nostalghia,1983,8.0,Drama,125,28549,,1980s
-Brief Encounter,1945,8.0,"Drama, Romance",86,42015,92.0,1940s
-The Sea Inside,2004,8.0,"Biography, Drama",126,83554,74.0,2000s
-Persepolis,2007,8.0,"Animation, Biography, Drama",96,97297,90.0,2000s
-Dilwale Dulhania Le Jayenge,1995,8.0,"Drama, Romance",181,73178,,1990s
-"Black Cat, White Cat",1998,8.0,"Comedy, Crime, Romance",127,55216,73.0,1990s
-Cries & Whispers,1972,8.0,Drama,91,35566,,1970s
-Sleuth,1972,8.0,"Mystery, Thriller",138,48924,,1970s
-"Quo Vadis, Aida?",2020,8.0,"Drama, History, War",101,36015,97.0,2020s
-Ivan's Childhood,1962,8.0,"Drama, War",95,38217,,1960s
-La strada,1954,8.0,Drama,108,64948,,1950s
-Departures,2008,8.0,Drama,130,53466,68.0,2000s
-The Wild Pear Tree,2018,8.0,Drama,188,25804,86.0,2010s
-"Goodbye, Children",1987,8.0,"Drama, War",104,35014,88.0,1980s
-The Exterminating Angel,1962,8.0,"Drama, Fantasy",95,34257,,1960s
-Kind Hearts and Coronets,1949,8.0,"Comedy, Crime",106,38612,,1940s
-Central Station,1998,8.0,Drama,110,40954,80.0,1990s
-"Spring, Summer, Fall, Winter... and Spring",2003,8.0,"Drama, Romance",103,84909,85.0,2000s
-Sanjuro,1962,8.0,"Action, Drama, Thriller",96,39572,,1960s
-Haider,2014,8.0,"Action, Crime, Drama",160,56193,,2010s
-The Shop Around the Corner,1940,8.0,"Comedy, Drama, Romance",99,35593,96.0,1940s
-Elite Squad 2: The Enemy Within,2010,8.0,"Action, Crime, Drama",115,84862,71.0,2010s
-M.S. Dhoni: The Untold Story,2016,8.0,"Biography, Drama, Sport",184,63517,,2010s
-Tae Guk Gi: The Brotherhood of War,2004,8.0,"Action, Drama, War",140,40406,64.0,2000s
-"Rome, Open City",1945,8.0,"Drama, Thriller, War",103,27788,,1940s
-G.O.R.A.,2004,8.0,"Adventure, Comedy, Sci-Fi",127,64703,,2000s
-Winter Light,1963,8.0,Drama,81,26046,,1960s
-Andaz Apna Apna,1994,8.0,"Action, Comedy, Romance",160,54279,,1990s
-The Blue Elephant,2014,8.0,"Drama, Horror, Mystery",170,29175,,2010s
-"Carry On, Munna Bhai",2006,8.0,"Comedy, Drama, Romance",144,48251,,2000s
-Karthikeya 2,2022,8.0,"Action, Adventure, Fantasy",150,63374,,2020s
-Arjun Reddy,2017,8.0,"Action, Drama, Romance",182,26386,,2010s
-Special 26,2013,8.0,"Crime, Drama, Thriller",144,57597,,2010s
-The Breath,2009,8.0,"Action, Drama, Thriller",128,34451,,2000s
-Vizontele,2001,8.0,"Comedy, Drama",110,37742,,2000s
-1: Nenokkadine,2014,8.0,"Action, Thriller",170,45935,,2010s
-John Wick: Chapter 4,2023,7.9,"Action, Crime, Thriller",169,222654,78.0,2020s
-Titanic,1997,7.9,"Drama, Romance",194,1223858,75.0,1990s
-Avatar,2009,7.9,"Action, Adventure, Fantasy",162,1348557,83.0,2000s
-Puss in Boots: The Last Wish,2022,7.9,"Animation, Adventure, Comedy",102,136427,73.0,2020s
-Arrival,2016,7.9,"Drama, Mystery, Sci-Fi",116,722438,81.0,2010s
-Fantastic Mr. Fox,2009,7.9,"Animation, Adventure, Comedy",87,248754,83.0,2000s
-Iron Man,2008,7.9,"Action, Adventure, Sci-Fi",126,1085927,79.0,2000s
-Knives Out,2019,7.9,"Comedy, Crime, Drama",130,730323,82.0,2010s
-Edge of Tomorrow,2014,7.9,"Action, Adventure, Sci-Fi",113,701633,71.0,2010s
-The Perks of Being a Wallflower,2012,7.9,Drama,103,528101,67.0,2010s
-Mulholland Drive,2001,7.9,"Drama, Mystery, Thriller",147,368098,86.0,2000s
-True Romance,1993,7.9,"Crime, Drama, Romance",119,233958,59.0,1990s
-X-Men: Days of Future Past,2014,7.9,"Action, Adventure, Sci-Fi",132,726749,75.0,2010s
-Harry Potter and the Prisoner of Azkaban,2004,7.9,"Adventure, Family, Fantasy",142,658043,82.0,2000s
-Star Trek,2009,7.9,"Action, Adventure, Sci-Fi",127,611086,82.0,2000s
-Boogie Nights,1997,7.9,Drama,155,273350,85.0,1990s
-Almost Famous,2000,7.9,"Adventure, Comedy, Drama",122,284465,90.0,2000s
-Thor: Ragnarok,2017,7.9,"Action, Adventure, Comedy",130,779806,74.0,2010s
-Bohemian Rhapsody,2018,7.9,"Biography, Drama, Music",134,558146,49.0,2010s
-E.T. the Extra-Terrestrial,1982,7.9,"Adventure, Family, Sci-Fi",115,422022,91.0,1980s
-Shaun of the Dead,2004,7.9,"Comedy, Horror",99,572950,76.0,2000s
-Jojo Rabbit,2019,7.9,"Comedy, Drama, War",108,412474,58.0,2010s
-Shrek,2001,7.9,"Animation, Adventure, Comedy",90,702413,84.0,2000s
-In Bruges,2008,7.9,"Comedy, Crime, Drama",107,446637,67.0,2000s
-Children of Men,2006,7.9,"Action, Drama, Sci-Fi",109,512808,84.0,2000s
-The Blues Brothers,1980,7.9,"Action, Adventure, Comedy",133,206428,60.0,1980s
-Dallas Buyers Club,2013,7.9,"Biography, Drama",117,501929,77.0,2010s
-Mystic River,2003,7.9,"Crime, Drama, Mystery",138,468759,84.0,2000s
-The Bourne Identity,2002,7.9,"Action, Mystery, Thriller",119,560113,68.0,2000s
-Edward Scissorhands,1990,7.9,"Drama, Fantasy, Romance",105,504319,74.0,1990s
-District 9,2009,7.9,"Action, Sci-Fi, Thriller",112,696541,81.0,2000s
-Life of Pi,2012,7.9,"Adventure, Drama, Fantasy",127,646962,79.0,2010s
-Wonder,2017,7.9,"Drama, Family",113,171045,66.0,2010s
-Marriage Story,2019,7.9,"Drama, Romance",137,326042,94.0,2010s
-All the President's Men,1976,7.9,"Drama, History, Thriller",138,120688,84.0,1970s
-Toy Story 2,1999,7.9,"Animation, Adventure, Comedy",92,597687,88.0,1990s
-Sullivan's Travels,1941,7.9,"Adventure, Comedy, Drama",90,27580,,1940s
-Boyhood,2014,7.9,Drama,165,360632,100.0,2010s
-The Nightmare Before Christmas,1993,7.9,"Animation, Family, Fantasy",76,352644,82.0,1990s
-Bound by Honor,1993,7.9,"Crime, Drama",180,32783,47.0,1990s
-This Is Spinal Tap,1984,7.9,"Comedy, Music",82,143160,92.0,1980s
-Spartacus,1960,7.9,"Adventure, Biography, Drama",197,138837,87.0,1960s
-The Searchers,1956,7.9,"Adventure, Drama, Western",119,92983,94.0,1950s
-Brazil,1985,7.9,"Drama, Sci-Fi",132,205652,84.0,1980s
-The Man from Earth,2007,7.9,"Drama, Fantasy, Mystery",87,193034,,2000s
-Before Midnight,2013,7.9,"Drama, Romance",109,165093,94.0,2010s
-The Ten Commandments,1956,7.9,"Adventure, Drama, Family",220,74546,,1950s
-Carlito's Way,1993,7.9,"Crime, Drama, Thriller",144,225006,66.0,1990s
-A Fistful of Dollars,1964,7.9,"Action, Drama, Western",99,224095,65.0,1960s
-Ghost in the Shell,1995,7.9,"Animation, Action, Crime",83,149064,76.0,1990s
-"Crouching Tiger, Hidden Dragon",2000,7.9,"Action, Adventure, Drama",120,276087,94.0,2000s
-Nosferatu,1922,7.9,"Fantasy, Horror",94,101063,,1920s
-In the Heat of the Night,1967,7.9,"Drama, Mystery, Thriller",110,79827,76.0,1960s
-Let the Right One In,2008,7.9,"Drama, Fantasy, Horror",114,221727,82.0,2000s
-The Lion in Winter,1968,7.9,"Biography, Drama, History",134,32755,,1960s
-The Wrestler,2008,7.9,"Drama, Sport, Thriller",109,313412,80.0,2000s
-The Wild Bunch,1969,7.9,"Action, Adventure, Drama",135,87651,98.0,1960s
-The Raid 2,2014,7.9,"Action, Crime, Thriller",150,127513,71.0,2010s
-A Streetcar Named Desire,1951,7.9,Drama,122,111448,97.0,1950s
-Once Were Warriors,1994,7.9,"Crime, Drama",102,35633,77.0,1990s
-Doctor Zhivago,1965,7.9,"Drama, Romance, War",197,79608,69.0,1960s
-Notorious,1946,7.9,"Drama, Film-Noir, Romance",102,103905,100.0,1940s
-About Elly,2009,7.9,"Drama, Mystery",119,55213,87.0,2000s
-Charade,1963,7.9,"Comedy, Mystery, Romance",113,81496,83.0,1960s
-The Manchurian Candidate,1962,7.9,"Drama, Thriller",126,77404,94.0,1960s
-The Artist,2011,7.9,"Comedy, Drama, Romance",100,245122,89.0,2010s
-Hero,2002,7.9,"Action, Adventure, Drama",120,184675,85.0,2000s
-Sing Street,2016,7.9,"Comedy, Drama, Music",106,97523,79.0,2010s
-Harold and Maude,1971,7.9,"Comedy, Drama, Romance",91,79688,62.0,1970s
-Shoplifters,2018,7.9,"Crime, Drama, Thriller",121,81061,93.0,2010s
-Dancer in the Dark,2000,7.9,"Crime, Drama, Musical",140,113253,61.0,2000s
-Togo,2019,7.9,"Adventure, Biography, Drama",113,52169,69.0,2010s
-Rope,1948,7.9,"Crime, Drama, Mystery",80,148232,73.0,1940s
-A Christmas Story,1983,7.9,"Comedy, Family",93,161050,77.0,1980s
-King Kong,1933,7.9,"Adventure, Horror, Sci-Fi",100,88087,92.0,1930s
-The Killing,1956,7.9,"Crime, Drama, Film-Noir",84,93014,91.0,1950s
-Strangers on a Train,1951,7.9,"Crime, Drama, Film-Noir",101,137186,88.0,1950s
-The Big Sleep,1946,7.9,"Crime, Film-Noir, Mystery",114,88156,86.0,1940s
-Patton,1970,7.9,"Biography, Drama, War",172,105243,86.0,1970s
-Short Term 12,2013,7.9,Drama,96,89724,82.0,2010s
-The Philadelphia Story,1940,7.9,"Comedy, Romance",112,71631,96.0,1940s
-In a Lonely Place,1950,7.9,"Drama, Film-Noir, Mystery",94,33331,,1950s
-Three Colors: Blue,1993,7.9,"Drama, Music, Mystery",94,106378,87.0,1990s
-Cat on a Hot Tin Roof,1958,7.9,Drama,108,51601,84.0,1950s
-The Adventures of Robin Hood,1938,7.9,"Action, Adventure, Romance",102,52958,97.0,1930s
-Arsenic and Old Lace,1944,7.9,"Comedy, Crime, Thriller",118,72864,,1940s
-Talk to Her,2002,7.9,"Drama, Mystery, Romance",112,115130,86.0,2000s
-Laura,1944,7.9,"Drama, Film-Noir, Mystery",88,49237,,1940s
-The Conformist,1970,7.9,Drama,113,32137,100.0,1970s
-Amour,2012,7.9,Drama,127,103118,95.0,2010s
-Head-On,2004,7.9,"Drama, Romance",121,55948,78.0,2000s
-The Way He Looks,2014,7.9,"Drama, Romance",96,26627,71.0,2010s
-Mildred Pierce,1945,7.9,"Crime, Drama, Film-Noir",111,27470,88.0,1940s
-A Taxi Driver,2017,7.9,"Action, Drama, History",137,27674,69.0,2010s
-In Cold Blood,1967,7.9,"Biography, Crime, Drama",134,27763,89.0,1960s
-My Name Is Khan,2010,7.9,"Adventure, Drama, Romance",165,111126,50.0,2010s
-3-Iron,2004,7.9,"Crime, Drama, Romance",88,56683,72.0,2000s
-The Sacrifice,1986,7.9,Drama,149,29688,,1980s
-Kal Ho Naa Ho,2003,7.9,"Comedy, Drama, Musical",186,72070,54.0,2000s
-Harvey,1950,7.9,"Comedy, Drama, Fantasy",104,56895,,1950s
-The Thin Man,1934,7.9,"Comedy, Crime, Mystery",91,31368,86.0,1930s
-Kagemusha,1980,7.9,"Drama, History, War",162,36906,84.0,1980s
-I Remember,1973,7.9,"Comedy, Drama",123,45226,,1970s
-Gully Boy,2019,7.9,"Drama, Music, Romance",154,41492,65.0,2010s
-The Lost Weekend,1945,7.9,"Drama, Film-Noir",101,38768,,1940s
-Mimi,2021,7.9,"Comedy, Drama",132,41200,,2020s
-C.R.A.Z.Y.,2005,7.9,"Comedy, Drama",129,33600,81.0,2000s
-Elevator to the Gallows,1958,7.9,"Crime, Drama, Thriller",91,27205,94.0,1950s
-Super 30,2019,7.9,"Biography, Drama",154,34168,,2010s
-Miracle on 34th Street,1947,7.9,"Comedy, Drama, Family",96,51275,88.0,1940s
-Hiroshima Mon Amour,1959,7.9,"Drama, Romance",90,34118,,1950s
-The Big Heat,1953,7.9,"Crime, Film-Noir, Thriller",89,27788,,1950s
-"4 Months, 3 Weeks and 2 Days",2007,7.9,Drama,113,61975,97.0,2000s
-Jab We Met,2007,7.9,"Comedy, Drama, Romance",138,55840,,2000s
-Nine Queens,2000,7.9,"Crime, Drama, Thriller",114,54959,80.0,2000s
-Beauty and the Beast,1946,7.9,"Drama, Fantasy, Romance",93,27268,92.0,1940s
-Battleship Potemkin,1925,7.9,"Drama, History, Thriller",66,59643,97.0,1920s
-The Red Circle,1970,7.9,"Crime, Drama, Thriller",140,26700,92.0,1970s
-Dev.D,2009,7.9,"Comedy, Drama, Romance",144,31456,,2000s
-The Rules of the Game,1939,7.9,"Comedy, Drama",110,30249,99.0,1930s
-No Man's Land,2001,7.9,"Comedy, Drama, War",98,47974,84.0,2000s
-The Return,2003,7.9,Drama,110,46458,82.0,2000s
-Through a Glass Darkly,1961,7.9,Drama,90,26402,84.0,1960s
-Pad Man,2018,7.9,"Comedy, Drama",140,27337,,2010s
-Badhaai Ho,2018,7.9,"Comedy, Drama",124,36115,,2010s
-Baby,2015,7.9,"Action, Crime, Thriller",159,58890,,2010s
-Vishwaroopam,2013,7.9,"Action, Thriller",148,40584,,2010s
-Airlift,2016,7.9,"Action, Drama, History",130,57901,,2010s
-The Batman,2022,7.8,"Action, Crime, Drama",176,705878,72.0,2020s
-Everything Everywhere All at Once,2022,7.8,"Action, Adventure, Comedy",139,457079,81.0,2020s
-A Bronx Tale,1993,7.8,"Crime, Drama",121,149961,80.0,1990s
-The Breakfast Club,1985,7.8,"Comedy, Drama",97,416424,66.0,1980s
-Tombstone,1993,7.8,"Biography, Drama, History",130,156787,50.0,1990s
-Moonrise Kingdom,2012,7.8,"Comedy, Drama, Family",94,358340,84.0,2010s
-The Big Short,2015,7.8,"Biography, Comedy, Drama",130,449221,81.0,2010s
-The Gentlemen,2019,7.8,"Action, Comedy, Crime",113,362817,51.0,2010s
-Drive,2011,7.8,"Action, Drama",100,667458,78.0,2010s
-Hot Fuzz,2007,7.8,"Action, Comedy, Mystery",121,518809,81.0,2000s
-Call Me by Your Name,2017,7.8,"Drama, Romance",132,290210,94.0,2010s
-The Notebook,2004,7.8,"Drama, Romance",123,589874,53.0,2000s
-Get Out,2017,7.8,"Horror, Mystery, Thriller",104,643912,85.0,2010s
-All Quiet on the Western Front,2022,7.8,"Action, Drama, War",148,209794,76.0,2020s
-Dunkirk,2017,7.8,"Action, Drama, History",106,685361,94.0,2010s
-Pride & Prejudice,2005,7.8,"Drama, Romance",129,309332,82.0,2000s
-The Hateful Eight,2015,7.8,"Crime, Drama, Mystery",168,626046,68.0,2010s
-RRR,2022,7.8,"Action, Drama",187,152074,83.0,2020s
-Ghostbusters,1984,7.8,"Action, Comedy, Fantasy",105,427032,71.0,1980s
-Hidden Figures,2016,7.8,"Biography, Drama, History",127,241816,74.0,2010s
-About Time,2013,7.8,"Comedy, Drama, Fantasy",123,365910,55.0,2010s
-Predator,1987,7.8,"Action, Adventure, Horror",107,436038,47.0,1980s
-The Irishman,2019,7.8,"Biography, Crime, Drama",209,405744,94.0,2010s
-The Social Network,2010,7.8,"Biography, Drama",120,725495,95.0,2010s
-Little Women,2019,7.8,"Drama, Romance",135,220575,91.0,2010s
-Ferris Bueller's Day Off,1986,7.8,Comedy,103,370943,61.0,1980s
-Rogue One: A Star Wars Story,2016,7.8,"Action, Adventure, Sci-Fi",133,659832,65.0,2010s
-The Curious Case of Benjamin Button,2008,7.8,"Drama, Fantasy, Romance",166,670134,70.0,2000s
-Isle of Dogs,2018,7.8,"Animation, Adventure, Comedy",101,178971,82.0,2010s
-Apocalypto,2006,7.8,"Action, Adventure, Drama",139,320870,68.0,2000s
-Atonement,2007,7.8,"Drama, Mystery, Romance",123,288347,85.0,2000s
-The Sandlot,1993,7.8,"Comedy, Drama, Family",101,97049,55.0,1990s
-The Hobbit: An Unexpected Journey,2012,7.8,"Adventure, Fantasy",169,845735,58.0,2010s
-American Gangster,2007,7.8,"Biography, Crime, Drama",157,437948,76.0,2000s
-Nightcrawler,2014,7.8,"Crime, Drama, Thriller",117,572185,76.0,2010s
-The Last Samurai,2003,7.8,"Action, Drama",154,453345,55.0,2000s
-Captain America: Civil War,2016,7.8,"Action, Sci-Fi",147,815145,75.0,2010s
-The Girl with the Dragon Tattoo,2011,7.8,"Crime, Drama, Mystery",158,475638,71.0,2010s
-Star Wars: Episode VII - The Force Awakens,2015,7.8,"Action, Adventure, Sci-Fi",138,949311,80.0,2010s
-Little Miss Sunshine,2006,7.8,"Comedy, Drama",101,497062,80.0,2000s
-Back to the Future Part II,1989,7.8,"Adventure, Comedy, Sci-Fi",108,550290,57.0,1980s
-The Worst Person in the World,2021,7.8,"Comedy, Drama, Romance",128,81143,90.0,2020s
-Captain Fantastic,2016,7.8,"Comedy, Drama",118,226076,72.0,2010s
-Thirteen Lives,2022,7.8,"Action, Adventure, Biography",147,61387,66.0,2020s
-Captain America: The Winter Soldier,2014,7.8,"Action, Adventure, Sci-Fi",136,869582,70.0,2010s
-Captain Phillips,2013,7.8,"Action, Biography, Crime",134,475022,82.0,2010s
-Remember the Titans,2000,7.8,"Biography, Drama, Sport",113,223070,48.0,2000s
-Willy Wonka & the Chocolate Factory,1971,7.8,"Family, Fantasy, Musical",100,210073,67.0,1970s
-Manchester by the Sea,2016,7.8,Drama,137,294868,96.0,2010s
-The Untouchables,1987,7.8,"Crime, Drama, Thriller",119,319561,79.0,1980s
-Skyfall,2012,7.8,"Action, Adventure, Thriller",143,711243,81.0,2010s
-Taken,2008,7.8,"Action, Crime, Thriller",90,616058,51.0,2000s
-Cast Away,2000,7.8,"Adventure, Drama, Romance",143,611321,73.0,2000s
-The Fugitive,1993,7.8,"Action, Crime, Drama",130,305421,87.0,1990s
-The Hobbit: The Desolation of Smaug,2013,7.8,Fantasy,161,680605,66.0,2010s
-I Saw the Devil,2010,7.8,"Action, Crime, Thriller",144,137827,67.0,2010s
-Big Hero 6,2014,7.8,"Animation, Action, Adventure",102,478852,74.0,2010s
-Boyz n the Hood,1991,7.8,"Crime, Drama",112,147042,76.0,1990s
-Misery,1990,7.8,"Drama, Thriller",107,221896,75.0,1990s
-Midnight Cowboy,1969,7.8,Drama,113,115346,79.0,1960s
-Mary Poppins,1964,7.8,"Comedy, Family, Fantasy",139,178959,88.0,1960s
-The Holy Mountain,1973,7.8,"Adventure, Drama, Fantasy",114,45631,76.0,1970s
-Gattaca,1997,7.8,"Drama, Sci-Fi, Thriller",106,313123,64.0,1990s
-Glory,1989,7.8,"Biography, Drama, History",122,139322,78.0,1980s
-Moon,2009,7.8,"Drama, Mystery, Sci-Fi",97,367318,67.0,2000s
-The Right Stuff,1983,7.8,"Adventure, Biography, Drama",193,63503,91.0,1980s
-Serenity,2005,7.8,"Action, Adventure, Sci-Fi",119,300738,74.0,2000s
-Walk the Line,2005,7.8,"Biography, Drama, Music",136,257971,72.0,2000s
-Awakenings,1990,7.8,"Biography, Drama",121,149734,74.0,1990s
-Pride,2014,7.8,"Biography, Comedy, Drama",119,59698,79.0,2010s
-The Fall,2006,7.8,"Adventure, Drama, Fantasy",117,114478,64.0,2000s
-Straight Outta Compton,2015,7.8,"Biography, Drama, History",147,209782,72.0,2010s
-The Fighter,2010,7.8,"Action, Biography, Drama",116,377945,79.0,2010s
-The Outlaw Josey Wales,1976,7.8,Western,135,76891,69.0,1970s
-Mississippi Burning,1988,7.8,"Crime, Drama, Mystery",128,104674,65.0,1980s
-Kiki's Delivery Service,1989,7.8,"Animation, Family, Fantasy",103,152829,85.0,1980s
-All That Jazz,1979,7.8,"Drama, Music, Musical",123,33559,72.0,1970s
-Paddington 2,2017,7.8,"Adventure, Comedy, Family",103,85484,88.0,2010s
-How to Train Your Dragon 2,2014,7.8,"Animation, Action, Adventure",102,349031,77.0,2010s
-The Girl with the Dragon Tattoo,2009,7.8,"Crime, Drama, Mystery",152,219851,76.0,2000s
-The King of Comedy,1982,7.8,"Comedy, Crime, Drama",109,110071,73.0,1980s
-Red River,1948,7.8,"Drama, Western",133,32775,96.0,1940s
-The Day the Earth Stood Still,1951,7.8,"Drama, Sci-Fi",92,83806,83.0,1950s
-Chor Nikal Ke Bhaga,2023,7.8,"Crime, Drama, Thriller",110,49307,,2020s
-The Insider,1999,7.8,"Biography, Drama, Thriller",157,175296,84.0,1990s
-Dawn of the Dead,1978,7.8,"Horror, Thriller",127,124481,71.0,1970s
-Guess Who's Coming to Dinner,1967,7.8,"Comedy, Drama",108,47123,63.0,1960s
-The Remains of the Day,1993,7.8,"Drama, Romance",134,78898,86.0,1990s
-Changeling,2008,7.8,"Biography, Crime, Drama",141,260294,63.0,2000s
-Hunt for the Wilderpeople,2016,7.8,"Adventure, Comedy, Drama",101,135590,81.0,2010s
-Ed Wood,1994,7.8,"Biography, Comedy, Drama",127,180047,70.0,1990s
-The Conversation,1974,7.8,"Drama, Mystery, Thriller",113,116217,87.0,1970s
-My Fair Lady,1964,7.8,"Drama, Family, Musical",170,98626,95.0,1960s
-Kramer vs. Kramer,1979,7.8,Drama,105,149839,77.0,1970s
-The Best Offer,2013,7.8,"Crime, Drama, Mystery",131,123764,49.0,2010s
-Night of the Living Dead,1968,7.8,"Horror, Thriller",96,133578,89.0,1960s
-Cabaret,1972,7.8,"Drama, Music, Musical",124,57276,80.0,1970s
-Days of Heaven,1978,7.8,"Drama, Romance",94,60369,93.0,1970s
-The Killing Fields,1984,7.8,"Biography, Drama, History",141,57360,76.0,1980s
-October Sky,1999,7.8,"Biography, Drama, Family",108,94773,71.0,1990s
-My Left Foot,1989,7.8,"Biography, Drama",103,77075,97.0,1980s
-Once,2007,7.8,"Drama, Music, Romance",86,118955,90.0,2000s
-All About My Mother,1999,7.8,Drama,101,99871,87.0,1990s
-"Aguirre, the Wrath of God",1972,7.8,"Action, Adventure, Biography",95,59305,,1970s
-Mother,2009,7.8,"Crime, Drama, Mystery",129,67883,79.0,2000s
-Letters from Iwo Jima,2006,7.8,"Action, Adventure, Drama",141,166571,89.0,2000s
-Whisper of the Heart,1995,7.8,"Animation, Drama, Family",111,67023,75.0,1990s
-The Day of the Jackal,1973,7.8,"Crime, Drama, Thriller",143,42690,80.0,1970s
-Frankenstein,1931,7.8,"Drama, Horror, Sci-Fi",70,75858,91.0,1930s
-Bringing Up Baby,1938,7.8,Comedy,102,63962,91.0,1930s
-The Chaser,2008,7.8,"Action, Crime, Drama",125,69420,64.0,2000s
-Freaks,1932,7.8,"Drama, Horror",64,48440,80.0,1930s
-Gaslight,1944,7.8,"Crime, Drama, Mystery",114,31430,78.0,1940s
-East of Eden,1955,7.8,Drama,118,47278,72.0,1950s
-Manhattan,1979,7.8,"Comedy, Drama, Romance",96,143292,83.0,1970s
-Breaking the Waves,1996,7.8,Drama,159,69359,81.0,1990s
-To Have and Have Not,1944,7.8,"Adventure, Comedy, Film-Noir",100,36617,90.0,1940s
-Stagecoach,1939,7.8,"Adventure, Drama, Western",96,51414,93.0,1930s
-Ninja Scroll,1993,7.8,"Animation, Action, Adventure",94,39015,,1990s
-Batman: Mask of the Phantasm,1993,7.8,"Animation, Action, Adventure",76,53777,65.0,1990s
-Lilya 4-Ever,2002,7.8,"Crime, Drama",109,47290,83.0,2000s
-The Lunchbox,2013,7.8,"Drama, Romance",104,58405,76.0,2010s
-Loving Vincent,2017,7.8,"Animation, Drama, Mystery",94,60583,62.0,2010s
-The World's Fastest Indian,2005,7.8,"Biography, Drama, Sport",127,56603,68.0,2000s
-Land of Mine,2015,7.8,"Drama, History, War",100,43453,75.0,2010s
-Shadow of a Doubt,1943,7.8,"Film-Noir, Thriller",108,67923,94.0,1940s
-Hannah and Her Sisters,1986,7.8,"Comedy, Drama",107,73580,90.0,1980s
-The White Ribbon,2009,7.8,"Drama, Mystery, Thriller",144,75593,84.0,2000s
-The Bride of Frankenstein,1935,7.8,"Drama, Horror, Sci-Fi",75,50671,95.0,1930s
-Gangubai Kathiawadi,2022,7.8,"Biography, Crime, Drama",152,58408,,2020s
-A Prophet,2009,7.8,"Crime, Drama",155,100342,90.0,2000s
-"I, Daniel Blake",2016,7.8,Drama,100,62258,78.0,2010s
-The Umbrellas of Cherbourg,1964,7.8,"Drama, Musical, Romance",91,29283,86.0,1960s
-His Girl Friday,1940,7.8,"Comedy, Drama, Romance",92,61000,,1940s
-The Man Who Would Be King,1975,7.8,"Adventure, War",129,50582,91.0,1970s
-Cowboy Bebop: The Movie,2001,7.8,"Animation, Action, Crime",115,50812,61.0,2000s
-The Postman,1994,7.8,"Biography, Comedy, Drama",108,37784,81.0,1990s
-Great Expectations,1946,7.8,"Adventure, Drama, Mystery",118,25448,90.0,1940s
-The Innocents,1961,7.8,Horror,100,31738,88.0,1960s
-The Killer,1989,7.8,"Action, Crime, Drama",111,49689,82.0,1980s
-The Asphalt Jungle,1950,7.8,"Crime, Drama, Film-Noir",112,28596,85.0,1950s
-Once Upon a Time in Anatolia,2011,7.8,"Crime, Drama, Thriller",157,48075,82.0,2010s
-You Can't Take It with You,1938,7.8,"Comedy, Drama, Romance",126,26838,,1930s
-L'Avventura,1960,7.8,"Drama, Mystery, Romance",144,31236,,1960s
-Crimes and Misdemeanors,1989,7.8,"Comedy, Drama",104,59458,77.0,1980s
-The Chorus,2004,7.8,"Comedy, Drama, Music",97,64759,56.0,2000s
-Badla,2019,7.8,"Crime, Drama, Mystery",118,29519,,2010s
-"Like Father, Like Son",2013,7.8,Drama,121,26565,73.0,2010s
-Duck Soup,1933,7.8,"Comedy, Musical",69,61523,93.0,1930s
-Vivre Sa Vie,1962,7.8,Drama,85,33590,,1960s
-The Discreet Charm of the Bourgeoisie,1972,7.8,Comedy,102,44990,93.0,1970s
-Tokyo Godfathers,2003,7.8,"Animation, Adventure, Comedy",92,43342,74.0,2000s
-Veer Zaara,2004,7.8,"Drama, Family, Musical",192,55012,67.0,2000s
-Millennium Actress,2001,7.8,"Animation, Drama, Fantasy",87,29899,70.0,2000s
-My Life as a Zucchini,2016,7.8,"Animation, Comedy, Drama",70,27175,85.0,2010s
-A Night at the Opera,1935,7.8,"Comedy, Music, Musical",96,33794,,1930s
-English Vinglish,2012,7.8,"Comedy, Drama, Family",134,37643,,2010s
-Knockin' on Heaven's Door,1997,7.8,"Action, Crime, Comedy",87,32198,,1990s
-Minnal Murali,2021,7.8,"Action, Comedy, Drama",158,31252,,2020s
-Dasvi,2022,7.8,"Comedy, Drama",125,55894,,2020s
-Hindi Medium,2017,7.8,"Comedy, Drama",132,30671,,2010s
-Vicky Donor,2012,7.8,"Comedy, Romance",126,44395,,2010s
-Kai Po Che,2013,7.8,"Drama, Sport",120,37891,40.0,2010s
-Secret Superstar,2017,7.8,"Drama, Music",150,27865,,2010s
-The Whale,2022,7.7,Drama,117,156451,60.0,2020s
-The Banshees of Inisherin,2022,7.7,"Comedy, Drama",114,213554,87.0,2020s
-Aftersun,2022,7.7,Drama,102,65917,95.0,2020s
-Mission: Impossible - Fallout,2018,7.7,"Action, Adventure, Thriller",147,346681,86.0,2010s
-The Goonies,1985,7.7,"Adventure, Comedy, Family",114,285994,62.0,1980s
-Kingsman: The Secret Service,2014,7.7,"Action, Adventure, Comedy",129,689177,60.0,2010s
-The Hangover,2009,7.7,Comedy,100,810643,73.0,2000s
-Harry Potter and the Goblet of Fire,2005,7.7,"Adventure, Family, Fantasy",157,649284,81.0,2000s
-The Magnificent Seven,1960,7.7,"Action, Adventure, Drama",128,98622,74.0,1960s
-Blazing Saddles,1974,7.7,"Comedy, Western",93,145456,73.0,1970s
-Black Hawk Down,2001,7.7,"Action, Drama, History",144,408636,74.0,2000s
-Ocean's Eleven,2001,7.7,"Crime, Thriller",116,593515,74.0,2000s
-Silver Linings Playbook,2012,7.7,"Comedy, Drama, Romance",122,723064,81.0,2010s
-Zodiac,2007,7.7,"Crime, Drama, Mystery",157,564025,79.0,2000s
-Blue Is the Warmest Colour,2013,7.7,"Drama, Romance",180,157657,90.0,2010s
-Wind River,2017,7.7,"Crime, Drama, Mystery",107,263862,73.0,2010s
-Lost in Translation,2003,7.7,"Comedy, Drama",102,468475,91.0,2000s
-Ex Machina,2014,7.7,"Drama, Sci-Fi, Thriller",108,563676,78.0,2010s
-And Your Mother Too,2001,7.7,Drama,106,125945,89.0,2000s
-Who Framed Roger Rabbit,1988,7.7,"Animation, Adventure, Comedy",104,208671,83.0,1980s
-Airplane!,1980,7.7,Comedy,88,249465,78.0,1980s
-Harry Potter and the Deathly Hallows: Part 1,2010,7.7,"Adventure, Family, Fantasy",146,569989,65.0,2010s
-3:10 to Yuma,2007,7.7,"Action, Crime, Drama",122,321360,76.0,2000s
-Brokeback Mountain,2005,7.7,"Drama, Romance",134,368630,87.0,2000s
-500 Days of Summer,2009,7.7,"Comedy, Drama, Romance",95,532480,76.0,2000s
-Primal Fear,1996,7.7,"Crime, Drama, Mystery",129,233448,47.0,1990s
-Home Alone,1990,7.7,"Comedy, Family",103,606002,63.0,1990s
-Birdman or (The Unexpected Virtue of Ignorance),2014,7.7,"Comedy, Drama",119,647005,87.0,2010s
-A Few Good Men,1992,7.7,"Drama, Thriller",138,274369,62.0,1990s
-Man on Fire,2004,7.7,"Action, Crime, Drama",146,372990,47.0,2000s
-The French Connection,1971,7.7,"Action, Crime, Drama",104,128201,94.0,1970s
-X-Men: First Class,2011,7.7,"Action, Sci-Fi",131,706386,65.0,2010s
-The Lego Movie,2014,7.7,"Animation, Action, Adventure",100,371758,83.0,2010s
-The Last of the Mohicans,1992,7.7,"Action, Adventure, Drama",112,178250,76.0,1990s
-Mr. Nobody,2009,7.7,"Drama, Fantasy, Romance",141,239555,63.0,2000s
-Blue Velvet,1986,7.7,"Crime, Drama, Mystery",120,206859,76.0,1980s
-The Game,1997,7.7,"Drama, Mystery, Thriller",129,410622,63.0,1990s
-Tangled,2010,7.7,"Animation, Adventure, Comedy",100,471277,71.0,2010s
-Coraline,2009,7.7,"Animation, Drama, Family",100,244422,80.0,2000s
-Toy Story 4,2019,7.7,"Animation, Adventure, Comedy",100,263694,84.0,2010s
-Argo,2012,7.7,"Biography, Drama, Thriller",120,626010,86.0,2010s
-Evil Dead II,1987,7.7,"Comedy, Horror",84,174291,72.0,1980s
-Star Trek II: The Wrath of Khan,1982,7.7,"Action, Adventure, Sci-Fi",113,125587,68.0,1980s
-Deliverance,1972,7.7,"Adventure, Drama, Thriller",109,114723,80.0,1970s
-The Count of Monte Cristo,2002,7.7,"Action, Adventure, Drama",131,143046,61.0,2000s
-Training Day,2001,7.7,"Action, Crime, Drama",122,451737,69.0,2000s
-Philadelphia,1993,7.7,Drama,125,249508,66.0,1990s
-The Fault in Our Stars,2014,7.7,"Drama, Romance",126,388316,69.0,2010s
-Badlands,1973,7.7,"Action, Crime, Drama",94,75545,93.0,1970s
-"O Brother, Where Art Thou?",2000,7.7,"Adventure, Comedy, Crime",107,320683,69.0,2000s
-First Blood,1982,7.7,"Action, Adventure, Thriller",93,263179,61.0,1980s
-Halloween,1978,7.7,"Horror, Thriller",91,289567,87.0,1970s
-Another Round,2020,7.7,Drama,117,175465,79.0,2020s
-What's Eating Gilbert Grape,1993,7.7,Drama,118,244846,73.0,1990s
-Road to Perdition,2002,7.7,"Crime, Drama, Thriller",117,276525,72.0,2000s
-The Machinist,2004,7.7,"Drama, Thriller",101,402127,61.0,2000s
-Gravity,2013,7.7,"Drama, Sci-Fi, Thriller",91,842164,96.0,2010s
-Wreck-It Ralph,2012,7.7,"Animation, Adventure, Comedy",101,438931,72.0,2010s
-Midnight in Paris,2011,7.7,"Comedy, Fantasy, Romance",94,435874,81.0,2010s
-Crash,2004,7.7,"Crime, Drama, Thriller",112,442902,66.0,2000s
-Sense and Sensibility,1995,7.7,"Drama, Romance",136,120503,84.0,1990s
-Apollo 13,1995,7.7,"Adventure, Drama, History",140,304257,77.0,1990s
-Kung Fu Hustle,2004,7.7,"Action, Comedy, Fantasy",99,145066,78.0,2000s
-Detachment,2011,7.7,Drama,98,92312,52.0,2010s
-Donnie Brasco,1997,7.7,"Biography, Crime, Drama",127,317868,76.0,1990s
-The Color Purple,1985,7.7,Drama,154,91014,78.0,1980s
-The African Queen,1951,7.7,"Adventure, Drama, Romance",105,81528,91.0,1950s
-When Harry Met Sally...,1989,7.7,"Comedy, Drama, Romance",95,229188,76.0,1980s
-As Good as It Gets,1997,7.7,"Comedy, Drama, Romance",139,308280,67.0,1990s
-Happiness,1998,7.7,"Comedy, Drama",134,72344,81.0,1990s
-The Trial of the Chicago 7,2020,7.7,"Drama, History, Thriller",129,184811,76.0,2020s
-The Boondock Saints,1999,7.7,"Action, Thriller",108,243813,44.0,1990s
-Star Trek Into Darkness,2013,7.7,"Action, Adventure, Sci-Fi",132,489923,72.0,2010s
-The Boy in the Striped Pajamas,2008,7.7,"Drama, War",94,230983,55.0,2000s
-Empire of the Sun,1987,7.7,"Drama, War",153,130398,62.0,1980s
-Lucky Number Slevin,2006,7.7,"Crime, Drama, Thriller",110,319517,53.0,2000s
-Dirty Harry,1971,7.7,"Action, Crime, Thriller",102,162294,87.0,1970s
-The Dirty Dozen,1967,7.7,"Action, Adventure, War",150,76364,73.0,1960s
-Sound of Metal,2019,7.7,"Drama, Music",120,137845,82.0,2010s
-Fried Green Tomatoes,1991,7.7,Drama,130,78266,64.0,1990s
-Naked,1993,7.7,"Comedy, Drama",131,41683,85.0,1990s
-The Longest Day,1962,7.7,"Action, Drama, History",178,57617,75.0,1960s
-The Theory of Everything,2014,7.7,"Biography, Drama, Romance",123,464908,71.0,2010s
-Glengarry Glen Ross,1992,7.7,"Crime, Drama, Mystery",100,110711,82.0,1990s
-Being John Malkovich,1999,7.7,"Comedy, Drama, Fantasy",113,344653,90.0,1990s
-Goldfinger,1964,7.7,"Action, Adventure, Thriller",110,196174,87.0,1960s
-Adaptation.,2002,7.7,"Comedy, Drama",115,197521,83.0,2000s
-Flipped,2010,7.7,"Comedy, Drama, Romance",90,93789,45.0,2010s
-A Man Called Ove,2015,7.7,"Comedy, Drama, Romance",116,63774,70.0,2010s
-The Bourne Supremacy,2004,7.7,"Action, Mystery, Thriller",108,474522,73.0,2000s
-Serpico,1973,7.7,"Biography, Crime, Drama",130,128600,81.0,1970s
-This Is England,2006,7.7,"Crime, Drama",101,125290,86.0,2000s
-Ordinary People,1980,7.7,Drama,124,54591,86.0,1980s
-Clerks,1994,7.7,Comedy,92,227667,70.0,1990s
-Bonnie and Clyde,1967,7.7,"Action, Biography, Crime",111,116865,86.0,1960s
-The Name of the Rose,1986,7.7,"Drama, Mystery, Thriller",130,112152,54.0,1980s
-Billy Elliot,2000,7.7,"Drama, Music",110,138730,74.0,2000s
-The Great Beauty,2013,7.7,Drama,141,94277,86.0,2010s
-"South Park: Bigger, Longer & Uncut",1999,7.7,"Animation, Comedy, Fantasy",81,210117,73.0,1990s
-Malcolm X,1992,7.7,"Biography, Drama, History",202,98452,73.0,1990s
-The Verdict,1982,7.7,Drama,129,43213,77.0,1980s
-Roma,2018,7.7,Drama,135,164105,96.0,2010s
-Miller's Crossing,1990,7.7,"Crime, Drama, Thriller",115,138528,66.0,1990s
-Ray,2004,7.7,"Biography, Drama, Music",152,152423,73.0,2000s
-The Wind Rises,2013,7.7,"Animation, Biography, Drama",126,90905,83.0,2010s
-The Last Emperor,1987,7.7,"Biography, Drama, History",163,107554,76.0,1980s
-Paprika,2006,7.7,"Animation, Drama, Fantasy",90,88198,81.0,2000s
-Kubo and the Two Strings,2016,7.7,"Animation, Action, Adventure",101,134106,84.0,2010s
-Belle de Jour,1967,7.7,"Drama, Romance",100,46705,,1960s
-The Quiet Man,1952,7.7,"Comedy, Drama, Romance",129,40590,85.0,1950s
-1900,1976,7.7,"Drama, History",317,26379,70.0,1970s
-Fantasia,1940,7.7,"Animation, Family, Fantasy",124,100110,96.0,1940s
-Fantastic Planet,1973,7.7,"Animation, Sci-Fi",72,34156,73.0,1970s
-Run Lola Run,1998,7.7,"Action, Crime, Thriller",80,202657,77.0,1990s
-The Man from Nowhere,2010,7.7,"Action, Crime, Drama",119,72186,,2010s
-Black Book,2006,7.7,"Drama, Thriller, War",145,78605,71.0,2000s
-Me and Earl and the Dying Girl,2015,7.7,"Comedy, Drama, Romance",105,134923,74.0,2010s
-Open Your Eyes,1997,7.7,"Drama, Mystery, Sci-Fi",119,71262,,1990s
-The Vanishing,1988,7.7,"Mystery, Thriller",107,41088,,1980s
-Porco Rosso,1992,7.7,"Animation, Adventure, Comedy",94,94659,83.0,1990s
-Zulu,1964,7.7,"Drama, History, War",138,41040,77.0,1960s
-Finding Neverland,2004,7.7,"Biography, Drama, Family",106,209192,67.0,2000s
-Down by Law,1986,7.7,"Comedy, Crime, Drama",107,53457,75.0,1980s
-Beasts of No Nation,2015,7.7,"Drama, War",137,84214,79.0,2010s
-Breathless,1960,7.7,"Crime, Drama",90,84909,,1960s
-Dragon Ball Super: Broly,2018,7.7,"Animation, Action, Adventure",100,29635,59.0,2010s
-Hamlet,1996,7.7,Drama,242,39052,,1990s
-Short Cuts,1993,7.7,"Comedy, Drama",188,46233,81.0,1990s
-Nebraska,2013,7.7,Drama,115,120461,86.0,2010s
-When Marnie Was There,2014,7.7,"Animation, Drama, Family",103,43920,72.0,2010s
-Happy Together,1997,7.7,"Drama, Romance",96,31851,70.0,1990s
-Waking Life,2001,7.7,"Animation, Drama, Fantasy",99,65662,83.0,2000s
-"What's Up, Doc?",1972,7.7,"Comedy, Romance",94,25289,,1970s
-A Man for All Seasons,1966,7.7,"Biography, Drama, History",120,35978,72.0,1960s
-The Little Prince,2015,7.7,"Animation, Adventure, Drama",108,64410,70.0,2010s
-Black Narcissus,1947,7.7,Drama,101,26260,86.0,1940s
-Hard Boiled,1992,7.7,"Action, Crime, Thriller",128,52268,,1990s
-Night on Earth,1991,7.7,"Comedy, Drama",129,63141,68.0,1990s
-Hedwig and the Angry Inch,2001,7.7,"Comedy, Drama, Music",95,36598,85.0,2000s
-Invasion of the Body Snatchers,1956,7.7,"Drama, Horror, Sci-Fi",80,52363,92.0,1950s
-Joint Security Area,2000,7.7,"Action, Drama, Thriller",110,32346,58.0,2000s
-Perfect Strangers,2016,7.7,"Comedy, Drama",96,68305,,2010s
-Good Bye Lenin!,2003,7.7,"Comedy, Drama, Romance",121,149471,68.0,2000s
-Cape Fear,1962,7.7,"Drama, Thriller",106,30463,76.0,1960s
-The Double Life of Véronique,1991,7.7,"Drama, Fantasy, Music",98,50936,86.0,1990s
-The Broken Circle Breakdown,2012,7.7,"Drama, Music, Romance",111,42094,70.0,2010s
-The Motorcycle Diaries,2004,7.7,"Adventure, Biography, Drama",126,103110,75.0,2000s
-Scarface,1932,7.7,"Action, Crime, Drama",93,29179,90.0,1930s
-The Lady Vanishes,1938,7.7,"Mystery, Thriller",96,54917,98.0,1930s
-Wait Until Dark,1967,7.7,Thriller,108,32179,81.0,1960s
-Marty,1955,7.7,"Drama, Romance",90,25663,,1950s
-Taste of Cherry,1997,7.7,Drama,95,33525,80.0,1990s
-The Salesman,2016,7.7,"Drama, Thriller",124,62617,85.0,2010s
-Frost/Nixon,2008,7.7,"Biography, Drama, History",122,110360,80.0,2000s
-The Triplets of Belleville,2003,7.7,"Animation, Adventure, Comedy",80,55834,91.0,2000s
-Key Largo,1948,7.7,"Action, Crime, Drama",100,42663,,1940s
-Confessions,2010,7.7,"Drama, Thriller",106,40644,,2010s
-The Caine Mutiny,1954,7.7,"Drama, War",124,28785,63.0,1950s
-Dreams,1990,7.7,"Drama, Fantasy",119,27686,,1990s
-Rockstar,2011,7.7,"Drama, Music, Romance",159,46526,,2010s
-How Green Was My Valley,1941,7.7,"Drama, Family",118,25407,88.0,1940s
-Evil,2003,7.7,Drama,113,40183,61.0,2000s
-Adam's Apples,2005,7.7,"Comedy, Crime, Drama",94,52569,51.0,2000s
-The Girl Who Leapt Through Time,2006,7.7,"Animation, Adventure, Comedy",98,68566,66.0,2000s
-The Experiment,2001,7.7,"Drama, Thriller",120,95050,60.0,2000s
-Love and Death,1975,7.7,"Comedy, War",85,39702,89.0,1970s
-In America,2002,7.7,Drama,105,43758,76.0,2000s
-Fireworks,1997,7.7,"Crime, Drama, Romance",103,31830,83.0,1990s
-After the Wedding,2006,7.7,Drama,120,35802,78.0,2000s
-The Magdalene Sisters,2002,7.7,Drama,114,27827,83.0,2000s
-The Breadwinner,2017,7.7,"Animation, Drama, Family",94,27135,78.0,2010s
-Jules and Jim,1962,7.7,"Drama, Romance",105,43112,97.0,1960s
-The Past,2013,7.7,"Drama, Mystery",130,49917,85.0,2010s
-The Purple Rose of Cairo,1985,7.7,"Comedy, Fantasy, Romance",82,53196,75.0,1980s
-Udta Punjab,2016,7.7,"Action, Crime, Drama",148,31479,,2010s
-The Muppet Christmas Carol,1992,7.7,"Comedy, Drama, Family",85,64281,64.0,1990s
-Eega,2012,7.7,"Action, Comedy, Drama",145,26021,,2010s
-Raazi,2018,7.7,"Action, Drama, Thriller",138,32413,,2010s
-Kapoor & Sons,2016,7.7,"Comedy, Drama, Family",132,27380,,2010s
-Joyeux Noel,2005,7.7,"Drama, History, Music",116,30826,70.0,2000s
-Zelig,1983,7.7,Comedy,79,43119,,1980s
-The Edge of Heaven,2007,7.7,Drama,122,32797,85.0,2000s
-Avatar: The Way of Water,2022,7.6,"Action, Adventure, Fantasy",192,417879,67.0,2020s
-Harry Potter and the Sorcerer's Stone,2001,7.6,"Adventure, Family, Fantasy",152,812796,65.0,2000s
-Once Upon a Time in Hollywood,2019,7.6,"Comedy, Drama",161,782169,83.0,2010s
-Dazed and Confused,1993,7.6,Comedy,103,191562,80.0,1990s
-American Psycho,2000,7.6,"Crime, Drama, Horror",102,660294,64.0,2000s
-The Fabelmans,2022,7.6,Drama,151,93386,84.0,2020s
-The Little Mermaid,1989,7.6,"Animation, Adventure, Family",83,278690,88.0,1980s
-Guardians of the Galaxy Vol. 2,2017,7.6,"Action, Adventure, Comedy",136,720395,67.0,2010s
-The Fifth Element,1997,7.6,"Action, Adventure, Sci-Fi",126,487464,52.0,1990s
-Kick-Ass,2010,7.6,"Action, Comedy, Crime",117,576516,66.0,2010s
-The Royal Tenenbaums,2001,7.6,"Comedy, Drama",110,302518,76.0,2000s
-Superbad,2007,7.6,Comedy,113,602284,76.0,2000s
-Moana,2016,7.6,"Animation, Adventure, Comedy",107,353753,81.0,2010s
-Creed,2015,7.6,"Action, Drama, Sport",133,298738,82.0,2010s
-Deadpool 2,2018,7.6,"Action, Adventure, Comedy",119,608334,66.0,2010s
-Baby Driver,2017,7.6,"Action, Crime, Drama",113,569844,86.0,2010s
-Gifted,2017,7.6,Drama,101,123507,60.0,2010s
-Sicario,2015,7.6,"Action, Crime, Drama",121,447890,82.0,2010s
-300,2006,7.6,"Action, Drama",117,838657,52.0,2000s
-Rushmore,1998,7.6,"Comedy, Drama, Romance",93,191471,86.0,1990s
-Office Space,1999,7.6,Comedy,89,276740,68.0,1990s
-Watchmen,2009,7.6,"Action, Drama, Mystery",162,564114,56.0,2000s
-RoboCop,1987,7.6,"Action, Crime, Sci-Fi",102,268557,70.0,1980s
-My Cousin Vinny,1992,7.6,"Comedy, Crime",120,132938,68.0,1990s
-Fury,2014,7.6,"Action, Drama, War",134,514629,64.0,2010s
-Incredibles 2,2018,7.6,"Animation, Action, Adventure",118,311654,80.0,2010s
-Love Actually,2003,7.6,"Comedy, Drama, Romance",135,504018,55.0,2000s
-Moneyball,2011,7.6,"Biography, Drama, Sport",133,441630,87.0,2010s
-The Blind Side,2009,7.6,"Biography, Drama, Sport",129,345792,53.0,2000s
-Stardust,2007,7.6,"Adventure, Family, Fantasy",127,277862,66.0,2000s
-A Star Is Born,2018,7.6,"Drama, Music, Romance",136,399117,88.0,2010s
-Saw,2004,7.6,"Horror, Mystery, Thriller",103,436662,46.0,2000s
-Harry Potter and the Half-Blood Prince,2009,7.6,"Action, Adventure, Family",153,566356,78.0,2000s
-The Others,2001,7.6,"Horror, Mystery, Thriller",104,377725,74.0,2000s
-The Godfather Part III,1990,7.6,"Crime, Drama",162,408911,60.0,1990s
-Inside Man,2006,7.6,"Crime, Drama, Mystery",129,384826,76.0,2000s
-Train to Busan,2016,7.6,"Action, Horror, Thriller",118,236111,73.0,2010s
+,title,year,rating,genres,runtime,votes,metascore,decade
+0,The Shawshank Redemption,1994,9.3,Drama,142,2757059,82.0,1990s
+1,The Godfather,1972,9.2,"Crime, Drama",175,1918435,100.0,1970s
+2,The Chaos Class,1975,9.2,"Comedy, Drama",87,41819,,1970s
+3,The Dark Knight,2008,9.0,"Action, Crime, Drama",152,2730041,84.0,2000s
+4,Schindler's List,1993,9.0,"Biography, Drama, History",195,1389557,95.0,1990s
+5,12 Angry Men,1957,9.0,"Crime, Drama",96,816794,97.0,1950s
+6,The Godfather Part II,1974,9.0,"Crime, Drama",202,1305818,90.0,1970s
+7,The Lord of the Rings: The Return of the King,2003,9.0,"Action, Adventure, Drama",201,1893300,94.0,2000s
+8,Mirror Game,2016,9.0,"Crime, Mystery, Thriller",147,27659,,2010s
+9,Spider-Man: Across the Spider-Verse,2023,8.9,"Animation, Action, Adventure",140,153840,86.0,2020s
+10,Pulp Fiction,1994,8.9,"Crime, Drama",154,2117056,95.0,1990s
+11,Inception,2010,8.8,"Action, Adventure, Sci-Fi",148,2422729,74.0,2010s
+12,The Lord of the Rings: The Fellowship of the Ring,2001,8.8,"Action, Adventure, Drama",178,1921780,92.0,2000s
+13,Fight Club,1999,8.8,Drama,139,2195220,66.0,1990s
+14,Forrest Gump,1994,8.8,"Drama, Romance",142,2144505,82.0,1990s
+15,"The Good, the Bad and the Ugly",1966,8.8,"Adventure, Western",178,779742,90.0,1960s
+16,The Lord of the Rings: The Two Towers,2002,8.8,"Action, Adventure, Drama",179,1708670,87.0,2000s
+17,Jai Bhim,2021,8.8,"Crime, Drama, Mystery",164,207501,,2020s
+18,777 Charlie,2022,8.8,"Adventure, Comedy, Drama",164,35235,,2020s
+19,Rocketry: The Nambi Effect,2022,8.8,"Biography, Drama",157,53904,,2020s
+20,Interstellar,2014,8.7,"Adventure, Drama, Sci-Fi",169,1924053,74.0,2010s
+21,Goodfellas,1990,8.7,"Biography, Crime, Drama",145,1196548,92.0,1990s
+22,The Matrix,1999,8.7,"Action, Sci-Fi",136,1964827,73.0,1990s
+23,One Flew Over the Cuckoo's Nest,1975,8.7,Drama,133,1031651,84.0,1970s
+24,Star Wars: Episode V - The Empire Strikes Back,1980,8.7,"Action, Adventure, Fantasy",124,1325689,82.0,1980s
+25,The Kashmir Files,2022,8.7,Drama,170,569712,,2020s
+26,Soorarai Pottru,2020,8.7,"Action, Drama",153,119786,,2020s
+27,The Green Mile,1999,8.6,"Crime, Drama, Fantasy",189,1340521,61.0,1990s
+28,Terminator 2: Judgment Day,1991,8.6,"Action, Sci-Fi",137,1127211,75.0,1990s
+29,Se7en,1995,8.6,"Crime, Drama, Mystery",127,1704588,65.0,1990s
+30,The Silence of the Lambs,1991,8.6,"Crime, Drama, Thriller",118,1472719,86.0,1990s
+31,Saving Private Ryan,1998,8.6,"Drama, War",169,1428317,91.0,1990s
+32,Star Wars: Episode IV - A New Hope,1977,8.6,"Action, Adventure, Fantasy",121,1397930,90.0,1970s
+33,Spirited Away,2001,8.6,"Animation, Adventure, Family",125,794145,96.0,2000s
+34,City of God,2002,8.6,"Crime, Drama",130,773064,79.0,2000s
+35,Life Is Beautiful,1997,8.6,"Comedy, Drama, Romance",116,713308,59.0,1990s
+36,Seven Samurai,1954,8.6,"Action, Drama",207,353854,98.0,1950s
+37,It's a Wonderful Life,1946,8.6,"Drama, Family, Fantasy",130,473527,89.0,1940s
+38,Harakiri,1962,8.6,"Action, Drama, Mystery",133,61503,85.0,1960s
+39,Sita Ramam,2022,8.6,"Action, Drama, Mystery",163,60798,,2020s
+40,Back to the Future,1985,8.5,"Adventure, Comedy, Sci-Fi",116,1244182,87.0,1980s
+41,The Departed,2006,8.5,"Crime, Drama, Thriller",151,1361074,85.0,2000s
+42,Alien,1979,8.5,"Horror, Sci-Fi",117,906446,89.0,1970s
+43,Gladiator,2000,8.5,"Action, Adventure, Drama",155,1541196,67.0,2000s
+44,Parasite,2019,8.5,"Drama, Thriller",132,861485,96.0,2010s
+45,Whiplash,2014,8.5,"Drama, Music",106,910358,89.0,2010s
+46,The Prestige,2006,8.5,"Drama, Mystery, Sci-Fi",130,1369244,66.0,2000s
+47,Léon: The Professional,1994,8.5,"Action, Crime, Drama",110,1193455,64.0,1990s
+48,Casablanca,1942,8.5,"Drama, Romance, War",102,585294,100.0,1940s
+49,American History X,1998,8.5,"Crime, Drama",119,1146249,62.0,1990s
+50,The Lion King,1994,8.5,"Animation, Adventure, Drama",88,1089781,88.0,1990s
+51,The Usual Suspects,1995,8.5,"Crime, Drama, Mystery",106,1107239,77.0,1990s
+52,The Pianist,2002,8.5,"Biography, Drama, Music",150,859681,85.0,2000s
+53,Psycho,1960,8.5,"Horror, Mystery, Thriller",109,689936,97.0,1960s
+54,The Intouchables,2011,8.5,"Biography, Comedy, Drama",112,884637,57.0,2010s
+55,Once Upon a Time in the West,1968,8.5,Western,165,338035,82.0,1960s
+56,Grave of the Fireflies,1988,8.5,"Animation, Drama, War",89,288880,94.0,1980s
+57,Rear Window,1954,8.5,"Mystery, Thriller",112,503289,100.0,1950s
+58,Cinema Paradiso,1988,8.5,"Drama, Romance",155,269400,80.0,1980s
+59,Modern Times,1936,8.5,"Comedy, Drama, Romance",87,249113,96.0,1930s
+60,City Lights,1931,8.5,"Comedy, Drama, Romance",87,189059,99.0,1930s
+61,96,2018,8.5,"Drama, Romance",158,33328,,2010s
+62,Spider-Man: Into the Spider-Verse,2018,8.4,"Animation, Action, Adventure",117,597185,87.0,2010s
+63,Indiana Jones and the Raiders of the Lost Ark,1981,8.4,"Action, Adventure",115,993225,85.0,1980s
+64,Avengers: Endgame,2019,8.4,"Action, Adventure, Drama",181,1187959,78.0,2010s
+65,Django Unchained,2012,8.4,"Drama, Western",165,1606249,81.0,2010s
+66,Joker,2019,8.4,"Crime, Drama, Thriller",122,1363522,59.0,2010s
+67,Aliens,1986,8.4,"Action, Adventure, Sci-Fi",137,734632,84.0,1980s
+68,The Shining,1980,8.4,"Drama, Horror",146,1053145,66.0,1980s
+69,Apocalypse Now,1979,8.4,"Drama, Mystery, War",147,684122,94.0,1970s
+70,Oldboy,2003,8.4,"Action, Drama, Mystery",120,598761,77.0,2000s
+71,The Dark Knight Rises,2012,8.4,"Action, Drama, Thriller",164,1747777,78.0,2010s
+72,Avengers: Infinity War,2018,8.4,"Action, Adventure, Sci-Fi",149,1130752,68.0,2010s
+73,Memento,2000,8.4,"Mystery, Thriller",113,1267400,81.0,2000s
+74,Amadeus,1984,8.4,"Biography, Drama, Music",160,410903,88.0,1980s
+75,Coco,2017,8.4,"Animation, Adventure, Drama",105,538844,81.0,2010s
+76,Come and See,1985,8.4,"Drama, Thriller, War",142,86738,,1980s
+77,WALL·E,2008,8.4,"Animation, Adventure, Family",98,1147676,95.0,2000s
+78,Your Name.,2016,8.4,"Animation, Drama, Fantasy",106,289378,81.0,2010s
+79,Das Boot,1981,8.4,"Drama, War",149,256268,86.0,1980s
+80,The Lives of Others,2006,8.4,"Drama, Mystery, Thriller",137,397531,89.0,2000s
+81,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,8.4,"Comedy, War",95,501584,97.0,1960s
+82,Capernaum,2018,8.4,Drama,126,95923,75.0,2010s
+83,Sunset Blvd.,1950,8.4,"Drama, Film-Noir",110,227649,94.0,1950s
+84,3 Idiots,2009,8.4,"Comedy, Drama",170,412247,67.0,2000s
+85,Paths of Glory,1957,8.4,"Drama, War",88,202842,90.0,1950s
+86,Witness for the Prosecution,1957,8.4,"Crime, Drama, Mystery",116,130041,76.0,1950s
+87,The Great Dictator,1940,8.4,"Comedy, Drama, War",125,229347,,1940s
+88,High and Low,1963,8.4,"Crime, Drama, Mystery",143,48131,90.0,1960s
+89,Kaithi,2019,8.4,"Action, Adventure, Crime",145,36479,,2010s
+90,Sardar Udham,2021,8.4,"Biography, Crime, Drama",164,44336,,2020s
+91,Dil Bechara,2020,8.4,"Comedy, Drama, Romance",101,132835,,2020s
+92,Asuran,2019,8.4,"Action, Drama",141,31366,,2010s
+93,Drishyam 2 (2021),2021,8.4,"Crime, Drama, Thriller",152,39156,,2020s
+94,Top Gun: Maverick,2022,8.3,"Action, Drama",130,600339,78.0,2020s
+95,Heat,1995,8.3,"Action, Crime, Drama",170,679981,76.0,1990s
+96,Inglourious Basterds,2009,8.3,"Adventure, Drama, War",153,1497946,69.0,2000s
+97,To Kill a Mockingbird,1962,8.3,"Crime, Drama",129,323023,88.0,1960s
+98,Requiem for a Dream,2000,8.3,Drama,102,864101,71.0,2000s
+99,Scarface (1983),1983,8.3,"Crime, Drama",170,869618,65.0,1980s
+100,American Beauty,1999,8.3,Drama,122,1175957,84.0,1990s
+101,Good Will Hunting,1997,8.3,"Drama, Romance",126,1007635,70.0,1990s
+102,Up,2009,8.3,"Animation, Adventure, Comedy",96,1074001,88.0,2000s
+103,A Clockwork Orange,1971,8.3,"Crime, Sci-Fi",136,850245,77.0,1970s
+104,2001: A Space Odyssey,1968,8.3,"Adventure, Sci-Fi",149,687850,84.0,1960s
+105,Braveheart,1995,8.3,"Biography, Drama, History",178,1058150,68.0,1990s
+106,Full Metal Jacket,1987,8.3,"Drama, War",116,761086,78.0,1980s
+107,Eternal Sunshine of the Spotless Mind,2004,8.3,"Drama, Romance, Sci-Fi",108,1034291,89.0,2000s
+108,Once Upon a Time in America,1984,8.3,"Crime, Drama",229,361537,75.0,1980s
+109,Toy Story,1995,8.3,"Animation, Adventure, Comedy",81,1022378,96.0,1990s
+110,Reservoir Dogs,1992,8.3,"Crime, Thriller",99,1046136,81.0,1990s
+111,Hamilton,2020,8.3,"Biography, Drama, History",160,102453,89.0,2020s
+112,The Hunt,2012,8.3,Drama,115,342926,77.0,2010s
+113,Star Wars: Episode VI - Return of the Jedi,1983,8.3,"Action, Adventure, Fantasy",131,1080956,58.0,1980s
+114,Amélie,2001,8.3,"Comedy, Romance",122,771269,69.0,2000s
+115,Toy Story 3,2010,8.3,"Animation, Adventure, Comedy",103,858217,92.0,2010s
+116,Incendies,2010,8.3,"Drama, Mystery",131,185059,80.0,2010s
+117,Lawrence of Arabia,1962,8.3,"Adventure, Biography, Drama",218,302085,100.0,1960s
+118,Princess Mononoke,1997,8.3,"Animation, Action, Adventure",134,408501,76.0,1990s
+119,North by Northwest,1959,8.3,"Action, Adventure, Mystery",136,335473,98.0,1950s
+120,Metropolis,1927,8.3,"Drama, Sci-Fi",153,178715,98.0,1920s
+121,The Sting,1973,8.3,"Comedy, Crime, Drama",129,270209,83.0,1970s
+122,Citizen Kane,1941,8.3,"Drama, Mystery",119,451754,100.0,1940s
+123,Vertigo,1958,8.3,"Mystery, Romance, Thriller",128,411961,100.0,1950s
+124,Singin' in the Rain,1952,8.3,"Comedy, Musical, Romance",103,249735,99.0,1950s
+125,Ikiru,1952,8.3,Drama,143,82241,92.0,1950s
+126,A Separation,2011,8.3,Drama,123,250059,95.0,2010s
+127,The Apartment,1960,8.3,"Comedy, Drama, Romance",125,187213,94.0,1960s
+128,Dangal,2016,8.3,"Action, Biography, Drama",161,198150,,2010s
+129,M,1931,8.3,"Crime, Mystery, Thriller",99,162135,,1930s
+130,Kantara,2022,8.3,"Action, Adventure, Drama",148,96202,,2020s
+131,Judgment at Nuremberg,1961,8.3,"Drama, War",179,80279,60.0,1960s
+132,Double Indemnity,1944,8.3,"Crime, Drama, Film-Noir",107,161235,95.0,1940s
+133,Like Stars on Earth,2007,8.3,"Drama, Family",165,198633,,2000s
+134,Bicycle Thieves,1948,8.3,Drama,89,168104,,1940s
+135,K.G.F: Chapter 2,2022,8.3,"Action, Crime, Drama",168,140270,,2020s
+136,Ayla: The Daughter of War,2017,8.3,"Biography, Drama, History",125,41772,,2010s
+137,Vikram,2022,8.3,"Action, Crime, Thriller",175,64325,,2020s
+138,The Kid,1921,8.3,"Comedy, Drama, Family",68,129702,,1920s
+139,Shershaah,2021,8.3,"Action, Biography, Drama",135,125129,,2020s
+140,Chhichhore,2019,8.3,"Comedy, Drama, Romance",143,58200,,2010s
+141,Raatchasan,2018,8.3,"Action, Crime, Drama",170,47221,,2010s
+142,Drishyam (2013),2013,8.3,"Crime, Drama, Thriller",160,42717,,2010s
+143,Guardians of the Galaxy Vol. 3,2023,8.2,"Action, Adventure, Comedy",150,178099,64.0,2020s
+144,Indiana Jones and the Last Crusade,1989,8.2,"Action, Adventure",127,775203,65.0,1980s
+145,Spider-Man: No Way Home,2021,8.2,"Action, Adventure, Fantasy",148,806468,71.0,2020s
+146,There Will Be Blood,2007,8.2,Drama,158,605440,93.0,2000s
+147,The Wolf of Wall Street,2013,8.2,"Biography, Comedy, Crime",180,1470690,75.0,2010s
+148,Jurassic Park,1993,8.2,"Action, Adventure, Sci-Fi",127,1018527,68.0,1990s
+149,No Country for Old Men,2007,8.2,"Crime, Drama, Thriller",122,1005315,92.0,2000s
+150,Shutter Island,2010,8.2,"Mystery, Thriller",138,1367348,63.0,2010s
+151,Taxi Driver,1976,8.2,"Crime, Drama",114,868098,94.0,1970s
+152,Batman Begins,2005,8.2,"Action, Crime, Drama",140,1508613,70.0,2000s
+153,The Truman Show,1998,8.2,"Comedy, Drama",103,1122005,90.0,1990s
+154,1917,2019,8.2,"Action, Drama, War",119,624979,78.0,2010s
+155,Green Book,2018,8.2,"Biography, Comedy, Drama",130,522391,69.0,2010s
+156,The Thing,1982,8.2,"Horror, Mystery, Sci-Fi",109,440490,57.0,1980s
+157,Snatch,2000,8.2,"Comedy, Crime",102,876461,55.0,2000s
+158,Howl's Moving Castle,2004,8.2,"Animation, Adventure, Family",119,414483,82.0,2000s
+159,Casino,1995,8.2,"Crime, Drama",178,536808,73.0,1990s
+160,Finding Nemo,2003,8.2,"Animation, Adventure, Comedy",100,1070157,90.0,2000s
+161,Kill Bill: Vol. 1,2003,8.2,"Action, Crime, Thriller",111,1144209,69.0,2000s
+162,L.A. Confidential,1997,8.2,"Crime, Drama, Mystery",138,594658,91.0,1990s
+163,A Beautiful Mind,2001,8.2,"Biography, Drama",135,952769,72.0,2000s
+164,The Sixth Sense,1999,8.2,"Drama, Mystery, Thriller",107,1013607,64.0,1990s
+165,The Father,2020,8.2,"Drama, Mystery",97,170547,88.0,2020s
+166,Die Hard,1988,8.2,"Action, Thriller",132,903636,72.0,1980s
+167,The Great Escape,1963,8.2,"Adventure, Drama, History",172,250146,86.0,1960s
+168,Unforgiven,1992,8.2,"Drama, Western",130,422048,85.0,1990s
+169,Downfall,2004,8.2,"Biography, Drama, History",156,363254,82.0,2000s
+170,Monty Python and the Holy Grail,1975,8.2,"Adventure, Comedy, Fantasy",91,553207,91.0,1970s
+171,Chinatown,1974,8.2,"Drama, Mystery, Thriller",130,335694,92.0,1970s
+172,V for Vendetta,2005,8.2,"Action, Drama, Sci-Fi",132,1143386,62.0,2000s
+173,Pan's Labyrinth,2006,8.2,"Drama, Fantasy, War",118,682447,98.0,2000s
+174,Gone with the Wind,1939,8.2,"Drama, Romance, War",238,323241,97.0,1930s
+175,Demon Slayer the Movie: Mugen Train,2020,8.2,"Animation, Action, Adventure",117,65319,72.0,2020s
+176,The Elephant Man,1980,8.2,"Biography, Drama",124,248698,78.0,1980s
+177,Some Like It Hot,1959,8.2,"Comedy, Music, Romance",121,273900,98.0,1950s
+178,The Secret in Their Eyes,2009,8.2,"Drama, Mystery, Romance",129,214702,80.0,2000s
+179,Ran,1985,8.2,"Action, Drama, War",162,129715,97.0,1980s
+180,For a Few Dollars More,1965,8.2,"Drama, Western",132,263562,74.0,1960s
+181,Tumbbad,2018,8.2,"Drama, Fantasy, Horror",104,53465,,2010s
+182,Drishyam 2 (2022),2022,8.2,"Crime, Drama, Mystery",140,37840,,2020s
+183,Klaus,2019,8.2,"Animation, Adventure, Comedy",96,167262,65.0,2010s
+184,All About Eve,1950,8.2,Drama,138,134411,98.0,1950s
+185,Dial M for Murder,1954,8.2,"Crime, Thriller",105,181196,75.0,1950s
+186,Gangs of Wasseypur,2012,8.2,"Action, Comedy, Crime",321,99599,89.0,2010s
+187,Miracle in Cell No. 7,2019,8.2,Drama,132,51956,,2010s
+188,Rashomon,1950,8.2,"Crime, Drama, Mystery",88,173250,98.0,1950s
+189,The Treasure of the Sierra Madre,1948,8.2,"Adventure, Drama, Western",126,128295,98.0,1940s
+190,Yojimbo,1961,8.2,"Action, Drama, Thriller",110,126244,93.0,1960s
+191,Baahubali 2: The Conclusion,2017,8.2,"Action, Drama",167,107536,,2010s
+192,Drishyam (2015),2015,8.2,"Crime, Drama, Mystery",163,89051,,2010s
+193,Z,1969,8.2,"Crime, Drama, Thriller",127,30087,86.0,1960s
+194,Tokyo Story,1953,8.2,Drama,136,64390,100.0,1950s
+195,Zindagi Na Milegi Dobara,2011,8.2,"Comedy, Drama, Musical",155,81733,,2010s
+196,Uri: The Surgical Strike,2019,8.2,"Action, Drama, History",138,67851,,2010s
+197,Andhadhun,2018,8.2,"Crime, Mystery, Thriller",139,97545,,2010s
+198,Children of Heaven,1997,8.2,"Drama, Family, Sport",89,77014,77.0,1990s
+199,To Be or Not to Be,1942,8.2,"Comedy, Romance, War",99,39854,86.0,1940s
+200,The Wages of Fear,1953,8.2,"Adventure, Drama, Thriller",131,63382,85.0,1950s
+201,The Passion of Joan of Arc,1928,8.2,"Biography, Drama, History",114,57510,98.0,1920s
+202,Pather Panchali,1955,8.2,Drama,125,35239,,1950s
+203,K.G.F: Chapter 1,2018,8.2,"Action, Crime, Drama",156,92044,,2010s
+204,Dersu Uzala,1975,8.2,"Adventure, Biography, Drama",142,32012,,1970s
+205,The Mountain II,2016,8.2,"Action, Drama, War",135,109260,,2010s
+206,My Father and My Son,2005,8.2,"Drama, Family",112,88610,,2000s
+207,Vikram Vedha,2017,8.2,"Action, Crime, Drama",147,47960,,2010s
+208,Sherlock Jr.,1924,8.2,"Action, Comedy, Romance",45,52748,,1920s
+209,Swades,2004,8.2,"Drama, Musical",189,93825,,2000s
+210,Umberto D.,1952,8.2,Drama,89,26894,92.0,1950s
+211,Farha,2021,8.2,Drama,92,79645,,2020s
+212,Paan Singh Tomar,2012,8.2,"Action, Biography, Crime",135,37108,,2010s
+213,Rangasthalam 1985,2018,8.2,"Action, Drama",170,26251,,2010s
+214,Bhaag Milkha Bhaag,2013,8.2,"Biography, Drama, Sport",186,69957,,2010s
+215,Jaws,1975,8.1,"Adventure, Mystery, Thriller",124,626967,87.0,1970s
+216,The Grand Budapest Hotel,2014,8.1,"Adventure, Comedy, Crime",99,842555,88.0,2010s
+217,The Terminator,1984,8.1,"Action, Sci-Fi",107,888789,84.0,1980s
+218,Prisoners,2013,8.1,"Crime, Drama, Mystery",153,750857,70.0,2010s
+219,Mad Max: Fury Road,2015,8.1,"Action, Adventure, Sci-Fi",120,1033785,90.0,2010s
+220,Pirates of the Caribbean: The Curse of the Black Pearl,2003,8.1,"Action, Adventure, Fantasy",143,1157694,63.0,2000s
+221,Hacksaw Ridge,2016,8.1,"Biography, Drama, History",139,552973,71.0,2010s
+222,Gone Girl,2014,8.1,"Drama, Mystery, Thriller",149,1012065,79.0,2010s
+223,Blade Runner,1982,8.1,"Action, Drama, Sci-Fi",117,790593,84.0,1980s
+224,The Deer Hunter,1978,8.1,"Drama, War",183,347622,86.0,1970s
+225,The Big Lebowski,1998,8.1,"Comedy, Crime",117,829442,71.0,1990s
+226,Catch Me If You Can,2002,8.1,"Biography, Crime, Drama",141,1026453,75.0,2000s
+227,The Help,2011,8.1,Drama,146,473947,62.0,2010s
+228,The Exorcist,1973,8.1,Horror,122,423015,81.0,1970s
+229,Inside Out,2015,8.1,"Animation, Adventure, Comedy",95,740217,94.0,2010s
+230,Stand by Me,1986,8.1,"Adventure, Drama",89,419072,75.0,1980s
+231,Ratatouille,2007,8.1,"Animation, Adventure, Comedy",111,771059,96.0,2000s
+232,Ford v Ferrari,2019,8.1,"Action, Biography, Drama",152,422587,81.0,2010s
+233,Rocky,1976,8.1,"Drama, Sport",120,600826,70.0,1970s
+234,Harry Potter and the Deathly Hallows: Part 2,2011,8.1,"Adventure, Family, Fantasy",130,903950,85.0,2010s
+235,"Three Billboards Outside Ebbing, Missouri",2017,8.1,"Comedy, Crime, Drama",115,528001,88.0,2010s
+236,The Handmaiden,2016,8.1,"Drama, Romance, Thriller",145,158093,85.0,2010s
+237,Logan,2017,8.1,"Action, Drama, Sci-Fi",137,791150,77.0,2010s
+238,Before Sunrise,1995,8.1,"Drama, Romance",101,321797,77.0,1990s
+239,Trainspotting,1996,8.1,Drama,93,702721,83.0,1990s
+240,"Monsters, Inc.",2001,8.1,"Animation, Adventure, Comedy",92,935722,79.0,2000s
+241,Dead Poets Society,1989,8.1,"Comedy, Drama",128,512327,79.0,1980s
+242,The Wizard of Oz,1939,8.1,"Adventure, Family, Fantasy",102,411699,92.0,1930s
+243,Fargo,1996,8.1,"Crime, Thriller",98,694610,86.0,1990s
+244,Into the Wild,2007,8.1,"Adventure, Biography, Drama",148,636655,73.0,2000s
+245,Memories of Murder,2003,8.1,"Crime, Drama, Mystery",132,197162,82.0,2000s
+246,12 Years a Slave,2013,8.1,"Biography, Drama, History",134,717596,96.0,2010s
+247,Rush,2013,8.1,"Action, Biography, Drama",123,492625,74.0,2010s
+248,The Sound of Music,1965,8.1,"Biography, Drama, Family",172,245589,63.0,1960s
+249,Spotlight,2015,8.1,"Biography, Crime, Drama",129,483688,93.0,2010s
+250,Room,2015,8.1,"Drama, Thriller",118,433072,86.0,2010s
+251,Platoon,1986,8.1,"Drama, War",120,424341,92.0,1980s
+252,How to Train Your Dragon,2010,8.1,"Animation, Action, Adventure",98,764406,75.0,2010s
+253,"Lock, Stock and Two Smoking Barrels",1998,8.1,"Action, Comedy, Crime",107,596651,66.0,1990s
+254,Gran Torino,2008,8.1,Drama,116,791392,72.0,2000s
+255,Warrior,2011,8.1,"Action, Drama, Sport",140,482900,71.0,2010s
+256,Portrait of a Lady on Fire,2019,8.1,Drama,122,99559,95.0,2010s
+257,Million Dollar Baby,2004,8.1,"Drama, Sport",132,701407,86.0,2000s
+258,Raging Bull,1980,8.1,"Biography, Drama, Sport",129,364248,90.0,1980s
+259,My Neighbor Totoro,1988,8.1,"Animation, Comedy, Family",86,354537,86.0,1980s
+260,In the Mood for Love,2000,8.1,"Drama, Romance",98,157473,87.0,2000s
+261,Cool Hand Luke,1967,8.1,"Crime, Drama",127,182303,92.0,1960s
+262,Before Sunset,2004,8.1,"Drama, Romance",80,274948,91.0,2000s
+263,Hachi: A Dog's Tale,2009,8.1,"Biography, Drama, Family",93,296080,,2000s
+264,Barry Lyndon,1975,8.1,"Adventure, Drama, War",185,174383,89.0,1970s
+265,Wild Tales,2014,8.1,"Comedy, Drama, Thriller",122,206104,77.0,2010s
+266,The Iron Giant,1999,8.1,"Animation, Action, Adventure",86,210705,85.0,1990s
+267,Inherit the Wind,1960,8.1,"Biography, Drama, History",128,31560,75.0,1960s
+268,Stalker,1979,8.1,"Drama, Sci-Fi",162,138856,85.0,1970s
+269,Network,1976,8.1,Drama,121,163978,83.0,1970s
+270,La haine,1995,8.1,"Crime, Drama",98,182292,,1990s
+271,A Silent Voice: The Movie,2016,8.1,"Animation, Drama",130,90631,78.0,2010s
+272,"Paris, Texas",1984,8.1,Drama,145,111065,81.0,1980s
+273,The Seventh Seal,1957,8.1,"Drama, Fantasy",96,190460,88.0,1950s
+274,Hotel Rwanda,2004,8.1,"Biography, Drama, History",121,362600,79.0,2000s
+275,Ben-Hur,1959,8.1,"Adventure, Drama",212,245725,90.0,1950s
+276,On the Waterfront,1954,8.1,"Crime, Drama, Thriller",108,158955,91.0,1950s
+277,In the Name of the Father,1993,8.1,"Biography, Crime, Drama",133,180332,84.0,1990s
+278,The Bridge on the River Kwai,1957,8.1,"Adventure, Drama, War",161,226207,87.0,1950s
+279,Persona,1966,8.1,"Drama, Thriller",83,124155,86.0,1960s
+280,Amores Perros,2000,8.1,"Drama, Thriller",154,245910,83.0,2000s
+281,The Third Man,1949,8.1,"Film-Noir, Mystery, Thriller",93,175763,97.0,1940s
+282,A Woman Under the Influence,1974,8.1,"Drama, Romance",155,26915,88.0,1970s
+283,The Man Who Shot Liberty Valance,1962,8.1,"Drama, Western",123,79211,94.0,1960s
+284,Neon Genesis Evangelion: The End of Evangelion,1997,8.1,"Animation, Action, Drama",87,58978,,1990s
+285,Rebecca,1940,8.1,"Drama, Film-Noir, Mystery",130,141181,86.0,1940s
+286,The Best Years of Our Lives,1946,8.1,"Drama, Romance, War",170,67314,93.0,1940s
+287,Paper Moon,1973,8.1,"Comedy, Crime, Drama",102,49975,77.0,1970s
+288,Mary and Max,2009,8.1,"Animation, Comedy, Drama",92,181238,,2000s
+289,It Happened One Night,1934,8.1,"Comedy, Romance",105,107661,87.0,1930s
+290,All Quiet on the Western Front (1930),1930,8.1,"Drama, War",152,65611,91.0,1930s
+291,Three Colors: Red,1994,8.1,"Drama, Mystery, Romance",99,106580,100.0,1990s
+292,The Celebration,1998,8.1,Drama,105,90315,82.0,1990s
+293,PK,2014,8.1,"Comedy, Drama, Sci-Fi",153,193648,,2010s
+294,The Grapes of Wrath,1940,8.1,Drama,129,96417,96.0,1940s
+295,Fanny and Alexander,1982,8.1,Drama,188,65541,100.0,1980s
+296,The 400 Blows,1959,8.1,"Crime, Drama",99,122568,,1950s
+297,Wild Strawberries,1957,8.1,"Drama, Romance",91,110316,88.0,1950s
+298,Ace in the Hole,1951,8.1,"Drama, Film-Noir",111,37572,72.0,1950s
+299,Andrei Rublev,1966,8.1,"Biography, Drama, History",205,55332,,1960s
+300,Underground,1995,8.1,"Comedy, Drama, Fantasy",167,59723,79.0,1990s
+301,Farewell My Concubine,1993,8.1,"Drama, Music, Romance",171,30996,83.0,1990s
+302,Yi Yi: A One and a Two...,2000,8.1,"Drama, Romance",173,26385,94.0,2000s
+303,Lagaan: Once Upon a Time in India,2001,8.1,"Drama, Musical, Sport",224,117189,84.0,2000s
+304,The Message,1976,8.1,"Biography, Drama, History",177,49149,,1970s
+305,The Red Shoes,1948,8.1,"Drama, Music, Romance",135,36977,,1940s
+306,Winter Sleep,2014,8.1,Drama,196,53354,88.0,2010s
+307,Mr. Smith Goes to Washington,1939,8.1,"Comedy, Drama",129,117877,73.0,1930s
+308,Throne of Blood,1957,8.1,Drama,110,53950,,1950s
+309,The Battle of Algiers,1966,8.1,"Drama, War",121,62629,96.0,1960s
+310,The Hidden Fortress,1958,8.1,"Action, Adventure, Drama",126,40567,89.0,1950s
+311,Wolf Children,2012,8.1,"Animation, Drama, Family",117,47093,71.0,2010s
+312,Sunrise,1927,8.1,"Drama, Romance",94,52441,95.0,1920s
+313,Dil Chahta Hai,2001,8.1,"Comedy, Drama, Romance",183,73937,,2000s
+314,Barfi!,2012,8.1,"Comedy, Drama, Romance",151,84224,,2010s
+315,Masaan,2015,8.1,Drama,109,29417,,2010s
+316,Kahaani,2012,8.1,"Mystery, Thriller",122,64138,,2010s
+317,White Heat,1949,8.1,"Action, Crime, Drama",114,34362,,1940s
+318,The General,1926,8.1,"Action, Adventure, Comedy",67,94155,,1920s
+319,Diabolique,1955,8.1,"Crime, Drama, Horror",117,67508,,1950s
+320,The Gold Rush,1925,8.1,"Adventure, Comedy, Drama",95,114209,,1920s
+321,Autumn Sonata,1978,8.1,"Drama, Music",99,35980,,1970s
+322,Talvar,2015,8.1,"Crime, Drama, Mystery",132,36610,,2010s
+323,Let's Go! India,2007,8.1,"Drama, Family, Sport",153,82388,68.0,2000s
+324,Nights of Cabiria,1957,8.1,Drama,110,50488,,1950s
+325,Rang De Basanti,2006,8.1,"Comedy, Crime, Drama",167,120606,,2000s
+326,Raise the Red Lantern,1991,8.1,"Drama, Romance",125,34033,,1990s
+327,Bajrangi Bhaijaan,2015,8.1,"Action, Adventure, Comedy",163,92292,,2010s
+328,Sholay,1975,8.1,"Action, Adventure, Comedy",162,57210,,1970s
+329,Jean de Florette,1986,8.1,"Comedy, Drama",120,26724,,1980s
+330,A Wednesday,2008,8.1,"Action, Crime, Drama",104,80342,,2000s
+331,Rififi,1955,8.1,"Crime, Drama, Thriller",118,35680,97.0,1950s
+332,The Virgin Spring,1960,8.1,Drama,89,30465,,1960s
+333,The Grand Illusion,1937,8.1,"Drama, War",113,37745,,1930s
+334,Major,2022,8.1,"Action, Biography, Drama",150,30642,,2020s
+335,Time of the Gypsies,1988,8.1,"Comedy, Crime, Drama",142,31757,,1980s
+336,Article 15,2019,8.1,"Crime, Drama, Mystery",130,35273,,2010s
+337,Queen,2013,8.1,"Adventure, Comedy, Drama",146,67142,,2010s
+338,Sarfarosh,1999,8.1,"Action, Drama, Thriller",174,26275,,1990s
+339,Munna Bhai M.B.B.S.,2003,8.1,"Comedy, Drama",156,84757,,2000s
+340,Tangerines,2013,8.1,"Drama, War",87,47609,73.0,2010s
+341,Viridiana,1961,8.1,Drama,91,25261,,1960s
+342,Pink,2016,8.1,"Crime, Drama, Thriller",136,46561,,2010s
+343,The Tashkent Files,2019,8.1,"Drama, Mystery, Thriller",134,35218,,2010s
+344,Hera Pheri,2000,8.1,"Action, Comedy, Crime",156,69611,,2000s
+345,The Bandit,1996,8.1,"Crime, Drama, Thriller",128,70949,,1990s
+346,The Circus,1928,8.1,"Comedy, Family, Romance",72,34943,90.0,1920s
+347,OMG: Oh My God!,2012,8.1,"Comedy, Drama, Fantasy",125,60871,,2010s
+348,Udaan,2010,8.1,Drama,134,45959,,2010s
+349,Black,2005,8.1,Drama,122,35514,,2000s
+350,Dara of Jasenovac,2020,8.1,"Drama, War",130,81439,,2020s
+351,Everything's Gonna Be Great,1998,8.1,"Comedy, Drama, Thriller",107,26364,,1990s
+352,Thuppakki,2012,8.1,"Action, Thriller",165,35985,,2010s
+353,Kaththi,2014,8.1,"Action, Drama",166,28389,,2010s
+354,Anand,1971,8.1,"Drama, Musical",122,34484,,1970s
+355,Dune: Part One,2021,8.0,"Action, Adventure, Drama",155,685932,74.0,2020s
+356,Zack Snyder's Justice League,2021,8.0,"Action, Adventure, Fantasy",242,415674,54.0,2020s
+357,Guardians of the Galaxy,2014,8.0,"Action, Adventure, Comedy",121,1225272,76.0,2010s
+358,Blade Runner 2049,2017,8.0,"Action, Drama, Mystery",164,607810,81.0,2010s
+359,Black Swan,2010,8.0,"Drama, Thriller",108,791108,79.0,2010s
+360,The Princess Bride,1987,8.0,"Adventure, Comedy, Family",98,437090,77.0,1980s
+361,The Incredibles,2004,8.0,"Animation, Action, Adventure",115,765428,90.0,2000s
+362,The Avengers,2012,8.0,"Action, Sci-Fi",143,1419719,69.0,2010s
+363,Deadpool,2016,8.0,"Action, Comedy",108,1072268,65.0,2010s
+364,La La Land,2016,8.0,"Comedy, Drama, Music",128,618481,94.0,2010s
+365,Do the Right Thing,1989,8.0,"Comedy, Drama",120,106958,93.0,1980s
+366,Her,2013,8.0,"Drama, Romance, Sci-Fi",126,638521,91.0,2010s
+367,Zootopia,2016,8.0,"Animation, Adventure, Comedy",108,518785,78.0,2010s
+368,Donnie Darko,2001,8.0,"Drama, Mystery, Sci-Fi",113,821591,88.0,2000s
+369,The Martian,2015,8.0,"Adventure, Drama, Sci-Fi",144,882126,80.0,2010s
+370,Casino Royale,2006,8.0,"Action, Adventure, Thriller",144,672575,80.0,2000s
+371,CODA,2021,8.0,"Comedy, Drama, Music",111,147466,72.0,2020s
+372,Sin City,2005,8.0,"Crime, Thriller",124,780266,74.0,2000s
+373,The Imitation Game,2014,8.0,"Biography, Drama, Thriller",114,791289,71.0,2010s
+374,The Revenant,2015,8.0,"Action, Adventure, Drama",156,830464,76.0,2010s
+375,Dances with Wolves,1990,8.0,"Adventure, Drama, Western",181,277605,72.0,1990s
+376,Fiddler on the Roof,1971,8.0,"Drama, Family, Musical",181,45649,67.0,1970s
+377,Soul,2020,8.0,"Animation, Adventure, Comedy",100,348040,83.0,2020s
+378,Blood Diamond,2006,8.0,"Adventure, Drama, Thriller",143,565523,64.0,2000s
+379,Aladdin,1992,8.0,"Animation, Adventure, Comedy",90,439550,86.0,1990s
+380,Groundhog Day,1993,8.0,"Comedy, Drama, Fantasy",101,653135,72.0,1990s
+381,Rain Man,1988,8.0,Drama,133,527986,65.0,1980s
+382,Dog Day Afternoon,1975,8.0,"Biography, Crime, Drama",125,264733,86.0,1970s
+383,Scent of a Woman,1992,8.0,Drama,156,311436,59.0,1990s
+384,Big Fish,2003,8.0,"Adventure, Drama, Fantasy",125,448989,58.0,2000s
+385,Young Frankenstein,1974,8.0,Comedy,106,163276,83.0,1970s
+386,The Graduate,1967,8.0,"Comedy, Drama, Romance",106,280726,83.0,1960s
+387,Beauty and the Beast (1991),1991,8.0,"Animation, Family, Fantasy",84,465943,95.0,1990s
+388,What Ever Happened to Baby Jane?,1962,8.0,"Drama, Horror, Thriller",134,59013,75.0,1960s
+389,Magnolia,1999,8.0,Drama,188,320086,78.0,1990s
+390,12 Monkeys,1995,8.0,"Mystery, Sci-Fi, Thriller",129,630668,74.0,1990s
+391,The Pursuit of Happyness,2006,8.0,"Biography, Drama",117,532900,64.0,2000s
+392,JFK,1991,8.0,"Drama, History, Thriller",189,162462,72.0,1990s
+393,Kill Bill: Vol. 2,2004,8.0,"Action, Crime, Thriller",137,776031,83.0,2000s
+394,Akira,1988,8.0,"Animation, Action, Drama",124,194518,67.0,1980s
+395,Rosemary's Baby,1968,8.0,"Drama, Horror",137,224249,96.0,1960s
+396,Planet of the Apes,1968,8.0,"Adventure, Sci-Fi",112,185861,79.0,1960s
+397,Slumdog Millionaire,2008,8.0,"Crime, Drama, Romance",120,859926,84.0,2000s
+398,Perfect Blue,1997,8.0,"Animation, Crime, Drama",81,84599,67.0,1990s
+399,Dogville,2003,8.0,"Crime, Drama",178,153494,59.0,2000s
+400,Life of Brian,1979,8.0,Comedy,94,409977,77.0,1970s
+401,The Invisible Guest,2016,8.0,"Crime, Drama, Mystery",106,183573,,2010s
+402,Butch Cassidy and the Sundance Kid,1969,8.0,"Biography, Crime, Drama",110,221212,66.0,1960s
+403,Baahubali: The Beginning,2015,8.0,"Action, Drama",159,130598,,2010s
+404,Lion,2016,8.0,"Biography, Drama",118,243118,69.0,2010s
+405,High Noon,1952,8.0,"Drama, Thriller, Western",85,107227,89.0,1950s
+406,The King's Speech,2010,8.0,"Biography, Drama, History",118,692883,88.0,2010s
+407,Being There,1979,8.0,"Comedy, Drama",130,75027,83.0,1970s
+408,Ip Man,2008,8.0,"Action, Biography, Drama",106,228867,59.0,2000s
+409,The Bourne Ultimatum,2007,8.0,"Action, Mystery, Thriller",115,645201,85.0,2000s
+410,Sling Blade,1996,8.0,Drama,135,96297,84.0,1990s
+411,Chungking Express,1994,8.0,"Comedy, Crime, Drama",102,88491,78.0,1990s
+412,Mommy,2014,8.0,Drama,139,59309,74.0,2010s
+413,Roman Holiday,1953,8.0,"Comedy, Romance",118,142789,78.0,1950s
+414,Annie Hall,1977,8.0,"Comedy, Romance",93,270794,92.0,1970s
+415,The Maltese Falcon,1941,8.0,"Crime, Film-Noir, Mystery",100,162664,97.0,1940s
+416,Rio Bravo,1959,8.0,"Drama, Western",141,65431,93.0,1950s
+417,Nausicaä of the Valley of the Wind,1984,8.0,"Animation, Adventure, Sci-Fi",117,174533,86.0,1980s
+418,8½,1963,8.0,"Biography, Drama",138,121425,93.0,1960s
+419,The Last Picture Show,1971,8.0,"Drama, Romance",118,50170,93.0,1970s
+420,Castle in the Sky,1986,8.0,"Animation, Adventure, Family",125,172642,78.0,1980s
+421,Pink Floyd: The Wall,1982,8.0,"Drama, Fantasy, Music",95,83213,47.0,1980s
+422,Gandhi,1982,8.0,"Biography, Drama, History",191,236463,79.0,1980s
+423,Papillon,1973,8.0,"Biography, Crime, Drama",151,134450,58.0,1970s
+424,Solaris,1972,8.0,"Drama, Mystery, Sci-Fi",167,94737,93.0,1970s
+425,Cinderella Man,2005,8.0,"Biography, Drama, Romance",144,192743,69.0,2000s
+426,The Legend of 1900,1998,8.0,"Drama, Music, Romance",169,66839,58.0,1990s
+427,Fitzcarraldo,1982,8.0,"Adventure, Drama",158,36629,,1980s
+428,La Dolce Vita,1960,8.0,"Comedy, Drama",174,75715,95.0,1960s
+429,The Night of the Hunter,1955,8.0,"Crime, Drama, Film-Noir",92,92676,97.0,1950s
+430,The Straight Story,1999,8.0,"Biography, Drama",112,93406,86.0,1990s
+431,Who's Afraid of Virginia Woolf?,1966,8.0,Drama,131,77666,75.0,1960s
+432,Anatomy of a Murder,1959,8.0,"Drama, Mystery",161,68591,95.0,1950s
+433,Infernal Affairs,2002,8.0,"Action, Crime, Drama",101,127906,75.0,2000s
+434,Wolfwalkers,2020,8.0,"Animation, Action, Adventure",103,35448,87.0,2020s
+435,Touch of Evil,1958,8.0,"Crime, Drama, Film-Noir",95,107130,99.0,1950s
+436,Wings of Desire,1987,8.0,"Drama, Fantasy, Romance",128,73612,79.0,1980s
+437,The Leopard,1963,8.0,"Drama, History",186,27442,100.0,1960s
+438,Out of the Past,1947,8.0,"Crime, Drama, Film-Noir",97,39134,85.0,1940s
+439,Mirror,1975,8.0,"Biography, Drama",107,49402,82.0,1970s
+440,The Cabinet of Dr. Caligari,1920,8.0,"Horror, Mystery, Thriller",67,66821,,1920s
+441,The Hustler,1961,8.0,"Drama, Sport",134,84352,90.0,1960s
+442,Sweet Smell of Success,1957,8.0,"Drama, Film-Noir",96,33991,100.0,1950s
+443,Le Samouraï,1967,8.0,"Crime, Drama, Thriller",101,53816,,1960s
+444,Elite Squad,2007,8.0,"Action, Crime, Drama",115,106968,33.0,2000s
+445,Secrets & Lies,1996,8.0,"Comedy, Drama",136,45233,91.0,1990s
+446,The Tale of The Princess Kaguya,2013,8.0,"Animation, Drama, Family",137,49965,89.0,2010s
+447,Nobody Knows,2004,8.0,Drama,141,29543,88.0,2000s
+448,Song of the Sea,2014,8.0,"Animation, Adventure, Drama",93,60807,85.0,2010s
+449,Stalag 17,1953,8.0,"Comedy, Drama, War",120,57207,84.0,1950s
+450,The Diving Bell and the Butterfly,2007,8.0,"Biography, Drama",112,108984,92.0,2000s
+451,My Man Godfrey,1936,8.0,"Comedy, Drama, Romance",94,25258,82.0,1930s
+452,My Sassy Girl,2001,8.0,"Comedy, Drama, Romance",137,49383,,2000s
+453,Nostalghia,1983,8.0,Drama,125,28549,,1980s
+454,Brief Encounter,1945,8.0,"Drama, Romance",86,42015,92.0,1940s
+455,The Sea Inside,2004,8.0,"Biography, Drama",126,83554,74.0,2000s
+456,Persepolis,2007,8.0,"Animation, Biography, Drama",96,97297,90.0,2000s
+457,Dilwale Dulhania Le Jayenge,1995,8.0,"Drama, Romance",181,73178,,1990s
+458,"Black Cat, White Cat",1998,8.0,"Comedy, Crime, Romance",127,55216,73.0,1990s
+459,Cries & Whispers,1972,8.0,Drama,91,35566,,1970s
+460,Sleuth,1972,8.0,"Mystery, Thriller",138,48924,,1970s
+461,"Quo Vadis, Aida?",2020,8.0,"Drama, History, War",101,36015,97.0,2020s
+462,Ivan's Childhood,1962,8.0,"Drama, War",95,38217,,1960s
+463,La strada,1954,8.0,Drama,108,64948,,1950s
+464,Departures,2008,8.0,Drama,130,53466,68.0,2000s
+465,The Wild Pear Tree,2018,8.0,Drama,188,25804,86.0,2010s
+466,"Goodbye, Children",1987,8.0,"Drama, War",104,35014,88.0,1980s
+467,The Exterminating Angel,1962,8.0,"Drama, Fantasy",95,34257,,1960s
+468,Kind Hearts and Coronets,1949,8.0,"Comedy, Crime",106,38612,,1940s
+469,Central Station,1998,8.0,Drama,110,40954,80.0,1990s
+470,"Spring, Summer, Fall, Winter... and Spring",2003,8.0,"Drama, Romance",103,84909,85.0,2000s
+471,Sanjuro,1962,8.0,"Action, Drama, Thriller",96,39572,,1960s
+472,Haider,2014,8.0,"Action, Crime, Drama",160,56193,,2010s
+473,The Shop Around the Corner,1940,8.0,"Comedy, Drama, Romance",99,35593,96.0,1940s
+474,Elite Squad 2: The Enemy Within,2010,8.0,"Action, Crime, Drama",115,84862,71.0,2010s
+475,M.S. Dhoni: The Untold Story,2016,8.0,"Biography, Drama, Sport",184,63517,,2010s
+476,Tae Guk Gi: The Brotherhood of War,2004,8.0,"Action, Drama, War",140,40406,64.0,2000s
+477,"Rome, Open City",1945,8.0,"Drama, Thriller, War",103,27788,,1940s
+478,G.O.R.A.,2004,8.0,"Adventure, Comedy, Sci-Fi",127,64703,,2000s
+479,Winter Light,1963,8.0,Drama,81,26046,,1960s
+480,Andaz Apna Apna,1994,8.0,"Action, Comedy, Romance",160,54279,,1990s
+481,The Blue Elephant,2014,8.0,"Drama, Horror, Mystery",170,29175,,2010s
+482,"Carry On, Munna Bhai",2006,8.0,"Comedy, Drama, Romance",144,48251,,2000s
+483,Karthikeya 2,2022,8.0,"Action, Adventure, Fantasy",150,63374,,2020s
+484,Arjun Reddy,2017,8.0,"Action, Drama, Romance",182,26386,,2010s
+485,Special 26,2013,8.0,"Crime, Drama, Thriller",144,57597,,2010s
+486,The Breath,2009,8.0,"Action, Drama, Thriller",128,34451,,2000s
+487,Vizontele,2001,8.0,"Comedy, Drama",110,37742,,2000s
+488,1: Nenokkadine,2014,8.0,"Action, Thriller",170,45935,,2010s
+489,John Wick: Chapter 4,2023,7.9,"Action, Crime, Thriller",169,222654,78.0,2020s
+490,Titanic,1997,7.9,"Drama, Romance",194,1223858,75.0,1990s
+491,Avatar,2009,7.9,"Action, Adventure, Fantasy",162,1348557,83.0,2000s
+492,Puss in Boots: The Last Wish,2022,7.9,"Animation, Adventure, Comedy",102,136427,73.0,2020s
+493,Arrival,2016,7.9,"Drama, Mystery, Sci-Fi",116,722438,81.0,2010s
+494,Fantastic Mr. Fox,2009,7.9,"Animation, Adventure, Comedy",87,248754,83.0,2000s
+495,Iron Man,2008,7.9,"Action, Adventure, Sci-Fi",126,1085927,79.0,2000s
+496,Knives Out,2019,7.9,"Comedy, Crime, Drama",130,730323,82.0,2010s
+497,Edge of Tomorrow,2014,7.9,"Action, Adventure, Sci-Fi",113,701633,71.0,2010s
+498,The Perks of Being a Wallflower,2012,7.9,Drama,103,528101,67.0,2010s
+499,Mulholland Drive,2001,7.9,"Drama, Mystery, Thriller",147,368098,86.0,2000s
+500,True Romance,1993,7.9,"Crime, Drama, Romance",119,233958,59.0,1990s
+501,X-Men: Days of Future Past,2014,7.9,"Action, Adventure, Sci-Fi",132,726749,75.0,2010s
+502,Harry Potter and the Prisoner of Azkaban,2004,7.9,"Adventure, Family, Fantasy",142,658043,82.0,2000s
+503,Star Trek,2009,7.9,"Action, Adventure, Sci-Fi",127,611086,82.0,2000s
+504,Boogie Nights,1997,7.9,Drama,155,273350,85.0,1990s
+505,Almost Famous,2000,7.9,"Adventure, Comedy, Drama",122,284465,90.0,2000s
+506,Thor: Ragnarok,2017,7.9,"Action, Adventure, Comedy",130,779806,74.0,2010s
+507,Bohemian Rhapsody,2018,7.9,"Biography, Drama, Music",134,558146,49.0,2010s
+508,E.T. the Extra-Terrestrial,1982,7.9,"Adventure, Family, Sci-Fi",115,422022,91.0,1980s
+509,Shaun of the Dead,2004,7.9,"Comedy, Horror",99,572950,76.0,2000s
+510,Jojo Rabbit,2019,7.9,"Comedy, Drama, War",108,412474,58.0,2010s
+511,Shrek,2001,7.9,"Animation, Adventure, Comedy",90,702413,84.0,2000s
+512,In Bruges,2008,7.9,"Comedy, Crime, Drama",107,446637,67.0,2000s
+513,Children of Men,2006,7.9,"Action, Drama, Sci-Fi",109,512808,84.0,2000s
+514,The Blues Brothers,1980,7.9,"Action, Adventure, Comedy",133,206428,60.0,1980s
+515,Dallas Buyers Club,2013,7.9,"Biography, Drama",117,501929,77.0,2010s
+516,Mystic River,2003,7.9,"Crime, Drama, Mystery",138,468759,84.0,2000s
+517,The Bourne Identity,2002,7.9,"Action, Mystery, Thriller",119,560113,68.0,2000s
+518,Edward Scissorhands,1990,7.9,"Drama, Fantasy, Romance",105,504319,74.0,1990s
+519,District 9,2009,7.9,"Action, Sci-Fi, Thriller",112,696541,81.0,2000s
+520,Life of Pi,2012,7.9,"Adventure, Drama, Fantasy",127,646962,79.0,2010s
+521,Wonder,2017,7.9,"Drama, Family",113,171045,66.0,2010s
+522,Marriage Story,2019,7.9,"Drama, Romance",137,326042,94.0,2010s
+523,All the President's Men,1976,7.9,"Drama, History, Thriller",138,120688,84.0,1970s
+524,Toy Story 2,1999,7.9,"Animation, Adventure, Comedy",92,597687,88.0,1990s
+525,Sullivan's Travels,1941,7.9,"Adventure, Comedy, Drama",90,27580,,1940s
+526,Boyhood,2014,7.9,Drama,165,360632,100.0,2010s
+527,The Nightmare Before Christmas,1993,7.9,"Animation, Family, Fantasy",76,352644,82.0,1990s
+528,Bound by Honor,1993,7.9,"Crime, Drama",180,32783,47.0,1990s
+529,This Is Spinal Tap,1984,7.9,"Comedy, Music",82,143160,92.0,1980s
+530,Spartacus,1960,7.9,"Adventure, Biography, Drama",197,138837,87.0,1960s
+531,The Searchers,1956,7.9,"Adventure, Drama, Western",119,92983,94.0,1950s
+532,Brazil,1985,7.9,"Drama, Sci-Fi",132,205652,84.0,1980s
+533,The Man from Earth,2007,7.9,"Drama, Fantasy, Mystery",87,193034,,2000s
+534,Before Midnight,2013,7.9,"Drama, Romance",109,165093,94.0,2010s
+535,The Ten Commandments,1956,7.9,"Adventure, Drama, Family",220,74546,,1950s
+536,Carlito's Way,1993,7.9,"Crime, Drama, Thriller",144,225006,66.0,1990s
+537,A Fistful of Dollars,1964,7.9,"Action, Drama, Western",99,224095,65.0,1960s
+538,Ghost in the Shell,1995,7.9,"Animation, Action, Crime",83,149064,76.0,1990s
+539,"Crouching Tiger, Hidden Dragon",2000,7.9,"Action, Adventure, Drama",120,276087,94.0,2000s
+540,Nosferatu,1922,7.9,"Fantasy, Horror",94,101063,,1920s
+541,In the Heat of the Night,1967,7.9,"Drama, Mystery, Thriller",110,79827,76.0,1960s
+542,Let the Right One In,2008,7.9,"Drama, Fantasy, Horror",114,221727,82.0,2000s
+543,The Lion in Winter,1968,7.9,"Biography, Drama, History",134,32755,,1960s
+544,The Wrestler,2008,7.9,"Drama, Sport, Thriller",109,313412,80.0,2000s
+545,The Wild Bunch,1969,7.9,"Action, Adventure, Drama",135,87651,98.0,1960s
+546,The Raid 2,2014,7.9,"Action, Crime, Thriller",150,127513,71.0,2010s
+547,A Streetcar Named Desire,1951,7.9,Drama,122,111448,97.0,1950s
+548,Once Were Warriors,1994,7.9,"Crime, Drama",102,35633,77.0,1990s
+549,Doctor Zhivago,1965,7.9,"Drama, Romance, War",197,79608,69.0,1960s
+550,Notorious,1946,7.9,"Drama, Film-Noir, Romance",102,103905,100.0,1940s
+551,About Elly,2009,7.9,"Drama, Mystery",119,55213,87.0,2000s
+552,Charade,1963,7.9,"Comedy, Mystery, Romance",113,81496,83.0,1960s
+553,The Manchurian Candidate,1962,7.9,"Drama, Thriller",126,77404,94.0,1960s
+554,The Artist,2011,7.9,"Comedy, Drama, Romance",100,245122,89.0,2010s
+555,Hero,2002,7.9,"Action, Adventure, Drama",120,184675,85.0,2000s
+556,Sing Street,2016,7.9,"Comedy, Drama, Music",106,97523,79.0,2010s
+557,Harold and Maude,1971,7.9,"Comedy, Drama, Romance",91,79688,62.0,1970s
+558,Shoplifters,2018,7.9,"Crime, Drama, Thriller",121,81061,93.0,2010s
+559,Dancer in the Dark,2000,7.9,"Crime, Drama, Musical",140,113253,61.0,2000s
+560,Togo,2019,7.9,"Adventure, Biography, Drama",113,52169,69.0,2010s
+561,Rope,1948,7.9,"Crime, Drama, Mystery",80,148232,73.0,1940s
+562,A Christmas Story,1983,7.9,"Comedy, Family",93,161050,77.0,1980s
+563,King Kong,1933,7.9,"Adventure, Horror, Sci-Fi",100,88087,92.0,1930s
+564,The Killing,1956,7.9,"Crime, Drama, Film-Noir",84,93014,91.0,1950s
+565,Strangers on a Train,1951,7.9,"Crime, Drama, Film-Noir",101,137186,88.0,1950s
+566,The Big Sleep,1946,7.9,"Crime, Film-Noir, Mystery",114,88156,86.0,1940s
+567,Patton,1970,7.9,"Biography, Drama, War",172,105243,86.0,1970s
+568,Short Term 12,2013,7.9,Drama,96,89724,82.0,2010s
+569,The Philadelphia Story,1940,7.9,"Comedy, Romance",112,71631,96.0,1940s
+570,In a Lonely Place,1950,7.9,"Drama, Film-Noir, Mystery",94,33331,,1950s
+571,Three Colors: Blue,1993,7.9,"Drama, Music, Mystery",94,106378,87.0,1990s
+572,Cat on a Hot Tin Roof,1958,7.9,Drama,108,51601,84.0,1950s
+573,The Adventures of Robin Hood,1938,7.9,"Action, Adventure, Romance",102,52958,97.0,1930s
+574,Arsenic and Old Lace,1944,7.9,"Comedy, Crime, Thriller",118,72864,,1940s
+575,Talk to Her,2002,7.9,"Drama, Mystery, Romance",112,115130,86.0,2000s
+576,Laura,1944,7.9,"Drama, Film-Noir, Mystery",88,49237,,1940s
+577,The Conformist,1970,7.9,Drama,113,32137,100.0,1970s
+578,Amour,2012,7.9,Drama,127,103118,95.0,2010s
+579,Head-On,2004,7.9,"Drama, Romance",121,55948,78.0,2000s
+580,The Way He Looks,2014,7.9,"Drama, Romance",96,26627,71.0,2010s
+581,Mildred Pierce,1945,7.9,"Crime, Drama, Film-Noir",111,27470,88.0,1940s
+582,A Taxi Driver,2017,7.9,"Action, Drama, History",137,27674,69.0,2010s
+583,In Cold Blood,1967,7.9,"Biography, Crime, Drama",134,27763,89.0,1960s
+584,My Name Is Khan,2010,7.9,"Adventure, Drama, Romance",165,111126,50.0,2010s
+585,3-Iron,2004,7.9,"Crime, Drama, Romance",88,56683,72.0,2000s
+586,The Sacrifice,1986,7.9,Drama,149,29688,,1980s
+587,Kal Ho Naa Ho,2003,7.9,"Comedy, Drama, Musical",186,72070,54.0,2000s
+588,Harvey,1950,7.9,"Comedy, Drama, Fantasy",104,56895,,1950s
+589,The Thin Man,1934,7.9,"Comedy, Crime, Mystery",91,31368,86.0,1930s
+590,Kagemusha,1980,7.9,"Drama, History, War",162,36906,84.0,1980s
+591,I Remember,1973,7.9,"Comedy, Drama",123,45226,,1970s
+592,Gully Boy,2019,7.9,"Drama, Music, Romance",154,41492,65.0,2010s
+593,The Lost Weekend,1945,7.9,"Drama, Film-Noir",101,38768,,1940s
+594,Mimi,2021,7.9,"Comedy, Drama",132,41200,,2020s
+595,C.R.A.Z.Y.,2005,7.9,"Comedy, Drama",129,33600,81.0,2000s
+596,Elevator to the Gallows,1958,7.9,"Crime, Drama, Thriller",91,27205,94.0,1950s
+597,Super 30,2019,7.9,"Biography, Drama",154,34168,,2010s
+598,Miracle on 34th Street,1947,7.9,"Comedy, Drama, Family",96,51275,88.0,1940s
+599,Hiroshima Mon Amour,1959,7.9,"Drama, Romance",90,34118,,1950s
+600,The Big Heat,1953,7.9,"Crime, Film-Noir, Thriller",89,27788,,1950s
+601,"4 Months, 3 Weeks and 2 Days",2007,7.9,Drama,113,61975,97.0,2000s
+602,Jab We Met,2007,7.9,"Comedy, Drama, Romance",138,55840,,2000s
+603,Nine Queens,2000,7.9,"Crime, Drama, Thriller",114,54959,80.0,2000s
+604,Beauty and the Beast (1946),1946,7.9,"Drama, Fantasy, Romance",93,27268,92.0,1940s
+605,Battleship Potemkin,1925,7.9,"Drama, History, Thriller",66,59643,97.0,1920s
+606,The Red Circle,1970,7.9,"Crime, Drama, Thriller",140,26700,92.0,1970s
+607,Dev.D,2009,7.9,"Comedy, Drama, Romance",144,31456,,2000s
+608,The Rules of the Game,1939,7.9,"Comedy, Drama",110,30249,99.0,1930s
+609,No Man's Land,2001,7.9,"Comedy, Drama, War",98,47974,84.0,2000s
+610,The Return,2003,7.9,Drama,110,46458,82.0,2000s
+611,Through a Glass Darkly,1961,7.9,Drama,90,26402,84.0,1960s
+612,Pad Man,2018,7.9,"Comedy, Drama",140,27337,,2010s
+613,Badhaai Ho,2018,7.9,"Comedy, Drama",124,36115,,2010s
+614,Baby,2015,7.9,"Action, Crime, Thriller",159,58890,,2010s
+615,Vishwaroopam,2013,7.9,"Action, Thriller",148,40584,,2010s
+616,Airlift,2016,7.9,"Action, Drama, History",130,57901,,2010s
+617,The Batman,2022,7.8,"Action, Crime, Drama",176,705878,72.0,2020s
+618,Everything Everywhere All at Once,2022,7.8,"Action, Adventure, Comedy",139,457079,81.0,2020s
+619,A Bronx Tale,1993,7.8,"Crime, Drama",121,149961,80.0,1990s
+620,The Breakfast Club,1985,7.8,"Comedy, Drama",97,416424,66.0,1980s
+621,Tombstone,1993,7.8,"Biography, Drama, History",130,156787,50.0,1990s
+622,Moonrise Kingdom,2012,7.8,"Comedy, Drama, Family",94,358340,84.0,2010s
+623,The Big Short,2015,7.8,"Biography, Comedy, Drama",130,449221,81.0,2010s
+624,The Gentlemen,2019,7.8,"Action, Comedy, Crime",113,362817,51.0,2010s
+625,Drive,2011,7.8,"Action, Drama",100,667458,78.0,2010s
+626,Hot Fuzz,2007,7.8,"Action, Comedy, Mystery",121,518809,81.0,2000s
+627,Call Me by Your Name,2017,7.8,"Drama, Romance",132,290210,94.0,2010s
+628,The Notebook,2004,7.8,"Drama, Romance",123,589874,53.0,2000s
+629,Get Out,2017,7.8,"Horror, Mystery, Thriller",104,643912,85.0,2010s
+630,All Quiet on the Western Front (2022),2022,7.8,"Action, Drama, War",148,209794,76.0,2020s
+631,Dunkirk,2017,7.8,"Action, Drama, History",106,685361,94.0,2010s
+632,Pride & Prejudice,2005,7.8,"Drama, Romance",129,309332,82.0,2000s
+633,The Hateful Eight,2015,7.8,"Crime, Drama, Mystery",168,626046,68.0,2010s
+634,RRR,2022,7.8,"Action, Drama",187,152074,83.0,2020s
+635,Ghostbusters,1984,7.8,"Action, Comedy, Fantasy",105,427032,71.0,1980s
+636,Hidden Figures,2016,7.8,"Biography, Drama, History",127,241816,74.0,2010s
+637,About Time,2013,7.8,"Comedy, Drama, Fantasy",123,365910,55.0,2010s
+638,Predator,1987,7.8,"Action, Adventure, Horror",107,436038,47.0,1980s
+639,The Irishman,2019,7.8,"Biography, Crime, Drama",209,405744,94.0,2010s
+640,The Social Network,2010,7.8,"Biography, Drama",120,725495,95.0,2010s
+641,Little Women,2019,7.8,"Drama, Romance",135,220575,91.0,2010s
+642,Ferris Bueller's Day Off,1986,7.8,Comedy,103,370943,61.0,1980s
+643,Rogue One: A Star Wars Story,2016,7.8,"Action, Adventure, Sci-Fi",133,659832,65.0,2010s
+644,The Curious Case of Benjamin Button,2008,7.8,"Drama, Fantasy, Romance",166,670134,70.0,2000s
+645,Isle of Dogs,2018,7.8,"Animation, Adventure, Comedy",101,178971,82.0,2010s
+646,Apocalypto,2006,7.8,"Action, Adventure, Drama",139,320870,68.0,2000s
+647,Atonement,2007,7.8,"Drama, Mystery, Romance",123,288347,85.0,2000s
+648,The Sandlot,1993,7.8,"Comedy, Drama, Family",101,97049,55.0,1990s
+649,The Hobbit: An Unexpected Journey,2012,7.8,"Adventure, Fantasy",169,845735,58.0,2010s
+650,American Gangster,2007,7.8,"Biography, Crime, Drama",157,437948,76.0,2000s
+651,Nightcrawler,2014,7.8,"Crime, Drama, Thriller",117,572185,76.0,2010s
+652,The Last Samurai,2003,7.8,"Action, Drama",154,453345,55.0,2000s
+653,Captain America: Civil War,2016,7.8,"Action, Sci-Fi",147,815145,75.0,2010s
+654,The Girl with the Dragon Tattoo (2011),2011,7.8,"Crime, Drama, Mystery",158,475638,71.0,2010s
+655,Star Wars: Episode VII - The Force Awakens,2015,7.8,"Action, Adventure, Sci-Fi",138,949311,80.0,2010s
+656,Little Miss Sunshine,2006,7.8,"Comedy, Drama",101,497062,80.0,2000s
+657,Back to the Future Part II,1989,7.8,"Adventure, Comedy, Sci-Fi",108,550290,57.0,1980s
+658,The Worst Person in the World,2021,7.8,"Comedy, Drama, Romance",128,81143,90.0,2020s
+659,Captain Fantastic,2016,7.8,"Comedy, Drama",118,226076,72.0,2010s
+660,Thirteen Lives,2022,7.8,"Action, Adventure, Biography",147,61387,66.0,2020s
+661,Captain America: The Winter Soldier,2014,7.8,"Action, Adventure, Sci-Fi",136,869582,70.0,2010s
+662,Captain Phillips,2013,7.8,"Action, Biography, Crime",134,475022,82.0,2010s
+663,Remember the Titans,2000,7.8,"Biography, Drama, Sport",113,223070,48.0,2000s
+664,Willy Wonka & the Chocolate Factory,1971,7.8,"Family, Fantasy, Musical",100,210073,67.0,1970s
+665,Manchester by the Sea,2016,7.8,Drama,137,294868,96.0,2010s
+666,The Untouchables,1987,7.8,"Crime, Drama, Thriller",119,319561,79.0,1980s
+667,Skyfall,2012,7.8,"Action, Adventure, Thriller",143,711243,81.0,2010s
+668,Taken,2008,7.8,"Action, Crime, Thriller",90,616058,51.0,2000s
+669,Cast Away,2000,7.8,"Adventure, Drama, Romance",143,611321,73.0,2000s
+670,The Fugitive,1993,7.8,"Action, Crime, Drama",130,305421,87.0,1990s
+671,The Hobbit: The Desolation of Smaug,2013,7.8,Fantasy,161,680605,66.0,2010s
+672,I Saw the Devil,2010,7.8,"Action, Crime, Thriller",144,137827,67.0,2010s
+673,Big Hero 6,2014,7.8,"Animation, Action, Adventure",102,478852,74.0,2010s
+674,Boyz n the Hood,1991,7.8,"Crime, Drama",112,147042,76.0,1990s
+675,Misery,1990,7.8,"Drama, Thriller",107,221896,75.0,1990s
+676,Midnight Cowboy,1969,7.8,Drama,113,115346,79.0,1960s
+677,Mary Poppins,1964,7.8,"Comedy, Family, Fantasy",139,178959,88.0,1960s
+678,The Holy Mountain,1973,7.8,"Adventure, Drama, Fantasy",114,45631,76.0,1970s
+679,Gattaca,1997,7.8,"Drama, Sci-Fi, Thriller",106,313123,64.0,1990s
+680,Glory,1989,7.8,"Biography, Drama, History",122,139322,78.0,1980s
+681,Moon,2009,7.8,"Drama, Mystery, Sci-Fi",97,367318,67.0,2000s
+682,The Right Stuff,1983,7.8,"Adventure, Biography, Drama",193,63503,91.0,1980s
+683,Serenity,2005,7.8,"Action, Adventure, Sci-Fi",119,300738,74.0,2000s
+684,Walk the Line,2005,7.8,"Biography, Drama, Music",136,257971,72.0,2000s
+685,Awakenings,1990,7.8,"Biography, Drama",121,149734,74.0,1990s
+686,Pride,2014,7.8,"Biography, Comedy, Drama",119,59698,79.0,2010s
+687,The Fall,2006,7.8,"Adventure, Drama, Fantasy",117,114478,64.0,2000s
+688,Straight Outta Compton,2015,7.8,"Biography, Drama, History",147,209782,72.0,2010s
+689,The Fighter,2010,7.8,"Action, Biography, Drama",116,377945,79.0,2010s
+690,The Outlaw Josey Wales,1976,7.8,Western,135,76891,69.0,1970s
+691,Mississippi Burning,1988,7.8,"Crime, Drama, Mystery",128,104674,65.0,1980s
+692,Kiki's Delivery Service,1989,7.8,"Animation, Family, Fantasy",103,152829,85.0,1980s
+693,All That Jazz,1979,7.8,"Drama, Music, Musical",123,33559,72.0,1970s
+694,Paddington 2,2017,7.8,"Adventure, Comedy, Family",103,85484,88.0,2010s
+695,How to Train Your Dragon 2,2014,7.8,"Animation, Action, Adventure",102,349031,77.0,2010s
+696,The Girl with the Dragon Tattoo (2009),2009,7.8,"Crime, Drama, Mystery",152,219851,76.0,2000s
+697,The King of Comedy,1982,7.8,"Comedy, Crime, Drama",109,110071,73.0,1980s
+698,Red River,1948,7.8,"Drama, Western",133,32775,96.0,1940s
+699,The Day the Earth Stood Still,1951,7.8,"Drama, Sci-Fi",92,83806,83.0,1950s
+700,Chor Nikal Ke Bhaga,2023,7.8,"Crime, Drama, Thriller",110,49307,,2020s
+701,The Insider,1999,7.8,"Biography, Drama, Thriller",157,175296,84.0,1990s
+702,Dawn of the Dead,1978,7.8,"Horror, Thriller",127,124481,71.0,1970s
+703,Guess Who's Coming to Dinner,1967,7.8,"Comedy, Drama",108,47123,63.0,1960s
+704,The Remains of the Day,1993,7.8,"Drama, Romance",134,78898,86.0,1990s
+705,Changeling,2008,7.8,"Biography, Crime, Drama",141,260294,63.0,2000s
+706,Hunt for the Wilderpeople,2016,7.8,"Adventure, Comedy, Drama",101,135590,81.0,2010s
+707,Ed Wood,1994,7.8,"Biography, Comedy, Drama",127,180047,70.0,1990s
+708,The Conversation,1974,7.8,"Drama, Mystery, Thriller",113,116217,87.0,1970s
+709,My Fair Lady,1964,7.8,"Drama, Family, Musical",170,98626,95.0,1960s
+710,Kramer vs. Kramer,1979,7.8,Drama,105,149839,77.0,1970s
+711,The Best Offer,2013,7.8,"Crime, Drama, Mystery",131,123764,49.0,2010s
+712,Night of the Living Dead,1968,7.8,"Horror, Thriller",96,133578,89.0,1960s
+713,Cabaret,1972,7.8,"Drama, Music, Musical",124,57276,80.0,1970s
+714,Days of Heaven,1978,7.8,"Drama, Romance",94,60369,93.0,1970s
+715,The Killing Fields,1984,7.8,"Biography, Drama, History",141,57360,76.0,1980s
+716,October Sky,1999,7.8,"Biography, Drama, Family",108,94773,71.0,1990s
+717,My Left Foot,1989,7.8,"Biography, Drama",103,77075,97.0,1980s
+718,Once,2007,7.8,"Drama, Music, Romance",86,118955,90.0,2000s
+719,All About My Mother,1999,7.8,Drama,101,99871,87.0,1990s
+720,"Aguirre, the Wrath of God",1972,7.8,"Action, Adventure, Biography",95,59305,,1970s
+721,Mother,2009,7.8,"Crime, Drama, Mystery",129,67883,79.0,2000s
+722,Letters from Iwo Jima,2006,7.8,"Action, Adventure, Drama",141,166571,89.0,2000s
+723,Whisper of the Heart,1995,7.8,"Animation, Drama, Family",111,67023,75.0,1990s
+724,The Day of the Jackal,1973,7.8,"Crime, Drama, Thriller",143,42690,80.0,1970s
+725,Frankenstein,1931,7.8,"Drama, Horror, Sci-Fi",70,75858,91.0,1930s
+726,Bringing Up Baby,1938,7.8,Comedy,102,63962,91.0,1930s
+727,The Chaser,2008,7.8,"Action, Crime, Drama",125,69420,64.0,2000s
+728,Freaks,1932,7.8,"Drama, Horror",64,48440,80.0,1930s
+729,Gaslight,1944,7.8,"Crime, Drama, Mystery",114,31430,78.0,1940s
+730,East of Eden,1955,7.8,Drama,118,47278,72.0,1950s
+731,Manhattan,1979,7.8,"Comedy, Drama, Romance",96,143292,83.0,1970s
+732,Breaking the Waves,1996,7.8,Drama,159,69359,81.0,1990s
+733,To Have and Have Not,1944,7.8,"Adventure, Comedy, Film-Noir",100,36617,90.0,1940s
+734,Stagecoach,1939,7.8,"Adventure, Drama, Western",96,51414,93.0,1930s
+735,Ninja Scroll,1993,7.8,"Animation, Action, Adventure",94,39015,,1990s
+736,Batman: Mask of the Phantasm,1993,7.8,"Animation, Action, Adventure",76,53777,65.0,1990s
+737,Lilya 4-Ever,2002,7.8,"Crime, Drama",109,47290,83.0,2000s
+738,The Lunchbox,2013,7.8,"Drama, Romance",104,58405,76.0,2010s
+739,Loving Vincent,2017,7.8,"Animation, Drama, Mystery",94,60583,62.0,2010s
+740,The World's Fastest Indian,2005,7.8,"Biography, Drama, Sport",127,56603,68.0,2000s
+741,Land of Mine,2015,7.8,"Drama, History, War",100,43453,75.0,2010s
+742,Shadow of a Doubt,1943,7.8,"Film-Noir, Thriller",108,67923,94.0,1940s
+743,Hannah and Her Sisters,1986,7.8,"Comedy, Drama",107,73580,90.0,1980s
+744,The White Ribbon,2009,7.8,"Drama, Mystery, Thriller",144,75593,84.0,2000s
+745,The Bride of Frankenstein,1935,7.8,"Drama, Horror, Sci-Fi",75,50671,95.0,1930s
+746,Gangubai Kathiawadi,2022,7.8,"Biography, Crime, Drama",152,58408,,2020s
+747,A Prophet,2009,7.8,"Crime, Drama",155,100342,90.0,2000s
+748,"I, Daniel Blake",2016,7.8,Drama,100,62258,78.0,2010s
+749,The Umbrellas of Cherbourg,1964,7.8,"Drama, Musical, Romance",91,29283,86.0,1960s
+750,His Girl Friday,1940,7.8,"Comedy, Drama, Romance",92,61000,,1940s
+751,The Man Who Would Be King,1975,7.8,"Adventure, War",129,50582,91.0,1970s
+752,Cowboy Bebop: The Movie,2001,7.8,"Animation, Action, Crime",115,50812,61.0,2000s
+753,The Postman,1994,7.8,"Biography, Comedy, Drama",108,37784,81.0,1990s
+754,Great Expectations,1946,7.8,"Adventure, Drama, Mystery",118,25448,90.0,1940s
+755,The Innocents,1961,7.8,Horror,100,31738,88.0,1960s
+756,The Killer,1989,7.8,"Action, Crime, Drama",111,49689,82.0,1980s
+757,The Asphalt Jungle,1950,7.8,"Crime, Drama, Film-Noir",112,28596,85.0,1950s
+758,Once Upon a Time in Anatolia,2011,7.8,"Crime, Drama, Thriller",157,48075,82.0,2010s
+759,You Can't Take It with You,1938,7.8,"Comedy, Drama, Romance",126,26838,,1930s
+760,L'Avventura,1960,7.8,"Drama, Mystery, Romance",144,31236,,1960s
+761,Crimes and Misdemeanors,1989,7.8,"Comedy, Drama",104,59458,77.0,1980s
+762,The Chorus,2004,7.8,"Comedy, Drama, Music",97,64759,56.0,2000s
+763,Badla,2019,7.8,"Crime, Drama, Mystery",118,29519,,2010s
+764,"Like Father, Like Son",2013,7.8,Drama,121,26565,73.0,2010s
+765,Duck Soup,1933,7.8,"Comedy, Musical",69,61523,93.0,1930s
+766,Vivre Sa Vie,1962,7.8,Drama,85,33590,,1960s
+767,The Discreet Charm of the Bourgeoisie,1972,7.8,Comedy,102,44990,93.0,1970s
+768,Tokyo Godfathers,2003,7.8,"Animation, Adventure, Comedy",92,43342,74.0,2000s
+769,Veer Zaara,2004,7.8,"Drama, Family, Musical",192,55012,67.0,2000s
+770,Millennium Actress,2001,7.8,"Animation, Drama, Fantasy",87,29899,70.0,2000s
+771,My Life as a Zucchini,2016,7.8,"Animation, Comedy, Drama",70,27175,85.0,2010s
+772,A Night at the Opera,1935,7.8,"Comedy, Music, Musical",96,33794,,1930s
+773,English Vinglish,2012,7.8,"Comedy, Drama, Family",134,37643,,2010s
+774,Knockin' on Heaven's Door,1997,7.8,"Action, Crime, Comedy",87,32198,,1990s
+775,Minnal Murali,2021,7.8,"Action, Comedy, Drama",158,31252,,2020s
+776,Dasvi,2022,7.8,"Comedy, Drama",125,55894,,2020s
+777,Hindi Medium,2017,7.8,"Comedy, Drama",132,30671,,2010s
+778,Vicky Donor,2012,7.8,"Comedy, Romance",126,44395,,2010s
+779,Kai Po Che,2013,7.8,"Drama, Sport",120,37891,40.0,2010s
+780,Secret Superstar,2017,7.8,"Drama, Music",150,27865,,2010s
+781,The Whale,2022,7.7,Drama,117,156451,60.0,2020s
+782,The Banshees of Inisherin,2022,7.7,"Comedy, Drama",114,213554,87.0,2020s
+783,Aftersun,2022,7.7,Drama,102,65917,95.0,2020s
+784,Mission: Impossible - Fallout,2018,7.7,"Action, Adventure, Thriller",147,346681,86.0,2010s
+785,The Goonies,1985,7.7,"Adventure, Comedy, Family",114,285994,62.0,1980s
+786,Kingsman: The Secret Service,2014,7.7,"Action, Adventure, Comedy",129,689177,60.0,2010s
+787,The Hangover,2009,7.7,Comedy,100,810643,73.0,2000s
+788,Harry Potter and the Goblet of Fire,2005,7.7,"Adventure, Family, Fantasy",157,649284,81.0,2000s
+789,The Magnificent Seven,1960,7.7,"Action, Adventure, Drama",128,98622,74.0,1960s
+790,Blazing Saddles,1974,7.7,"Comedy, Western",93,145456,73.0,1970s
+791,Black Hawk Down,2001,7.7,"Action, Drama, History",144,408636,74.0,2000s
+792,Ocean's Eleven,2001,7.7,"Crime, Thriller",116,593515,74.0,2000s
+793,Silver Linings Playbook,2012,7.7,"Comedy, Drama, Romance",122,723064,81.0,2010s
+794,Zodiac,2007,7.7,"Crime, Drama, Mystery",157,564025,79.0,2000s
+795,Blue Is the Warmest Colour,2013,7.7,"Drama, Romance",180,157657,90.0,2010s
+796,Wind River,2017,7.7,"Crime, Drama, Mystery",107,263862,73.0,2010s
+797,Lost in Translation,2003,7.7,"Comedy, Drama",102,468475,91.0,2000s
+798,Ex Machina,2014,7.7,"Drama, Sci-Fi, Thriller",108,563676,78.0,2010s
+799,And Your Mother Too,2001,7.7,Drama,106,125945,89.0,2000s
+800,Who Framed Roger Rabbit,1988,7.7,"Animation, Adventure, Comedy",104,208671,83.0,1980s
+801,Airplane!,1980,7.7,Comedy,88,249465,78.0,1980s
+802,Harry Potter and the Deathly Hallows: Part 1,2010,7.7,"Adventure, Family, Fantasy",146,569989,65.0,2010s
+803,3:10 to Yuma,2007,7.7,"Action, Crime, Drama",122,321360,76.0,2000s
+804,Brokeback Mountain,2005,7.7,"Drama, Romance",134,368630,87.0,2000s
+805,500 Days of Summer,2009,7.7,"Comedy, Drama, Romance",95,532480,76.0,2000s
+806,Primal Fear,1996,7.7,"Crime, Drama, Mystery",129,233448,47.0,1990s
+807,Home Alone,1990,7.7,"Comedy, Family",103,606002,63.0,1990s
+808,Birdman or (The Unexpected Virtue of Ignorance),2014,7.7,"Comedy, Drama",119,647005,87.0,2010s
+809,A Few Good Men,1992,7.7,"Drama, Thriller",138,274369,62.0,1990s
+810,Man on Fire,2004,7.7,"Action, Crime, Drama",146,372990,47.0,2000s
+811,The French Connection,1971,7.7,"Action, Crime, Drama",104,128201,94.0,1970s
+812,X-Men: First Class,2011,7.7,"Action, Sci-Fi",131,706386,65.0,2010s
+813,The Lego Movie,2014,7.7,"Animation, Action, Adventure",100,371758,83.0,2010s
+814,The Last of the Mohicans,1992,7.7,"Action, Adventure, Drama",112,178250,76.0,1990s
+815,Mr. Nobody,2009,7.7,"Drama, Fantasy, Romance",141,239555,63.0,2000s
+816,Blue Velvet,1986,7.7,"Crime, Drama, Mystery",120,206859,76.0,1980s
+817,The Game,1997,7.7,"Drama, Mystery, Thriller",129,410622,63.0,1990s
+818,Tangled,2010,7.7,"Animation, Adventure, Comedy",100,471277,71.0,2010s
+819,Coraline,2009,7.7,"Animation, Drama, Family",100,244422,80.0,2000s
+820,Toy Story 4,2019,7.7,"Animation, Adventure, Comedy",100,263694,84.0,2010s
+821,Argo,2012,7.7,"Biography, Drama, Thriller",120,626010,86.0,2010s
+822,Evil Dead II,1987,7.7,"Comedy, Horror",84,174291,72.0,1980s
+823,Star Trek II: The Wrath of Khan,1982,7.7,"Action, Adventure, Sci-Fi",113,125587,68.0,1980s
+824,Deliverance,1972,7.7,"Adventure, Drama, Thriller",109,114723,80.0,1970s
+825,The Count of Monte Cristo,2002,7.7,"Action, Adventure, Drama",131,143046,61.0,2000s
+826,Training Day,2001,7.7,"Action, Crime, Drama",122,451737,69.0,2000s
+827,Philadelphia,1993,7.7,Drama,125,249508,66.0,1990s
+828,The Fault in Our Stars,2014,7.7,"Drama, Romance",126,388316,69.0,2010s
+829,Badlands,1973,7.7,"Action, Crime, Drama",94,75545,93.0,1970s
+830,"O Brother, Where Art Thou?",2000,7.7,"Adventure, Comedy, Crime",107,320683,69.0,2000s
+831,First Blood,1982,7.7,"Action, Adventure, Thriller",93,263179,61.0,1980s
+832,Halloween,1978,7.7,"Horror, Thriller",91,289567,87.0,1970s
+833,Another Round,2020,7.7,Drama,117,175465,79.0,2020s
+834,What's Eating Gilbert Grape,1993,7.7,Drama,118,244846,73.0,1990s
+835,Road to Perdition,2002,7.7,"Crime, Drama, Thriller",117,276525,72.0,2000s
+836,The Machinist,2004,7.7,"Drama, Thriller",101,402127,61.0,2000s
+837,Gravity,2013,7.7,"Drama, Sci-Fi, Thriller",91,842164,96.0,2010s
+838,Wreck-It Ralph,2012,7.7,"Animation, Adventure, Comedy",101,438931,72.0,2010s
+839,Midnight in Paris,2011,7.7,"Comedy, Fantasy, Romance",94,435874,81.0,2010s
+840,Crash,2004,7.7,"Crime, Drama, Thriller",112,442902,66.0,2000s
+841,Sense and Sensibility,1995,7.7,"Drama, Romance",136,120503,84.0,1990s
+842,Apollo 13,1995,7.7,"Adventure, Drama, History",140,304257,77.0,1990s
+843,Kung Fu Hustle,2004,7.7,"Action, Comedy, Fantasy",99,145066,78.0,2000s
+844,Detachment,2011,7.7,Drama,98,92312,52.0,2010s
+845,Donnie Brasco,1997,7.7,"Biography, Crime, Drama",127,317868,76.0,1990s
+846,The Color Purple,1985,7.7,Drama,154,91014,78.0,1980s
+847,The African Queen,1951,7.7,"Adventure, Drama, Romance",105,81528,91.0,1950s
+848,When Harry Met Sally...,1989,7.7,"Comedy, Drama, Romance",95,229188,76.0,1980s
+849,As Good as It Gets,1997,7.7,"Comedy, Drama, Romance",139,308280,67.0,1990s
+850,Happiness,1998,7.7,"Comedy, Drama",134,72344,81.0,1990s
+851,The Trial of the Chicago 7,2020,7.7,"Drama, History, Thriller",129,184811,76.0,2020s
+852,The Boondock Saints,1999,7.7,"Action, Thriller",108,243813,44.0,1990s
+853,Star Trek Into Darkness,2013,7.7,"Action, Adventure, Sci-Fi",132,489923,72.0,2010s
+854,The Boy in the Striped Pajamas,2008,7.7,"Drama, War",94,230983,55.0,2000s
+855,Empire of the Sun,1987,7.7,"Drama, War",153,130398,62.0,1980s
+856,Lucky Number Slevin,2006,7.7,"Crime, Drama, Thriller",110,319517,53.0,2000s
+857,Dirty Harry,1971,7.7,"Action, Crime, Thriller",102,162294,87.0,1970s
+858,The Dirty Dozen,1967,7.7,"Action, Adventure, War",150,76364,73.0,1960s
+859,Sound of Metal,2019,7.7,"Drama, Music",120,137845,82.0,2010s
+860,Fried Green Tomatoes,1991,7.7,Drama,130,78266,64.0,1990s
+861,Naked,1993,7.7,"Comedy, Drama",131,41683,85.0,1990s
+862,The Longest Day,1962,7.7,"Action, Drama, History",178,57617,75.0,1960s
+863,The Theory of Everything,2014,7.7,"Biography, Drama, Romance",123,464908,71.0,2010s
+864,Glengarry Glen Ross,1992,7.7,"Crime, Drama, Mystery",100,110711,82.0,1990s
+865,Being John Malkovich,1999,7.7,"Comedy, Drama, Fantasy",113,344653,90.0,1990s
+866,Goldfinger,1964,7.7,"Action, Adventure, Thriller",110,196174,87.0,1960s
+867,Adaptation.,2002,7.7,"Comedy, Drama",115,197521,83.0,2000s
+868,Flipped,2010,7.7,"Comedy, Drama, Romance",90,93789,45.0,2010s
+869,A Man Called Ove,2015,7.7,"Comedy, Drama, Romance",116,63774,70.0,2010s
+870,The Bourne Supremacy,2004,7.7,"Action, Mystery, Thriller",108,474522,73.0,2000s
+871,Serpico,1973,7.7,"Biography, Crime, Drama",130,128600,81.0,1970s
+872,This Is England,2006,7.7,"Crime, Drama",101,125290,86.0,2000s
+873,Ordinary People,1980,7.7,Drama,124,54591,86.0,1980s
+874,Clerks,1994,7.7,Comedy,92,227667,70.0,1990s
+875,Bonnie and Clyde,1967,7.7,"Action, Biography, Crime",111,116865,86.0,1960s
+876,The Name of the Rose,1986,7.7,"Drama, Mystery, Thriller",130,112152,54.0,1980s
+877,Billy Elliot,2000,7.7,"Drama, Music",110,138730,74.0,2000s
+878,The Great Beauty,2013,7.7,Drama,141,94277,86.0,2010s
+879,"South Park: Bigger, Longer & Uncut",1999,7.7,"Animation, Comedy, Fantasy",81,210117,73.0,1990s
+880,Malcolm X,1992,7.7,"Biography, Drama, History",202,98452,73.0,1990s
+881,The Verdict,1982,7.7,Drama,129,43213,77.0,1980s
+882,Roma,2018,7.7,Drama,135,164105,96.0,2010s
+883,Miller's Crossing,1990,7.7,"Crime, Drama, Thriller",115,138528,66.0,1990s
+884,Ray,2004,7.7,"Biography, Drama, Music",152,152423,73.0,2000s
+885,The Wind Rises,2013,7.7,"Animation, Biography, Drama",126,90905,83.0,2010s
+886,The Last Emperor,1987,7.7,"Biography, Drama, History",163,107554,76.0,1980s
+887,Paprika,2006,7.7,"Animation, Drama, Fantasy",90,88198,81.0,2000s
+888,Kubo and the Two Strings,2016,7.7,"Animation, Action, Adventure",101,134106,84.0,2010s
+889,Belle de Jour,1967,7.7,"Drama, Romance",100,46705,,1960s
+890,The Quiet Man,1952,7.7,"Comedy, Drama, Romance",129,40590,85.0,1950s
+891,1900,1976,7.7,"Drama, History",317,26379,70.0,1970s
+892,Fantasia,1940,7.7,"Animation, Family, Fantasy",124,100110,96.0,1940s
+893,Fantastic Planet,1973,7.7,"Animation, Sci-Fi",72,34156,73.0,1970s
+894,Run Lola Run,1998,7.7,"Action, Crime, Thriller",80,202657,77.0,1990s
+895,The Man from Nowhere,2010,7.7,"Action, Crime, Drama",119,72186,,2010s
+896,Black Book,2006,7.7,"Drama, Thriller, War",145,78605,71.0,2000s
+897,Me and Earl and the Dying Girl,2015,7.7,"Comedy, Drama, Romance",105,134923,74.0,2010s
+898,Open Your Eyes,1997,7.7,"Drama, Mystery, Sci-Fi",119,71262,,1990s
+899,The Vanishing,1988,7.7,"Mystery, Thriller",107,41088,,1980s
+900,Porco Rosso,1992,7.7,"Animation, Adventure, Comedy",94,94659,83.0,1990s
+901,Zulu,1964,7.7,"Drama, History, War",138,41040,77.0,1960s
+902,Finding Neverland,2004,7.7,"Biography, Drama, Family",106,209192,67.0,2000s
+903,Down by Law,1986,7.7,"Comedy, Crime, Drama",107,53457,75.0,1980s
+904,Beasts of No Nation,2015,7.7,"Drama, War",137,84214,79.0,2010s
+905,Breathless,1960,7.7,"Crime, Drama",90,84909,,1960s
+906,Dragon Ball Super: Broly,2018,7.7,"Animation, Action, Adventure",100,29635,59.0,2010s
+907,Hamlet,1996,7.7,Drama,242,39052,,1990s
+908,Short Cuts,1993,7.7,"Comedy, Drama",188,46233,81.0,1990s
+909,Nebraska,2013,7.7,Drama,115,120461,86.0,2010s
+910,When Marnie Was There,2014,7.7,"Animation, Drama, Family",103,43920,72.0,2010s
+911,Happy Together,1997,7.7,"Drama, Romance",96,31851,70.0,1990s
+912,Waking Life,2001,7.7,"Animation, Drama, Fantasy",99,65662,83.0,2000s
+913,"What's Up, Doc?",1972,7.7,"Comedy, Romance",94,25289,,1970s
+914,A Man for All Seasons,1966,7.7,"Biography, Drama, History",120,35978,72.0,1960s
+915,The Little Prince,2015,7.7,"Animation, Adventure, Drama",108,64410,70.0,2010s
+916,Black Narcissus,1947,7.7,Drama,101,26260,86.0,1940s
+917,Hard Boiled,1992,7.7,"Action, Crime, Thriller",128,52268,,1990s
+918,Night on Earth,1991,7.7,"Comedy, Drama",129,63141,68.0,1990s
+919,Hedwig and the Angry Inch,2001,7.7,"Comedy, Drama, Music",95,36598,85.0,2000s
+920,Invasion of the Body Snatchers,1956,7.7,"Drama, Horror, Sci-Fi",80,52363,92.0,1950s
+921,Joint Security Area,2000,7.7,"Action, Drama, Thriller",110,32346,58.0,2000s
+922,Perfect Strangers,2016,7.7,"Comedy, Drama",96,68305,,2010s
+923,Good Bye Lenin!,2003,7.7,"Comedy, Drama, Romance",121,149471,68.0,2000s
+924,Cape Fear,1962,7.7,"Drama, Thriller",106,30463,76.0,1960s
+925,The Double Life of Véronique,1991,7.7,"Drama, Fantasy, Music",98,50936,86.0,1990s
+926,The Broken Circle Breakdown,2012,7.7,"Drama, Music, Romance",111,42094,70.0,2010s
+927,The Motorcycle Diaries,2004,7.7,"Adventure, Biography, Drama",126,103110,75.0,2000s
+928,Scarface (1932),1932,7.7,"Action, Crime, Drama",93,29179,90.0,1930s
+929,The Lady Vanishes,1938,7.7,"Mystery, Thriller",96,54917,98.0,1930s
+930,Wait Until Dark,1967,7.7,Thriller,108,32179,81.0,1960s
+931,Marty,1955,7.7,"Drama, Romance",90,25663,,1950s
+932,Taste of Cherry,1997,7.7,Drama,95,33525,80.0,1990s
+933,The Salesman,2016,7.7,"Drama, Thriller",124,62617,85.0,2010s
+934,Frost/Nixon,2008,7.7,"Biography, Drama, History",122,110360,80.0,2000s
+935,The Triplets of Belleville,2003,7.7,"Animation, Adventure, Comedy",80,55834,91.0,2000s
+936,Key Largo,1948,7.7,"Action, Crime, Drama",100,42663,,1940s
+937,Confessions,2010,7.7,"Drama, Thriller",106,40644,,2010s
+938,The Caine Mutiny,1954,7.7,"Drama, War",124,28785,63.0,1950s
+939,Dreams,1990,7.7,"Drama, Fantasy",119,27686,,1990s
+940,Rockstar,2011,7.7,"Drama, Music, Romance",159,46526,,2010s
+941,How Green Was My Valley,1941,7.7,"Drama, Family",118,25407,88.0,1940s
+942,Evil,2003,7.7,Drama,113,40183,61.0,2000s
+943,Adam's Apples,2005,7.7,"Comedy, Crime, Drama",94,52569,51.0,2000s
+944,The Girl Who Leapt Through Time,2006,7.7,"Animation, Adventure, Comedy",98,68566,66.0,2000s
+945,The Experiment,2001,7.7,"Drama, Thriller",120,95050,60.0,2000s
+946,Love and Death,1975,7.7,"Comedy, War",85,39702,89.0,1970s
+947,In America,2002,7.7,Drama,105,43758,76.0,2000s
+948,Fireworks,1997,7.7,"Crime, Drama, Romance",103,31830,83.0,1990s
+949,After the Wedding,2006,7.7,Drama,120,35802,78.0,2000s
+950,The Magdalene Sisters,2002,7.7,Drama,114,27827,83.0,2000s
+951,The Breadwinner,2017,7.7,"Animation, Drama, Family",94,27135,78.0,2010s
+952,Jules and Jim,1962,7.7,"Drama, Romance",105,43112,97.0,1960s
+953,The Past,2013,7.7,"Drama, Mystery",130,49917,85.0,2010s
+954,The Purple Rose of Cairo,1985,7.7,"Comedy, Fantasy, Romance",82,53196,75.0,1980s
+955,Udta Punjab,2016,7.7,"Action, Crime, Drama",148,31479,,2010s
+956,The Muppet Christmas Carol,1992,7.7,"Comedy, Drama, Family",85,64281,64.0,1990s
+957,Eega,2012,7.7,"Action, Comedy, Drama",145,26021,,2010s
+958,Raazi,2018,7.7,"Action, Drama, Thriller",138,32413,,2010s
+959,Kapoor & Sons,2016,7.7,"Comedy, Drama, Family",132,27380,,2010s
+960,Joyeux Noel,2005,7.7,"Drama, History, Music",116,30826,70.0,2000s
+961,Zelig,1983,7.7,Comedy,79,43119,,1980s
+962,The Edge of Heaven,2007,7.7,Drama,122,32797,85.0,2000s
+963,Avatar: The Way of Water,2022,7.6,"Action, Adventure, Fantasy",192,417879,67.0,2020s
+964,Harry Potter and the Sorcerer's Stone,2001,7.6,"Adventure, Family, Fantasy",152,812796,65.0,2000s
+965,Once Upon a Time in Hollywood,2019,7.6,"Comedy, Drama",161,782169,83.0,2010s
+966,Dazed and Confused,1993,7.6,Comedy,103,191562,80.0,1990s
+967,American Psycho,2000,7.6,"Crime, Drama, Horror",102,660294,64.0,2000s
+968,The Fabelmans,2022,7.6,Drama,151,93386,84.0,2020s
+969,The Little Mermaid,1989,7.6,"Animation, Adventure, Family",83,278690,88.0,1980s
+970,Guardians of the Galaxy Vol. 2,2017,7.6,"Action, Adventure, Comedy",136,720395,67.0,2010s
+971,The Fifth Element,1997,7.6,"Action, Adventure, Sci-Fi",126,487464,52.0,1990s
+972,Kick-Ass,2010,7.6,"Action, Comedy, Crime",117,576516,66.0,2010s
+973,The Royal Tenenbaums,2001,7.6,"Comedy, Drama",110,302518,76.0,2000s
+974,Superbad,2007,7.6,Comedy,113,602284,76.0,2000s
+975,Moana,2016,7.6,"Animation, Adventure, Comedy",107,353753,81.0,2010s
+976,Creed,2015,7.6,"Action, Drama, Sport",133,298738,82.0,2010s
+977,Deadpool 2,2018,7.6,"Action, Adventure, Comedy",119,608334,66.0,2010s
+978,Baby Driver,2017,7.6,"Action, Crime, Drama",113,569844,86.0,2010s
+979,Gifted,2017,7.6,Drama,101,123507,60.0,2010s
+980,Sicario,2015,7.6,"Action, Crime, Drama",121,447890,82.0,2010s
+981,300,2006,7.6,"Action, Drama",117,838657,52.0,2000s
+982,Rushmore,1998,7.6,"Comedy, Drama, Romance",93,191471,86.0,1990s
+983,Office Space,1999,7.6,Comedy,89,276740,68.0,1990s
+984,Watchmen,2009,7.6,"Action, Drama, Mystery",162,564114,56.0,2000s
+985,RoboCop,1987,7.6,"Action, Crime, Sci-Fi",102,268557,70.0,1980s
+986,My Cousin Vinny,1992,7.6,"Comedy, Crime",120,132938,68.0,1990s
+987,Fury,2014,7.6,"Action, Drama, War",134,514629,64.0,2010s
+988,Incredibles 2,2018,7.6,"Animation, Action, Adventure",118,311654,80.0,2010s
+989,Love Actually,2003,7.6,"Comedy, Drama, Romance",135,504018,55.0,2000s
+990,Moneyball,2011,7.6,"Biography, Drama, Sport",133,441630,87.0,2010s
+991,The Blind Side,2009,7.6,"Biography, Drama, Sport",129,345792,53.0,2000s
+992,Stardust,2007,7.6,"Adventure, Family, Fantasy",127,277862,66.0,2000s
+993,A Star Is Born,2018,7.6,"Drama, Music, Romance",136,399117,88.0,2010s
+994,Saw,2004,7.6,"Horror, Mystery, Thriller",103,436662,46.0,2000s
+995,Harry Potter and the Half-Blood Prince,2009,7.6,"Action, Adventure, Family",153,566356,78.0,2000s
+996,The Others,2001,7.6,"Horror, Mystery, Thriller",104,377725,74.0,2000s
+997,The Godfather Part III,1990,7.6,"Crime, Drama",162,408911,60.0,1990s
+998,Inside Man,2006,7.6,"Crime, Drama, Mystery",129,384826,76.0,2000s
+999,Train to Busan,2016,7.6,"Action, Horror, Thriller",118,236111,73.0,2010s
