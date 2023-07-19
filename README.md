@@ -16,7 +16,7 @@ Some questions I answer are:<br>
 - Does runtime correlate to rating?<br>
 - What year/decade has the most top 1000 movies? / What year/decade averages the highest rating?<br>
 <br><br><br>
-The dataset description can be found in the txt file. Watch this demo video <s>here</s> to listen to me explain my findings. Access the Tableau story <a href="https://public.tableau.com/app/profile/sabrina.baccam/viz/FreshTomatoes/Story1">here</a>.
+The dataset description can be found in the txt file. Watch this demo video <a href="https://www.youtube.com/watch?v=KBxkjmO83fE">here</a> to listen to me explain my findings. Access the Tableau story <a href="https://public.tableau.com/app/profile/sabrina.baccam/viz/FreshTomatoes/Story1">here</a>.
 <br><hr><br>
 <h2><strong>Tech stack:</strong></h2>
 Languages: Python<br>
